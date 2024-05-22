@@ -31,7 +31,7 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
 
     img = Image.open(original_image_path)
     img_gray = Image.open(original_image_path_to_overlay).convert('L')
-    img_masked = Image.open('/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/' + desired_img)
+    img_masked = Image.open('./output_folder/' + desired_img)
 
     balloon_result = run_balloon_model(balloon_model, desired_img)
 
@@ -90,11 +90,11 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
 
     blur_strength = 19
     for balloon_nr in range(len(balloon_coordinates_list)):
-        input_cropped_image_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/cropped_image_" + str(balloon_nr+1) + ".png" 
-        output_original_corners_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/original_corners_" + str(balloon_nr+1) + ".png"
-        output_blurred_corners_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/blurred_corners" + str(balloon_nr+1) + ".png"
-        output_difference_region_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/difference_region_" + str(balloon_nr+1) + ".png"
-        output_marked_image_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/marked_image" + str(balloon_nr+1) + ".png"
+        input_cropped_image_path = "./output_folder/images_cropped/original/cropped_image_" + str(balloon_nr+1) + ".png" 
+        output_original_corners_path = "./output_folder/images_cropped/original/original_corners_" + str(balloon_nr+1) + ".png"
+        output_blurred_corners_path = "./output_folder/images_cropped/original/blurred_corners" + str(balloon_nr+1) + ".png"
+        output_difference_region_path = "./output_folder/images_cropped/original/difference_region_" + str(balloon_nr+1) + ".png"
+        output_marked_image_path = "./output_folder/images_cropped/original/marked_image" + str(balloon_nr+1) + ".png"
         
         original_cropped_image = cv2.imread(input_cropped_image_path)
         
@@ -120,8 +120,8 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
         mark_tail_point(original_cropped_image, tail_point, output_marked_image_path)
 
         ## TRIANGLE WITH SMALLEST ANGLE
-        output_contour_corners_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/contour_corners" + str(balloon_nr + 1) +".png"
-        output_marked_triangle_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/marked_triangle" + str(balloon_nr + 1) + ".png"
+        output_contour_corners_path = "./output_folder/images_cropped/original/contour_corners" + str(balloon_nr + 1) +".png"
+        output_marked_triangle_path = "./output_folder/images_cropped/original/marked_triangle" + str(balloon_nr + 1) + ".png"
         
         # Find and save contour with corners of the original image
         contour, corners = find_contour_with_corners(original_cropped_image)
@@ -141,7 +141,7 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
     for balloon_nr in range(len(balloon_coordinates_list)): 
         
         # Specify the paths
-        output_visualization_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/extended_lines" + str(balloon_nr+1) + ".png"
+        output_visualization_path = "/output_folder/images_cropped/original/extended_lines" + str(balloon_nr+1) + ".png"
 
         # Coordinates of the contour in the original image corresponding to the cropped image
         contour_coordinates = coords_crop_from_org_balloons[balloon_nr]
@@ -249,7 +249,7 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
 
 
         # Save or display the modified image
-        cv2.imwrite("/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/balloon_char_association" + str(balloon_nr + 1) + ".png", original_image)
+        cv2.imwrite("/output_folder/images_cropped/original/balloon_char_association" + str(balloon_nr + 1) + ".png", original_image)
         balloon_nr += 1
 
     #print(detected_chars)
@@ -376,7 +376,7 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
 
     texts_in_balloons = []
     for i in range(len(balloon_coordinates_list)):
-        image_filename = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/cropped_image_" + str(i+1) + ".png"
+        image_filename = "./output_folder/images_cropped/original/cropped_image_" + str(i+1) + ".png"
 
         # reading the image
         img = cv2.imread(image_filename)
@@ -447,11 +447,11 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
             cropped_img = img[y:y+h, x:x+w]
  
             if (idx >= 10) & (cropped_img.size > 0):
-                cv2.imwrite(f'/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/textboxes/balloon_{i}_text_box_{idx}.png', cropped_img)
+                cv2.imwrite(f'./output_folder/images_cropped/textboxes/balloon_{i}_text_box_{idx}.png', cropped_img)
             elif (len(cropped_img) == 0) | (cropped_img.size == 0):
                 continue;
             else:
-                cv2.imwrite(f'/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/textboxes/balloon_{i}_text_box_0{idx}.png', cropped_img)
+                cv2.imwrite(f'./output_folder/images_cropped/textboxes/balloon_{i}_text_box_0{idx}.png', cropped_img)
         text_full = ""
         for detected in detected_text_list:
             text_full = text_full + detected[0] + " "
@@ -464,7 +464,7 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
                 file.write(f"{det} [{round(conf, 2)}] - Bounding Box: {xy}\n")
 
         # Show the plot
-        #plt.savefig(f'/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/plot_{i}.png')
+        #plt.savefig(f'./output_folder/images_cropped/original/plot_{i}.png')
     '''
     for i in range(len(texts_in_balloons)):
         print("Balloon nr:", i+1)
@@ -476,14 +476,12 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
         print("\n")
     '''
 
-    ## EĞER BALONDAKİ YAZI ALGILANMAZSA VE TEXTBOX OLARAK KAYDEDİLEMEYECEKSE; BALONUN KENDİSİ TEXTBOX OLARAK KAYDEDİLSİN
-    ## BUARADA BALONLARIN SIRALAMASI SIKINTI YARATABİLİR!!!
     if "" in texts_in_balloons:
         un_ind = texts_in_balloons.index("")
         
-        img_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/cropped_image_" + str(un_ind+1) + ".png"
+        img_path = "./output_folder/images_cropped/original/cropped_image_" + str(un_ind+1) + ".png"
         img = cv2.imread(img_path)
-        cv2.imwrite(f'/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/textboxes/balloon_{un_ind}_text_box_00.png', img)
+        cv2.imwrite(f'./output_folder/images_cropped/textboxes/balloon_{un_ind}_text_box_00.png', img)
     
     ## EXCLAMATION & QUESTION MARK MODEL RUNS
     possible_exc_balloons = []
@@ -514,13 +512,13 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
         return text
 
     for i in range(len(balloon_coordinates_list)):
-        image_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/cropped_image_" + str(i+1) + ".png"
+        image_path = "./output_folder/images_cropped/original/cropped_image_" + str(i+1) + ".png"
         result = read_text_from_image(image_path)
 
         #print("Text from speech balloon", str(i+1), ":", result.replace('\n', ' '))
 
     # Assuming your files are in the current directory
-    directory = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/textboxes"
+    directory = "./output_folder/images_cropped/textboxes"
 
     # Get a list of all filenames in the directory
     files = os.listdir(directory)
@@ -552,7 +550,7 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
             box_class = parts[4].split(".")[0]
             item = balloon_class + "_text_box_" + box_class + ".png"
             
-            url = '/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/textboxes/' + item
+            url = './output_folder/images_cropped/textboxes/' + item
             image = Image.open(url).convert("RGB")
 
             if image.size[1] <= 1:
@@ -619,34 +617,16 @@ def operations(original_image_path, original_image_path_to_overlay, desired_img,
         print("\t", "Balloon number",i+1, " -> conf:", round(float(balloon_result[0].boxes.conf[i]),3))
         balloon_conf.append(round(float(balloon_result[0].boxes.conf[i]),3))
 
-    print("\nC. ALT BALLOON ASSOCIATIONS\n")
+    print("\nC. BALLOON ASSOCIATIONS\n")
     for i in range(len(balloon_texts_list)):
          print("\t","Balloon number", str(i+1), " ->", associated_chars_dict[i])
 
     print("\nC. BALLOON ASSOCIATIONS\n")
 
-    associated_balloon_nrs = []
-    associated_chars_list = []
-    for i in range(len(balloon_texts_list)):
-        if i in associated_balloons_final:
-            print("\t","Balloon number", str(i+1), " ->", detected_chars[associated_chars_final[associated_balloons_final.index(i)]])
-            associated_chars_list.append(detected_chars[associated_chars_final[associated_balloons_final.index(i)]])
-            associated_balloon_nrs.append(str(i+1))
-        else:
-            print("\t","Balloon number", str(i+1), " -> NaN")
-            associated_chars_list.append("NaN") 
 
-    print("\nD. ALT TEXT DETECTION\n")
+    print("\nD. TEXT DETECTION\n")
     for i in range(len(balloon_texts_list)):
          print(associated_chars_dict[i], "->", balloon_texts_list[i].strip())    
     
-
-    print("\nD. TEXT DETECTION\n")
-
-    for i in range(len(balloon_texts_list)):
-        if i in associated_balloons_final:
-            print("\t", detected_chars[associated_chars_final[associated_balloons_final.index(i)]], ":\t", balloon_texts_list[i].strip())
-        else:
-            print("\t", "NaN:\t",  balloon_texts_list[i].strip())
 
     return detected_chars, char_conf, balloon_conf, detected_balloon_nr, associated_balloon_nrs, associated_chars_dict, balloon_texts_list, balloon_to_panel_ratio, panel_width, panel_length, panel_area
