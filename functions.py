@@ -48,7 +48,7 @@ def crop_and_save(character_result, balloon_result, img, img_gray):
         img_cropped = img.crop(coords)
         character_coords_cropped.append(coords)
         img_name = "img_cropped_char" + str(cropped_img_count) + ".png"
-        img_cropped.save('/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/cropped/' + img_name)
+        img_cropped.save('./output_folder/images_cropped/cropped/' + img_name)
         
     cropped_img_count = 0
     for box in balloon_result:  #balloon_result[0].boxes.xyxy
@@ -61,7 +61,7 @@ def crop_and_save(character_result, balloon_result, img, img_gray):
         img_cropped = img_gray.crop(coords)
         balloon_coordinates_list.append(coords)
         img_name = "img_cropped_" + str(cropped_img_count) + ".png"
-        img_cropped.save('/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/cropped/' + img_name)
+        img_cropped.save('./output_folder/images_cropped/cropped/' + img_name)
         
     return character_coords_cropped, balloon_coordinates_list
 
