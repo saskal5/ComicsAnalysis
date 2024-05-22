@@ -37,7 +37,7 @@ def run_char_model(model, book, image):
 
 def load_balloon_model():
     # Your model loading code
-    model = YOLO('./models/speech_balloons_hq_masked/runs/detect/train/weights/best.pt')
+    model = YOLO('./models/YOLOv8_balloon_best.pt')
     return model
 
 def run_balloon_model(model, image):
@@ -50,7 +50,7 @@ def run_balloon_model(model, image):
 ### EXPRESSION DETECTION
 
 def load_expression_model():
-    model = YOLO('./models/exclamation_question.v1i.yolov8/runs/detect/train/weights/best.pt')
+    model = YOLO('./models/YOLOv8_expression_best.pt.pt')
     return model
 
 def run_expression_model(model, ind):
