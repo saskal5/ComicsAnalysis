@@ -16,15 +16,15 @@ trocr_model = load_trocr_model()
 reader = easyocr.Reader(['en'])
 
 # TO OVERLAY
-masked_output_folder = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels"
-#original_image_path_to_overlay = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/" + desired_img
-cropped_images_folder = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/cropped"
-output_path_to_overlay = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/result/result_overlay.png"
-output_image_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/result/char_result_overlay.png"
+masked_output_folder = "/output_folder"
+#original_image_path_to_overlay = "/output_folder/" + desired_img
+cropped_images_folder = "/output_folder/images_cropped/cropped"
+output_path_to_overlay = "output_folder/images_cropped/result/result_overlay.png"
+output_image_path = "/output_folder/images_cropped/result/char_result_overlay.png"
 
 # CROP ORIGINAL IMAGE
-#original_image_path = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/" + desired_img
-output_folder = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/"
+#original_image_path = "/output_folder/images_cropped/original/" + desired_img
+output_folder = "/output_folder/images_cropped/original/"
 
 book = 'T_15'
 panels_folder = "/Users/azatsaskal/Documents/UGent/Masters Thesis/PDFs_HQ/"
@@ -50,7 +50,7 @@ def main():
         # Write header
         writer.writeheader()
         for file in files:
-            original_image_path_to_overlay = "/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/" + file
+            original_image_path_to_overlay = "/output_folder/" + file
             
             url = panels_folder + book + "/" + file
             original_image_path = url
@@ -79,10 +79,10 @@ def main():
             ## OPERATIONS
             det_chars, ch_conf, b_conf, det_balloon_nr, ass_balloon_nrs, ass_chars, all_texts, b_to_panel_rat, p_width, p_length, p_area = operations(original_image_path, original_image_path_to_overlay, file, book, char_model, balloon_model, character_result, cropped_images_folder, output_path_to_overlay, output_image_path, output_folder, masked_output_folder, reader, expression_model, trocr_processor, trocr_model)
             
-            delete_files_in_folder("/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original")
-            delete_files_in_folder("/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/textboxes")
-            delete_files_in_folder("/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/result")
-            delete_files_in_folder("/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/cropped/")
+            delete_files_in_folder("/output_folder/images_cropped/original")
+            delete_files_in_folder("/output_folder/images_cropped/textboxes")
+            delete_files_in_folder("/output_folder/images_cropped/result")
+            delete_files_in_folder("/output_folder/images_cropped/cropped/")
 
             row = {"book": book, 
                 "page": page_nr,
