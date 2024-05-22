@@ -19,7 +19,7 @@ def load_trocr_model():
 
 def load_char_model():
     # Your model loading code
-    model = YOLO('./models/tintin_hq.v3i.yolov8/runs/detect/train/weights/last.pt')
+    model = YOLO('./models/YOLOv8_V2_best.pt')
     return model
 
 def run_char_model(model, book, image):
