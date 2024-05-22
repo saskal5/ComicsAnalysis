@@ -19,8 +19,7 @@ def load_trocr_model():
 
 def load_char_model():
     # Your model loading code
-    #model = YOLO('/Users/azatsaskal/Documents/UGent/Masters Thesis/tintin_hq.v3i.yolov8/runs/detect/train/weights/last.pt')
-    model = YOLO('/Users/azatsaskal/Documents/UGent/Masters Thesis/tintin_hq.v3i.yolov9/yolov9/best.pt')
+    model = YOLO('./models/tintin_hq.v3i.yolov8/runs/detect/train/weights/last.pt')
     return model
 
 def run_char_model(model, book, image):
@@ -31,19 +30,19 @@ def run_char_model(model, book, image):
     result = model('/Users/azatsaskal/Documents/UGent/Masters Thesis/PDFs_HQ/' + book + "/" + image, 
                                         conf=char_model_conf, 
                                         save=False,
-                                        project= '/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/')
+                                        project= './output_folder/images_cropped/')
     return result
 
 ### SPEECH BALLOON DETECTION
 
 def load_balloon_model():
     # Your model loading code
-    model = YOLO('/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/runs/detect/train/weights/best.pt')
+    model = YOLO('./models/speech_balloons_hq_masked/runs/detect/train/weights/best.pt')
     return model
 
 def run_balloon_model(model, image):
     # Your model loading code
-    result = model('/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/' + image, 
+    result = model('./output_folder/' + image, 
                                            conf=balloon_model_conf, 
                                            save=True)
     return result
@@ -51,11 +50,11 @@ def run_balloon_model(model, image):
 ### EXPRESSION DETECTION
 
 def load_expression_model():
-    model = YOLO('/Users/azatsaskal/Documents/UGent/Masters Thesis/exclamation_question.v1i.yolov8/runs/detect/train/weights/best.pt')
+    model = YOLO('./models/exclamation_question.v1i.yolov8/runs/detect/train/weights/best.pt')
     return model
 
 def run_expression_model(model, ind):
-    result = model("/Users/azatsaskal/Documents/UGent/Masters Thesis/speech_balloons_hq_masked/test_random_panels/images_cropped/original/cropped_image_" + str(ind+1) + ".png", 
+    result = model("./output_folder/images_cropped/original/cropped_image_" + str(ind+1) + ".png", 
                                            conf=exp_model_conf, 
                                            save=False)
     return result
