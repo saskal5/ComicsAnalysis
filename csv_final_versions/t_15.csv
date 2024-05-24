@@ -1,0 +1,875 @@
+book,page,img,panel_area,panel_width,panel_length,balloon_to_panel_ratio,detected_chars,character_model_confidence,balloon_model_confidence,detected_balloon_numbers,associated_balloon_numbers,associated_characters,text
+T_15,1,ROI_29.png,139200,320,435,0.0,[],['NONE'],[],0,[],{},[]
+T_15,1,ROI_30.png,169215,389,435,0.105,[],['NONE'],[0.817],1,[],{0: 'NaN'},"[""alright. I'm coming!. ""]"
+T_15,1,ROI_31.png,263344,604,436,0.078,"['t-t', 't-t']","[0.945, 0.924]","[0.896, 0.721]",2,['2'],"{0: 'NaN', 1: 't-t'}","[""That's all?. "", 'Three litres. ']"
+T_15,1,ROI_32.png,119301,273,437,0.228,[],['NONE'],[0.947],1,[],{0: 'NaN'},['and keep few drops to fill my lighter. ']
+T_15,1,ROI_33.png,156009,357,437,0.204,['t-t'],[0.979],"[0.935, 0.6]",2,[],"{0: 'NaN', 1: 'NaN'}","['there, your lordship.... ', 'there, your lordship. ']"
+T_15,1,ROI_34.png,162192,372,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,1,ROI_35.png,128620,295,436,0.248,"['t-t', 't-t']","[0.9, 0.881]","[0.934, 0.903]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""let's put it'll be jollier.... "", 'there! ']"
+T_15,1,ROI_36.png,185240,421,440,0.24,"['t-t', 't-t']","[0.815, 0.728]",[0.948],1,[],{0: 'NaN'},"[""boom.... When your motor. goes boom.... just call recovery zoom.... They'll come to you quick. ""]"
+T_15,1,ROI_37.png,164625,375,439,0.202,"['t-t', 't-t']","[0.985, 0.983]","[0.937, 0.879]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['Boom. When your motor goes Boom.... ', 'boom. ']"
+T_15,1,ROI_38.png,228719,521,439,0.024,[],['NONE'],[0.908],1,[],{0: 'NaN'},['!']
+T_15,2,ROI_40.png,241560,549,440,0.035,"['t-t', 't-t']","[0.961, 0.903]","[0.93, 0.87]",2,['2'],"{0: 'NaN', 1: 't-t'}","['?', '?']"
+T_15,2,ROI_41.png,187000,425,440,0.316,"['t-t', 't-t']","[0.982, 0.965]","[0.941, 0.681]",2,['1'],"{0: 't-t', 1: 'NaN'}","[""it's hardly the moment to crack jokes... We must find breakdown vehicle.... "", 'Now I know why one calls it an internal combustion enginely ']"
+T_15,2,ROI_42.png,154261,353,437,0.146,"['t-t', 't-t']","[0.984, 0.978]","[0.862, 0.637]",2,['1'],"{0: 't-t', 1: 'NaN'}","['quite. but where? ', 'precisely, quietement ']"
+T_15,2,ROI_43.png,132624,307,432,0.202,"['t-t', 't-t']","[0.983, 0.936]",[0.942],1,['1'],{0: 't-t'},['saved. telephone box! ']
+T_15,2,ROI_44.png,84240,195,432,0.0,[],['NONE'],[],0,[],{},[]
+T_15,2,ROI_45.png,168870,390,433,0.0,[],['NONE'],[],0,[],{},[]
+T_15,2,ROI_46.png,176710,410,431,0.173,[],['NONE'],[0.949],1,[],{0: 'NaN'},"['hello. \' Zoom "" recovery services. help. young. yes. "" 10 mile marker... Mr. Thompson. ']"
+T_15,2,ROI_47.png,203510,470,433,0.137,"['t-t', 't-t']","[0.919, 0.859]","[0.931, 0.897]",2,['1'],"{0: 't-t', 1: 'NaN'}","['well?. ', 'the be here im quarters. an hour. ']"
+T_15,2,ROI_48.png,182736,423,432,0.13,"['t-t', 't-t']","[0.972, 0.969]",[0.935],1,['1'],{0: 't-t'},"[""Meantime, let's have cigarette.... ""]"
+T_15,2,ROI_49.png,181038,422,429,0.058,"['t-t', 't-t']","[0.962, 0.931]",[0.914],1,['1'],{0: 't-t'},['thanks. ']
+T_15,2,ROI_50.png,192717,441,437,0.0,"['t-t', 't-t']","[0.957, 0.954]",[],0,[],{},[]
+T_15,2,ROI_51.png,159505,365,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,2,ROI_52.png,223890,510,439,0.046,"['t-t', 't-t']","[0.957, 0.84]","[0.936, 0.925]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['?', '?']"
+T_15,3,ROI_54.png,145958,334,437,0.406,['tintin'],[0.931],[0.903],1,['1'],{0: 'tintin'},"['"" Crisis deepens, minister says "" "" Will there be war? \' \' Are we "" Call-up. of reserve. standby. Well, well. That\'s all. very cheerful stuff.... ']"
+T_15,3,ROI_56.png,188355,433,435,0.0,['haddock'],[0.922],[],0,[],{},[]
+T_15,3,ROI_57.png,61864,296,209,0.541,['tintin'],[0.878],[0.621],1,[],{0: 'NaN'},"[""Goodbye, Captain.... and good luck. Let's hope it's just false alarm.... ""]"
+T_15,3,ROI_58.png,63710,230,277,0.419,['tintin'],[0.887],[0.856],1,['1'],{0: 'tintin'},"['hello?. yes. oh, good evening captain. things?. new?. ']"
+T_15,3,ROI_59.png,63344,296,214,0.0,['tintin'],[0.977],[],0,[],{},[]
+T_15,3,ROI_60.png,186120,423,440,0.065,"['t-t', 't-t', 'tintin']","[0.981, 0.955, 0.905]",[0.839],1,['1'],{0: 'tintin'},['why. good morning. what newsp ']
+T_15,3,ROI_61.png,219061,499,439,0.385,"['t-t', 't-t', 'tintin']","[0.987, 0.983, 0.949]","[0.971, 0.834, 0.704]",3,"['1', '2', '3']","{0: 'tintin', 1: 't-t', 2: 't-t'}","['really?. about it. take a chair. ', 'To be precise : We to be strangel. ', 'what news?. Something very strange just happened to us! ']"
+T_15,3,ROI_62.png,169168,388,436,0.258,"['t-t', 't-t', 'tintin']","[0.983, 0.976, 0.915]",[0.972],1,['1'],{0: 't-t'},"[""Well, there we were.... we'd adjust t got some and were motoring along happily when, suddenly, without any warning. our engine went.... ""]"
+T_15,3,ROI_63.png,195283,451,433,0.0,"['t-t', 't-t', 'tintin']","[0.981, 0.969, 0.833]",[],0,[],{},[]
+T_15,3,ROI_64.png,184450,425,434,0.0,[],['NONE'],[],0,[],{},[]
+T_15,3,ROI_65.png,186608,428,436,0.197,"['t-t', 'tintin', 't-t']","[0.982, 0.957, 0.95]","[0.949, 0.782]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""Yes, and that's not all.. "", ""so it seems. That's exactly what happened to us. ""]"
+T_15,3,ROI_66.png,204700,460,445,0.308,"['t-t', 't-t', 'tintin']","[0.983, 0.969, 0.949]","[0.91, 0.697]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","[""Then it's the petrol that. "", 'A few moments later, my lighter, which had just filled at the same pump. exploded in my hands. ']"
+T_15,3,ROI_67.png,194034,438,443,0.453,"['t-t', 't-t', 'tintin']","[0.972, 0.959, 0.883]",[0.875],1,['1'],{0: 't-t'},"['Has been tampered with, yes. That\'s what we thought is a member of the streets between And if it has been doctored. it has by someone who has am. in motors exploding! always. remember the old \' police proverb : "" Look for the person "" who against from the crime. ']"
+T_15,3,ROI_68.png,180400,410,440,0.363,"['t-t', 't-t']","[0.958, 0.892]","[0.968, 0.959]",2,['2'],"{0: 'NaN', 1: 't-t'}","['5. "" ', ""Now, in this whole business, against who? Why, the service, that's who! ""]"
+T_15,4,ROI_70.png,213003,483,441,0.457,"['t-t', 'tintin']","[0.971, 0.863]","[0.91, 0.764]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","[""well, that's quite possible. but. "", ""Yes, I'm convinced that petrol has been tampered with by drivers whose cars have exploded are obliged to call for a recovery vehicle. Then, thanks to its high profile advertising campaign. they : go straight. to ""]"
+T_15,4,ROI_71.png,201080,457,440,0.379,"['t-t', 't-t', 'tintin']","[0.978, 0.975, 0.944]","[0.958, 0.827]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","['wish you the best of luck. ', ""No puts, it's certain. We're going to launch an investigation and, within the week, we'll have gathered enough evidence to have the directors zoom. ""]"
+T_15,4,ROI_72.png,165300,380,435,0.176,"['t-t', 't-t']","[0.98, 0.979]",[0.923],1,['1'],{0: 't-t'},"[""and to begin. with. we'll have a look round ""]"
+T_15,4,ROI_73.png,91140,210,434,0.0,[],['NONE'],[],0,[],{},[]
+T_15,4,ROI_74.png,144956,334,434,0.1,"['t-t', 't-t']","[0.909, 0.824]",[0.882],1,['1'],{0: 't-t'},['shall we take a look?.... ']
+T_15,4,ROI_75.png,149296,344,434,0.308,['t-t'],[0.705],[0.878],1,['1'],{0: 't-t'},['wanted Experienced drivers with good mechanical know-how to operate recovery vehicles. Apply within. zoom ']
+T_15,4,ROI_76.png,180429,411,439,0.321,"['t-t', 't-t']","[0.987, 0.983]","[0.921, 0.903]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""Tell me, what do you think?. That could be an excellent way of getting inside. and observing what's going on.... "", 'Good idea. ']"
+T_15,4,ROI_77.png,241544,554,436,0.144,[],['NONE'],"[0.888, 0.685]",2,[],"{0: 'NaN', 1: 'NaN'}","[""So, you've understood what escactly you have to do?. "", 'why certainly. chief. ']"
+T_15,4,ROI_78.png,108750,250,435,0.246,"['tintin', 'snowy']","[0.941, 0.794]","[0.953, 0.937]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","[""must say I'm interested in this business about doctored "", 'UNKNOWN']"
+T_15,4,ROI_79.png,132240,304,435,0.353,"['tintin', 'snowy']","[0.882, 0.746]","[0.922, 0.769]",2,"['1', '2']","{0: 'tintin', 1: 'snowy'}","[""I'm really keen to try and to the bottom of it.l. get "", ""you're not getting involved in another adventure. you?. want some peace and ""]"
+T_15,4,ROI_80.png,82894,191,434,0.0,[],['NONE'],[],0,[],{},[]
+T_15,4,ROI_81.png,166192,376,442,0.112,['tintin'],[0.956],[0.922],1,['1'],{0: 'tintin'},['would like to see the Managing Director.... ']
+T_15,4,ROI_82.png,107406,243,442,0.254,[],['NONE'],[0.947],1,[],{0: 'NaN'},['hello? recovery services.... yes. right.... for Mr. 2 ']
+T_15,4,ROI_83.png,307632,696,442,0.086,[],['NONE'],[0.819],1,[],{0: 'NaN'},['thomsomil. recovery vehicle. thatier. has broken down.... ']
+T_15,5,ROI_85.png,219232,496,442,0.32,[],['NONE'],"[0.923, 0.856]",2,[],"{0: 'NaN', 1: 'NaN'}","['Well, my friend, the situation nothing of catastrophic!. ', 'would like to have your views, sir. on the situation arising from the deterioration in petrol ']"
+T_15,5,ROI_86.png,176400,400,441,0.267,[],['NONE'],[0.982],1,[],{0: 'NaN'},"[""See for yourself. ' past 6590. drop every As recently as this morning.... ""]"
+T_15,5,ROI_87.png,183430,415,442,0.544,[],['NONE'],[0.871],1,[],{0: 'NaN'},"['The airline companies have decided to suspend all flights because of the risks of accident posed by the use of volatile fuel.... Share values of oil companies have plunged by a half!... Some oil wells have already tell you again : the situation catastrophic, ']"
+T_15,5,ROI_88.png,168245,385,437,0.625,[],['NONE'],[0.801],1,[],{0: 'NaN'},"['Furthermore, take into account the currently strained international climate. Imagine if war broke out tomorrow.... One can see the consequences immediately!. air force, transport, tanks, in short, the whole armed forces would be paralysed!.. ']"
+T_15,5,ROI_89.png,218665,505,433,0.231,['tintin'],[0.917],[0.958],1,[],{0: 'NaN'},"[""Well, that's the million dollar question!. Methods of extraction and refining haven't changed. initially thought it must be sabotage. ""]"
+T_15,5,ROI_90.png,181030,421,430,0.58,[],['NONE'],[0.742],1,[],{0: 'NaN'},"['we therefore took samples from pumping stations, from storage depots and from oil tankers, subjecting them all to analysis.... But to no avail.. of preventing the petrol from exploding. Our laboratories are working day and night to try and resolve the problem and I.... ']"
+T_15,5,ROI_91.png,183103,419,437,0.06,['tintin'],[0.874],"[0.83, 0.819]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['?', '?']"
+T_15,5,ROI_92.png,206769,471,439,0.418,['tintin'],[0.868],[0.849],1,[],{0: 'NaN'},['another was IP. exploding. My laboratory director assured me that his research was on the verge of a break He might call at any moment to tell me if he has succeeded.... ']
+T_15,5,ROI_93.png,183920,418,440,0.198,['tintin'],[0.886],"[0.949, 0.881]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['please carry on.... ', 'That must be him!.... Will you excuse me?.... ']"
+T_15,5,ROI_94.png,182185,415,439,0.319,['tintin'],[0.813],[0.972],1,[],{0: 'NaN'},"[""hello?. have you ygot succeeded?. Yes, that's most unfortunate. well, it's just a matter of time.... ""]"
+T_15,5,ROI_95.png,178605,405,441,0.268,[],['NONE'],[0.97],1,[],{0: 'NaN'},['what?. with your research?. But of course! That goes without saying!. Why do you ask : ']
+T_15,5,ROI_96.png,216480,492,440,0.179,[],['NONE'],[0.816],1,[],{0: 'NaN'},"[""Because in that case, sir, you'll have to consider installing ""]"
+T_15,6,ROI_98.png,185220,420,441,0.394,"['tintin', 'snowy']","[0.935, 0.912]","[0.878, 0.857]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Analysis of the petrol revealed nothing then.... But what if an additive was used that left no trace?... Snowy, old boy. this evening we'll take a stroll around those storage tanks.... "", 'general biliation General mobilisation. ']"
+T_15,6,ROI_99.png,199760,454,440,0.305,"['t-t', 't-t']","[0.956, 0.945]","[0.843, 0.802]",2,[],"{0: 'NaN', 1: 'NaN'}","['thursday 18 august ', ""ice. There was ice, Do you take me for an imbecile?. but watch out.!. understand?. Go and check the tyre pressure on the director's car. ""]"
+T_15,6,ROI_100.png,197560,449,440,0.185,[],['NONE'],[0.82],1,[],{0: 'NaN'},"[""In the end, this is better, staying in the garage, we'll pick up quicker.... ""]"
+T_15,6,ROI_101.png,194922,442,441,0.244,[],['NONE'],"[0.931, 0.749]",2,[],"{0: 'NaN', 1: 'NaN'}","[""ssh. ). It's the director. "", ""Just a moment, sir. they, i're checking the tyre pressure. ""]"
+T_15,6,ROI_102.png,196690,445,442,0.19,[],['NONE'],"[0.89, 0.732]",2,[],"{0: 'NaN', 1: 'NaN'}","['Afraid son. ', ""What's the news, Vic?... As bad as ever?.... ""]"
+T_15,6,ROI_103.png,190944,432,442,0.209,[],['NONE'],[0.758],1,[],{0: 'NaN'},"[""Oh! It's depressing.... of war.... And they say it could blow up from one moment to the next. ""]"
+T_15,6,ROI_104.png,106722,242,441,0.0,['t-t'],[0.738],[],0,[],{},[]
+T_15,6,ROI_105.png,287532,652,441,0.0,[],['NONE'],[],0,[],{},[]
+T_15,6,ROI_106.png,188734,427,442,0.0,"['t-t', 't-t']","[0.967, 0.921]",[],0,[],{},[]
+T_15,6,ROI_107.png,159310,358,445,0.0,[],['NONE'],[],0,[],{},[]
+T_15,6,ROI_108.png,199350,450,443,0.067,['tintin'],[0.715],[0.971],1,['1'],{0: 'tintin'},['Ah.l There are the storage tanks. ']
+T_15,6,ROI_109.png,226373,511,443,0.057,[],['NONE'],"[0.889, 0.853]",2,[],"{0: 'NaN', 1: 'NaN'}","['UNKNOWN', 'fuuii it ']"
+T_15,7,ROI_111.png,197111,449,439,0.164,[],['NONE'],"[0.963, 0.851]",2,[],"{0: 'NaN', 1: 'NaN'}","['Yes, there, and you, have you 1907 the money? ', ""Ah. You're here. have you sgt the necessary?. ""]"
+T_15,7,ROI_112.png,166552,382,436,0.13,['tintin'],[0.797],[0.92],1,[],{0: 'NaN'},"['Yes, the "" Speedol Star\' sets sail. in the afternoon. ']"
+T_15,7,ROI_113.png,105964,236,449,0.0,[],['NONE'],[],0,[],{},[]
+T_15,7,ROI_114.png,124696,286,436,0.182,[],['NONE'],[0.938],1,[],{0: 'NaN'},"[""If someone's listening. he's had it.l. ""]"
+T_15,7,ROI_115.png,154000,350,440,0.139,[],['NONE'],[0.877],1,[],{0: 'NaN'},['Oh! It was only a dog!. Just as well.. ']
+T_15,7,ROI_116.png,114400,260,440,0.387,[],['NONE'],"[0.913, 0.717]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Let's not hang around any longer. we might be caught. goodbye! "", 'goodbye, and the best of luck. ']"
+T_15,7,ROI_117.png,148821,339,439,0.366,"['snowy', 'tintin']","[0.792, 0.754]",[0.944],1,[],{0: 'NaN'},"[""Thanks to you, snowy. tgot away with it!.... and think we're on the right track. Now, let's telephone the director of Speedol. ""]"
+T_15,7,ROI_118.png,163875,375,437,0.505,[],['NONE'],[0.905],1,[],{0: 'NaN'},"['Hellop. Speaking. Ahl Good evening, my dear Tintin!. a lead.... you irre onto something?. You plan to do that?. But you know war may break What are you saying?. Aboard the Speedol Star : As radio officer?.... ']"
+T_15,7,ROI_119.png,230475,525,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,7,ROI_120.png,139602,318,439,0.31,['haddock'],[0.869],"[0.945, 0.893]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""Ah. You're the new radio officer?.... would have thought. "", 'er. you think. ']"
+T_15,7,ROI_121.png,214767,487,441,0.504,['haddock'],[0.851],[0.651],1,[],{0: 'NaN'},"['Hello, Thompson?. riley. here, Special Branch.... You\'ve got orders to embark as sailors on the oil tanker "" Speedol star. \' bound for Khemikhal, the main export of Khomed. There\'s a brawl down there between Emir Ben Kalish Ezab and Sheikh Bab El Ehr, who\'s trying to overthrow him.... point. ']"
+T_15,7,ROI_122.png,182684,419,436,0.197,"['t-t', 't-t']","[0.981, 0.98]","[0.921, 0.854]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""Yes, we've just t got to packed up.... ourselves "", 'Did you hear that?.... ']"
+T_15,7,ROI_123.png,408850,925,442,0.0,[],['NONE'],[],0,[],{},[]
+T_15,8,ROI_126.png,152950,350,437,0.138,"['t-t', 'haddock']","[0.941, 0.758]",[0.899],1,['1'],{0: 't-t'},"['say, my , good man, show. us ']"
+T_15,8,ROI_127.png,182208,416,438,0.0,"['t-t', 't-t']","[0.9, 0.838]",[],0,[],{},[]
+T_15,8,ROI_128.png,245840,560,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,8,ROI_129.png,186560,424,440,0.237,['haddock'],[0.919],[0.933],1,['1'],{0: 'haddock'},"['And the next time you address me, you better say "" Captain "". ). Got it?. ']"
+T_15,8,ROI_130.png,121326,277,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,8,ROI_131.png,273936,624,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,8,ROI_132.png,186588,426,438,0.264,['t-t'],[0.902],"[0.941, 0.848]",2,['2'],"{0: 'NaN', 1: 't-t'}","[""a brute?. To be precise : brute indeed.. But one has to admit that he's found his sea legs! "", 'What a brutal ']"
+T_15,8,ROI_133.png,224694,513,438,0.153,[],['NONE'],[0.947],1,[],{0: 'NaN'},['And now we must be careful not to attract attention and mingle discreetly with the rest of the crew.... ']
+T_15,8,ROI_134.png,171600,390,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,8,ROI_135.png,192276,436,441,0.0,[],['NONE'],[],0,[],{},[]
+T_15,8,ROI_136.png,169990,382,445,0.0,[],['NONE'],[],0,[],{},[]
+T_15,8,ROI_137.png,225132,514,438,0.109,['snowy'],[0.905],[0.756],1,[],{0: 'NaN'},"[""What the dickens. That's the dog night!. ""]"
+T_15,9,ROI_139.png,129944,296,439,0.213,[],['NONE'],"[0.903, 0.716]",2,[],"{0: 'NaN', 1: 'NaN'}","['Just a coincidence, perhaps.... All the same, mist be careful. ', 'UNKNOWN']"
+T_15,9,ROI_140.png,128040,291,440,0.182,[],['NONE'],[0.925],1,[],{0: 'NaN'},['need to find better. hiding. place for the parcel. ']
+T_15,9,ROI_141.png,177795,405,439,0.066,[],['NONE'],[0.7],1,[],{0: 'NaN'},['58 ']
+T_15,9,ROI_142.png,146080,332,440,0.197,[],['NONE'],"[0.922, 0.806]",2,[],"{0: 'NaN', 1: 'NaN'}","['Eh. Why? what! sorry? ', 'hey! say, you.... ']"
+T_15,9,ROI_143.png,106820,245,436,0.176,['haddock'],[0.815],[0.945],1,['1'],{0: 'haddock'},"['Yes, Special Branch. But.... know?. ']"
+T_15,9,ROI_144.png,142462,326,437,0.44,"['t-t', 't-t']","[0.872, 0.809]","[0.898, 0.826]",2,['1'],"{0: 't-t', 1: 'NaN'}","['Thomson and thompson. Special Branch, also on special mission. ', ""my, 1 job. Allow me to introduce myself.... Mac O'Connor, of the Intelligence Service, on a special ""]"
+T_15,9,ROI_145.png,135907,311,437,0.522,['haddock'],[0.737],"[0.92, 0.87]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""I'd like to ask you a favour. could you look after some secret documents?. think may have been found out they'll be stolen from me. "", 'why, certainly, my dear. colleague. "" ']"
+T_15,9,ROI_146.png,89585,205,437,0.219,[],['NONE'],[0.956],1,[],{0: 'NaN'},"[""There, that's done. now. can relax. ""]"
+T_15,9,ROI_147.png,99408,218,456,0.0,['snowy'],[0.802],[],0,[],{},[]
+T_15,9,ROI_148.png,90459,207,437,0.263,[],['NONE'],[0.936],1,[],{0: 'NaN'},['just you wait till we get to Khemikhail. You and your master!. ']
+T_15,9,ROI_149.png,109062,249,438,0.221,[],['NONE'],[0.949],1,[],{0: 'NaN'},"[""And then no! I'll tackle you immediately.!. ""]"
+T_15,9,ROI_150.png,129210,295,438,0.569,['tintin'],[0.919],[0.814],1,[],{0: 'NaN'},"['There are reports of significant troop movements in border. areas.... The Prime Minister told the House this morning that the situation was grave, but that the government had taken all measures. ']"
+T_15,9,ROI_151.png,95046,217,438,0.436,['tintin'],[0.702],[0.95],1,['1'],{0: 'tintin'},['heavens. things. seem to be deteriorating fast. It only spark to set the whole thing off- ']
+T_15,9,ROI_152.png,147065,335,439,0.235,[],['NONE'],[0.951],1,[],{0: 'NaN'},"[""but where's snowy?. I've heard enough. snowy?. snowily?. one off.... ""]"
+T_15,9,ROI_153.png,124805,545,229,0.07,['snowy'],[0.755],[0.907],1,['1'],{0: 'snowy'},"[""Wow. That's some bone ; ""]"
+T_15,9,ROI_154.png,122256,283,432,0.0,[],['NONE'],[],0,[],{},[]
+T_15,9,ROI_155.png,223344,517,432,0.0,['snowy'],[0.72],[],0,[],{},[]
+T_15,9,ROI_156.png,70970,302,235,0.0,[],['NONE'],[],0,[],{},[]
+T_15,9,ROI_157.png,44080,232,190,0.0,[],['NONE'],[],0,[],{},[]
+T_15,10,ROI_160.png,139956,321,436,0.0,['snowy'],[0.777],[],0,[],{},[]
+T_15,10,ROI_161.png,178733,409,437,0.0,"['tintin', 'snowy']","[0.839, 0.788]",[],0,[],{},[]
+T_15,10,ROI_162.png,112488,258,436,0.075,"['tintin', 'snowy']","[0.858, 0.847]",[0.922],1,['1'],{0: 'tintin'},['hello?. ']
+T_15,10,ROI_163.png,141700,325,436,0.298,['haddock'],[0.754],[0.937],1,['1'],{0: 'haddock'},"[""Hello, radio operator?. are you calling mars?. Here's a message for the company!. await the reply.... ""]"
+T_15,10,ROI_164.png,149640,344,435,0.102,"['tintin', 'snowy']","[0.932, 0.888]",[0.875],1,['1'],{0: 'tintin'},"['Aye, aye, Captain! ']"
+T_15,10,ROI_165.png,150420,345,436,0.159,[],['NONE'],[0.745],1,[],{0: 'NaN'},['tap. tap. ']
+T_15,10,ROI_170.png,112665,259,435,0.341,['tintin'],[0.786],[0.935],1,['1'],{0: 'tintin'},['war. thinking of it... It would be terrible!... If only governments. can come. to an understanding : ']
+T_15,10,ROI_178.png,164312,376,437,0.3,[],['NONE'],"[0.965, 0.604]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Ah.l It's the company's reply! "", 'BEP BEEP BEEP BEEP Bep bep. ']"
+T_15,10,ROI_185.png,106872,244,438,0.141,['tintin'],[0.894],[0.957],1,['1'],{0: 'tintin'},"[""I'll be right back. snowy! ""]"
+T_15,10,ROI_186.png,89790,205,438,0.135,[],['NONE'],[0.926],1,[],{0: 'NaN'},"[""well, well. it's dark already. ""]"
+T_15,10,ROI_187.png,146626,334,439,0.259,['haddock'],[0.791],"[0.943, 0.939]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['goodnight. captain.... ', ""Is it the company's reply?. Good. Thanks. ""]"
+T_15,10,ROI_188.png,90666,207,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,10,ROI_189.png,137280,312,440,0.184,[],['NONE'],[0.921],1,[],{0: 'NaN'},"[""hang on, thought I'd shut the door. ""]"
+T_15,10,ROI_190.png,180747,399,453,0.061,[],['NONE'],[0.695],1,[],"{0: 'NaN', 1: 'NaN'}",['!']
+T_15,10,ROI_191.png,127749,291,439,0.187,[],['NONE'],[0.95],1,[],{0: 'NaN'},"[""Cotton wool soaked in chloroform. Snowy's been kidnapped! ""]"
+T_15,10,ROI_192.png,117652,268,439,0.052,[],['NONE'],[0.895],1,[],{0: 'NaN'},['snowy?. ']
+T_15,10,ROI_193.png,164934,374,441,0.0,[],['NONE'],[],0,[],{},[]
+T_15,11,ROI_196.png,109062,249,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,11,ROI_197.png,84288,192,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,11,ROI_198.png,240900,550,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,11,ROI_199.png,145188,333,436,0.101,[],['NONE'],[0.876],1,[],{0: 'NaN'},['But where could snowy ']
+T_15,11,ROI_200.png,112823,257,439,0.19,[],['NONE'],[0.829],1,[],{0: 'NaN'},"[""I'll you, filthy beast!. I'll liget your. ""]"
+T_15,11,ROI_201.png,107310,245,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,11,ROI_202.png,140041,319,439,0.08,[],['NONE'],"[0.83, 0.724]",2,[],"{0: 'NaN', 1: 'NaN'}","['ohi ', 'ohi ']"
+T_15,11,ROI_203.png,223520,508,440,0.036,[],['NONE'],[0.899],1,[],{0: 'NaN'},['vermin! ']
+T_15,11,ROI_204.png,228285,513,445,0.027,[],['NONE'],[0.859],1,[],{0: 'NaN'},['brutel. ']
+T_15,11,ROI_205.png,197961,453,437,0.123,['tintin'],[0.831],[0.953],1,['1'],{0: 'tintin'},"[""snowy.ly. My poor snowy!. It's me. Don't be afraid. ""]"
+T_15,11,ROI_206.png,162127,371,437,0.117,['tintin'],[0.793],[0.889],1,['1'],{0: 'tintin'},['YYEEOW! ']
+T_15,11,ROI_207.png,234232,536,437,0.031,['tintin'],[0.915],[0.856],1,['1'],{0: 'tintin'},['A rat! ']
+T_15,11,ROI_208.png,151506,342,443,0.116,['tintin'],[0.726],"[0.716, 0.675]",2,[],"{0: 'NaN', 1: 'NaN', 2: 'tintin'}","['ahem ', '0 0 ']"
+T_15,11,ROI_209.png,201778,466,433,0.148,['tintin'],[0.865],"[0.933, 0.898]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['loss explain. ', 'so now, up your fists. ']"
+T_15,12,ROI_212.png,194445,447,435,0.219,['tintin'],[0.898],"[0.952, 0.943]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""Yes, me too. I'm going to explain something to you.... "", 'assure you, I.... made. misfake... It was misunderstanding.... ']"
+T_15,12,ROI_213.png,190920,430,444,0.009,[],['NONE'],[0.664],1,[],{0: 'NaN'},['0 0 ']
+T_15,12,ROI_214.png,199290,455,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,12,ROI_215.png,186102,422,441,0.0,[],['NONE'],[],0,[],{},[]
+T_15,12,ROI_216.png,232140,530,438,0.0,['tintin'],[0.887],[],0,[],{},[]
+T_15,12,ROI_217.png,167388,377,444,0.067,[],['NONE'],[0.611],1,[],"{0: 'NaN', 1: 'NaN'}",['!']
+T_15,12,ROI_218.png,240012,531,452,0.0,[],['NONE'],[],0,[],{},[]
+T_15,12,ROI_219.png,128627,293,439,0.205,[],['NONE'],[0.929],1,[],{0: 'NaN'},['The radio operator!. well. old chap. if only you knew. ']
+T_15,12,ROI_220.png,113701,259,439,0.097,[],['NONE'],[0.938],1,[],{0: 'NaN'},"[""Ahal. He's coming back up. ""]"
+T_15,12,ROI_221.png,106281,241,441,0.0,[],['NONE'],[],0,[],{},[]
+T_15,12,ROI_222.png,196240,446,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,12,ROI_223.png,253800,564,450,0.0,['tintin'],[0.806],[],0,[],{},[]
+T_15,12,ROI_224.png,145971,331,441,0.0,[],['NONE'],[],0,[],{},[]
+T_15,13,ROI_227.png,139284,318,438,0.052,[],['NONE'],[0.847],1,[],{0: 'NaN'},['My God! ']
+T_15,13,ROI_228.png,118530,270,439,0.093,['tintin'],[0.933],[0.925],1,['1'],{0: 'tintin'},"[""what if it's.... ""]"
+T_15,13,ROI_229.png,100092,228,439,0.145,['tintin'],[0.898],[0.963],1,['1'],{0: 'tintin'},['snowy. ']
+T_15,13,ROI_230.png,223451,509,439,0.147,"['tintin', 'snowy']","[0.876, 0.716]","[0.932, 0.929]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['your dog?. which dog?. ', 'Miserable wretch!.... you wanted to drown my dog! ']"
+T_15,13,ROI_231.png,176076,402,438,0.311,['tintin'],[0.936],"[0.956, 0.82]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""What does not be firedog!. Danton and Robespierre.... rolling stones. gather no moss. ha-hal. what?. And that's only a start!.... "", 'UNKNOWN']"
+T_15,13,ROI_232.png,196650,450,437,0.283,['tintin'],[0.933],"[0.914, 0.732]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""My goodness. He's gone bonkers. "", ""No, that's not all.... Tut Ankh amon.... ammonia. There's only one hair Matthew's head!. om ""]"
+T_15,13,ROI_233.png,210634,482,437,0.164,"['tintin', 'haddock']","[0.956, 0.804]","[0.927, 0.909]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['come, come along with me! ', 'alright.... But on one condition : that go together! we ']"
+T_15,13,ROI_234.png,133590,305,438,0.19,[],['NONE'],"[0.797, 0.785]",2,[],"{0: 'NaN', 1: 'NaN'}","['brewing. water! tea up. ha-tia. ', ""Uh-ohl. There's a storm brewing. ""]"
+T_15,13,ROI_235.png,245718,561,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,13,ROI_236.png,205891,469,439,0.209,[],['NONE'],"[0.934, 0.922]",2,[],"{0: 'NaN', 1: 'NaN'}","['Have you seen the heavenly twins?. them. ', 'they. came up on the bridge with me.... And then disappeared.... ']"
+T_15,13,ROI_237.png,179551,409,439,0.122,[],['NONE'],[0.653],1,[],{0: 'NaN'},['thomson. ']
+T_15,13,ROI_238.png,134640,306,440,0.143,[],['NONE'],[0.935],1,[],{0: 'NaN'},"[""They must have been swept overboard. ' ""]"
+T_15,13,ROI_239.png,274040,620,442,0.189,[],['NONE'],[0.69],1,[],{0: 'NaN'},"[""Come quickly, chief!.... Like that, we'll be ready when the ship is wrecked.... ""]"
+T_15,14,ROI_241.png,114140,260,439,0.139,"['tintin', 'snowy']","[0.926, 0.905]",[0.939],1,['1'],{0: 'tintin'},"[""Ah.l That's better, the storm has calmed ; down. ""]"
+T_15,14,ROI_242.png,210281,479,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,14,ROI_243.png,258858,591,438,0.217,['tintin'],[0.865],"[0.931, 0.883]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['ah? Good morning, how are young. by, "" goodwill. Not bad, and yourself?. jumped over the Moon. 25 am ox. ripping yarn. what?. And the cow ', ""well?. How's he doing? ""]"
+T_15,14,ROI_244.png,168630,385,438,0.191,"['tintin', 'snowy']","[0.922, 0.919]",[0.942],1,['1'],{0: 'tintin'},"[""There's not much hope of finding out anything ""]"
+T_15,14,ROI_245.png,194034,443,438,0.171,[],['NONE'],"[0.918, 0.881]",2,[],"{0: 'NaN', 1: 'NaN'}","[""well, there's khemikhal. "", ""Yes, and there's launch. approaching : police, doubtless. ""]"
+T_15,14,ROI_246.png,222200,505,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,14,ROI_247.png,156723,357,439,0.305,[],['NONE'],[0.929],1,[],{0: 'NaN'},"[""Clearly they've increased security in view. of the international situation and the tension in Khemed. ""]"
+T_15,14,ROI_248.png,270160,614,440,0.145,[],['NONE'],"[0.886, 0.865]",2,[],"{0: 'NaN', 1: 'NaN'}","['oh?. good! carry om. ', ""military police : we've egot orders. to search the vessel. ""]"
+T_15,14,ROI_249.png,158840,361,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,14,ROI_250.png,183502,418,439,0.187,['tintin'],[0.718],"[0.899, 0.873]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['please do. ', 'military police : we must search your cabin. ']"
+T_15,14,ROI_251.png,183120,420,436,0.199,"['t-t', 't-t']","[0.89, 0.861]","[0.937, 0.622]",2,['2'],"{0: 'NaN', 1: 't-t'}","['military police : open your luggage. ', 'military police : open your luggage. ']"
+T_15,14,ROI_252.png,217935,501,435,0.157,"['tintin', 'snowy']","[0.923, 0.836]","[0.824, 0.731]",2,"['1', '2']","{0: 'snowy', 1: 'snowy', 2: 'tintin'}","['?', ""They weren't telling us a story : concealed behind the coat pegs. ""]"
+T_15,15,ROI_254.png,212080,482,440,0.178,"['tintin', 'snowy']","[0.929, 0.781]","[0.92, 0.859]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","[""These documents were hidden in the radio operator's cabin, sergeant. "", 'Hand them. herel. ']"
+T_15,15,ROI_255.png,119408,272,439,0.354,['tintin'],[0.941],"[0.93, 0.911]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['can assure you, sergeant!. ', 'aha interesting.... an arms. delivery to Sheikh Bab El Ehrl. ']"
+T_15,15,ROI_256.png,257400,585,440,0.192,"['haddock', 't-t']","[0.858, 0.712]","[0.943, 0.903]",2,"['1', '2']","{0: 't-t', 1: 'haddock'}","[""To be precise : we'll pay for this. "", ""Leave us alone. We're police officers and you'll pay for this. ""]"
+T_15,15,ROI_257.png,150920,343,440,0.263,[],['NONE'],"[0.958, 0.831]",2,[],"{0: 'NaN', 1: 'NaN'}","['Cocaine in their sergeant.. And they claim to be policemen. ', 'really?. ']"
+T_15,15,ROI_258.png,212080,482,440,0.372,"['t-t', 't-t', 'tintin']","[0.957, 0.9, 0.894]","[0.933, 0.811]",2,['2'],"{0: 'NaN', 1: 't-t'}","['And what has become of this\'agent! "".... ', 'We were tricked into it, sergeant.l. an Intelligence Service agent entrusted with the package saying it contained uls top secret documents. ']"
+T_15,15,ROI_259.png,224469,509,441,0.385,"['t-t', 'tintin', 't-t']","[0.878, 0.863, 0.845]","[0.967, 0.882]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","['And as consequence, tget any information from him!.... your little tale of his madness. only. am not mad! ', ""he's om board, sergeant.... only jift seems he's suddenly lost his wits. ""]"
+T_15,15,ROI_260.png,104835,241,435,0.225,['tintin'],[0.935],[0.966],1,[],{0: 'NaN'},"[""Dash and dash again. Once again I've followed false trail! ""]"
+T_15,15,ROI_261.png,234900,540,435,0.225,"['tintin', 't-t', 't-t']","[0.924, 0.921, 0.878]","[0.851, 0.704]",2,['1'],"{0: 't-t', 1: 'NaN'}","['but. ', 'Come! Take away these three musketeers! They : will be questioned by our intelligence boys. ']"
+T_15,15,ROI_262.png,240350,550,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,15,ROI_263.png,272064,624,436,0.374,['t-t'],[0.717],"[0.822, 0.699, 0.667]",3,['1'],"{0: 't-t', 1: 'NaN', 2: 'NaN'}","['Two drug traffickers, it seems. there, is suspect cted of cai- am. important mission for Ba ', 'Two drug traffickers, it seems. But the small chap. there, is suspected of carrying out am. important mission for Bab El Ehr!.... ', 'Who are those fellows?.... ']"
+T_15,15,ROI_264.png,162192,372,436,0.241,[],['NONE'],[0.974],1,[],{0: 'NaN'},['good work. our mighty Sheikh will reward you well when he takes over powerly. ']
+T_15,15,ROI_265.png,147706,338,437,0.148,[],['NONE'],[0.894],1,[],{0: 'NaN'},['Bab El Ehr must be told immediately!.... ']
+T_15,16,ROI_267.png,171864,396,434,0.0,[],['NONE'],[],0,[],{},[]
+T_15,16,ROI_268.png,180110,415,434,0.279,[],['NONE'],"[0.906, 0.842]",2,[],"{0: 'NaN', 1: 'NaN'}","[""come from Khemikhail, mighty Sheikh. learned there that the Emir's police just arrested a young "", 'so ']"
+T_15,16,ROI_269.png,226366,518,437,0.409,[],['NONE'],"[0.934, 0.749]",2,[],"{0: 'NaN', 1: 'NaN'}","[""The young foreigner's escape must be arranged and he should be brought to me here! "", 'well, one of the guards, who is on our side, confided in me that they : had seized from the prisoner documents that established he was coming to tell you of a significant arms shipment. ']"
+T_15,16,ROI_270.png,176204,406,434,0.24,['tintin'],[0.956],[0.875],1,[],{0: 'NaN'},"[""follow us. taking. you to the central prison, where you'll be questioned by the Secret Service. ""]"
+T_15,16,ROI_271.png,189225,435,435,0.0,['snowy'],[0.703],[],0,[],{},[]
+T_15,16,ROI_272.png,213585,491,435,0.102,[],['NONE'],[0.921],1,[],{0: 'NaN'},"['This is our chance, Mohammed!. Put your foot down. ']"
+T_15,16,ROI_273.png,192712,442,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,16,ROI_274.png,199252,457,436,0.0,['snowy'],[0.735],[],0,[],{},[]
+T_15,16,ROI_275.png,190092,434,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,16,ROI_276.png,192280,440,437,0.047,[],['NONE'],[0.955],1,[],{0: 'NaN'},['Here he is! ']
+T_15,16,ROI_277.png,178704,408,438,0.033,[],['NONE'],[0.903],1,[],{0: 'NaN'},['quick! ']
+T_15,16,ROI_278.png,211116,482,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,17,ROI_280.png,243409,557,437,0.219,[],['NONE'],"[0.683, 0.634]",2,[],"{0: 'NaN', 1: 'NaN'}","[""We've checked your papers and they. 're in order. You're free to go. "", 'Oh! Good! and our ']"
+T_15,17,ROI_281.png,116242,266,437,0.36,[],['NONE'],[0.942],1,[],{0: 'NaN'},['your friend.... well. He was abducted as he was being brought here by supporters of Babel Ethel. ']
+T_15,17,ROI_282.png,222360,510,436,0.337,[],['NONE'],[0.876],1,[],{0: 'NaN'},"[""And finding them now is some undertaking. They're impossible to pin down! having staged their coup, they disappear without trace. and there's a reward of E2,000 for anyone who can lead us to the sheik's hideout! ""]"
+T_15,17,ROI_283.png,231525,525,441,0.334,"['t-t', 't-t']","[0.985, 0.975]","[0.874, 0.795]",2,['2'],"{0: 'NaN', 1: 't-t'}","['good! Well! Let Allah be with your ', ""A.E.2,000 reward? did right. Within the week, we'll bring you this Bab El Ehr, bound hand and foot!.... ""]"
+T_15,17,ROI_284.png,362120,823,440,0.04,"['t-t', 't-t']","[0.889, 0.784]",[0.837],1,['1'],{0: 't-t'},"['a e2,000 reward.. ']"
+T_15,17,ROI_285.png,171035,395,433,0.254,[],['NONE'],"[0.943, 0.927]",2,[],"{0: 'NaN', 1: 'NaN'}","['Let him enter! ', ""Here's the young foreigner freed by the partisans, mighty sheik. ""]"
+T_15,17,ROI_286.png,193984,448,433,0.298,['tintin'],[0.949],"[0.925, 0.739]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['what. guns? ', 'Welcome, young stranger!. And let you be thrice blessed for embracing our So? When will the guns come? ']"
+T_15,17,ROI_287.png,213036,492,433,0.295,['tintin'],[0.925],"[0.86, 0.725]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['me?. jemeckingly. not, mighty ', ""But you were coming to tell me of a delivery of arms and ammunition, weren't young. ""]"
+T_15,17,ROI_288.png,186162,426,437,0.274,[],['NONE'],"[0.929, 0.795]",2,[],"{0: 'NaN', 1: 'NaN'}","['Not Mighty sheik. It was one off the quards who told me, swear. ', 'But then you lied to me. son. of a mangy curl. ']"
+T_15,17,ROI_289.png,183084,418,438,0.332,['tintin'],[0.949],[0.968],1,['1'],{0: 'tintin'},"[""he's telling mighty sheik. But they didn't belong to me. I've no idea who planted them there.... ""]"
+T_15,17,ROI_290.png,218183,497,439,0.4,['tintin'],[0.947],"[0.896, 0.704]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""It's all a trick to uncover my hideout!. And do you really think that I'll let you jigor. So that you can denounce me to the police of the infamous Ben Kalish Ezab. you'll stay prisoner!. "", 'UNKNOWN']"
+T_15,18,ROI_292.png,187480,430,436,0.188,['tintin'],[0.934],"[0.906, 0.725]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""Make sure he's tied up securely. and keep him under close quard! "", 'An aeroplane! ']"
+T_15,18,ROI_293.png,150672,344,438,0.181,[],['NONE'],[0.958],1,[],{0: 'NaN'},"[""Mighty sheikh, one of the Emir's ""]"
+T_15,18,ROI_294.png,241661,553,437,0.051,[],['NONE'],[0.708],1,[],{0: 'NaN'},"[""Bab El Ehr's camp. ""]"
+T_15,18,ROI_295.png,197200,464,425,0.0,[],['NONE'],[],0,[],{},[]
+T_15,18,ROI_296.png,185680,440,422,0.0,[],['NONE'],[],0,[],{},[]
+T_15,18,ROI_297.png,181048,427,424,0.196,['tintin'],[0.884],[0.821],1,['1'],{0: 'tintin'},"[""They're dropping leaflets. the imbeciles. haha And not one of my men can read!.... ""]"
+T_15,18,ROI_298.png,219385,493,445,0.0,"['tintin', 'snowy']","[0.945, 0.782]",[],0,[],{},[]
+T_15,18,ROI_299.png,221165,497,445,0.286,"['tintin', 'snowy']","[0.968, 0.787]","[0.949, 0.855]",2,['1'],"{0: 'snowy', 1: 'NaN'}","['Don\'t listen, tintin!. It must be at the situation. "" shocking. what ', 'all I ex tests Soilival. curry! ']"
+T_15,18,ROI_300.png,151063,341,443,0.0,['snowy'],[0.703],[],0,[],{},[]
+T_15,18,ROI_301.png,217906,493,442,0.237,['tintin'],[0.928],[0.844],1,[],{0: 'NaN'},"['At sunrise, we strike camp! By the day after tomorrow we must be in the safety of the hills. ']"
+T_15,18,ROI_302.png,167960,380,442,0.23,['tintin'],[0.97],"[0.966, 0.704]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","[""As for you, you're coming with US. and you'll be our hostage!. "", 'UNKNOWN']"
+T_15,18,ROI_303.png,208182,471,442,0.0,[],['NONE'],[],0,[],{},[]
+T_15,19,ROI_306.png,202379,461,439,0.213,"['t-t', 't-t']","[0.819, 0.751]","[0.761, 0.685]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""say?. Are you sure we're heading in the right direction? "", 'quite certain! ']"
+T_15,19,ROI_307.png,191844,438,438,0.25,[],['NONE'],"[0.801, 0.618]",2,[],"{0: 'NaN', 1: 'NaN'}","[""you're right. There's the first well we should come across. "", ""And anyway, it's dead simple. They told us : Carry straight on ""]"
+T_15,19,ROI_308.png,182208,416,438,0.182,[],['NONE'],[0.943],1,[],{0: 'NaN'},"[""we'll stop there for a moment to top up the radiator.... ""]"
+T_15,19,ROI_309.png,205013,467,439,0.035,"['t-t', 't-t']","[0.921, 0.911]","[0.949, 0.934]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['?', 'UNKNOWN']"
+T_15,19,ROI_310.png,201520,458,440,0.255,"['t-t', 't-t']","[0.981, 0.975]","[0.887, 0.851]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""mirage? Really?.... thought they's 'ql t got rid of them. "", ""good ' gracious. ' It was mirage. ""]"
+T_15,19,ROI_311.png,170612,386,442,0.107,"['t-t', 't-t']","[0.971, 0.97]",[0.854],1,['1'],{0: 't-t'},"[""Never mind. let's carry om. ""]"
+T_15,19,ROI_312.png,210357,477,441,0.281,[],['NONE'],"[0.856, 0.815]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Ahl We've made good progress all the same. we'll stop there for a drink.... "", 'splendid idea. ']"
+T_15,19,ROI_313.png,157080,357,440,0.118,[],['NONE'],[0.914],1,[],{0: 'NaN'},['Oh not. ']
+T_15,19,ROI_314.png,210678,481,438,0.107,[],['NONE'],[0.953],1,[],{0: 'NaN'},['and another one. really. they. overdo them! ']
+T_15,19,ROI_315.png,594960,1340,444,0.0,[],['NONE'],[],0,[],{},[]
+T_15,20,ROI_317.png,327055,745,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,20,ROI_318.png,263292,593,444,0.083,"['snowy', 'tintin']","[0.82, 0.776]",[0.931],1,['1'],{0: 'tintin'},"[""well, we're really in a tight spot. ""]"
+T_15,20,ROI_319.png,190965,435,439,0.099,"['t-t', 't-t']","[0.954, 0.908]",[0.756],1,[],{0: 'NaN'},"[""There, we're ready to to go again! ""]"
+T_15,20,ROI_320.png,205013,467,439,0.039,[],['NONE'],[0.904],1,[],{0: 'NaN'},"[""we're off. ""]"
+T_15,20,ROI_321.png,185640,420,442,0.0,"['t-t', 't-t']","[0.981, 0.973]",[],0,[],{},[]
+T_15,20,ROI_322.png,178086,402,443,0.097,"['t-t', 't-t']","[0.953, 0.927]","[0.936, 0.903]",2,['2'],"{0: 'NaN', 1: 't-t'}","['ohl. ', 'look. ']"
+T_15,20,ROI_323.png,214812,486,442,0.158,[],['NONE'],"[0.83, 0.802]",2,[],"{0: 'NaN', 1: 'NaN'}","['What a splendid idea. ', 'How about a dip? ']"
+T_15,20,ROI_324.png,187000,425,440,0.182,['t-t'],[0.798],"[0.909, 0.735]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""you're on, "", 'I bet I can dive. further than. youryour. ']"
+T_15,20,ROI_325.png,248385,571,435,0.0,[],['NONE'],[],0,[],{},[]
+T_15,20,ROI_326.png,337028,773,436,0.109,"['t-t', 't-t']","[0.939, 0.721]","[0.845, 0.788]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['To be precise. ', 'Draft! It was a ']"
+T_15,21,ROI_328.png,187036,428,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,21,ROI_329.png,221263,511,433,0.172,[],['NONE'],"[0.862, 0.817]",2,[],"{0: 'NaN', 1: 'NaN'}","['indeed. ', ""allah is great!. There's the well of Bir El Ambik. ""]"
+T_15,21,ROI_330.png,159712,368,434,0.147,"['tintin', 'snowy']","[0.942, 0.926]",[0.88],1,['1'],{0: 'tintin'},"[""Waterloo Finally. I'm dying of thirst!. ""]"
+T_15,21,ROI_331.png,220248,504,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,21,ROI_332.png,128620,295,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,21,ROI_333.png,222285,511,435,0.113,[],['NONE'],[0.928],1,[],{0: 'NaN'},['curses. The well is dry! ']
+T_15,21,ROI_334.png,222433,509,437,0.124,['tintin'],[0.933],"[0.963, 0.854]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['no water!. We must continue! ', 'UNKNOWN']"
+T_15,21,ROI_335.png,91996,211,436,0.0,['tintin'],[0.913],[],0,[],{},[]
+T_15,21,ROI_336.png,257106,587,438,0.014,['snowy'],[0.906],[0.81],1,['1'],{0: 'snowy'},['?']
+T_15,21,ROI_337.png,163812,374,438,0.337,[],['NONE'],"[0.941, 0.899]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Until the time then, and we'll leave him behind! "", ""the prisoner is finished. he's fainted!. ""]"
+T_15,21,ROI_338.png,414786,947,438,0.053,['snowy'],[0.819],[0.896],1,['1'],{0: 'snowy'},['wooah. gang of dirty towards. ']
+T_15,22,ROI_340.png,171696,392,438,0.328,[],['NONE'],"[0.933, 0.863]",2,[],"{0: 'NaN', 1: 'NaN'}","['Dear oh dear! You and your famous sense of direction.... ', ""tell you, we're on the main road.... ""]"
+T_15,22,ROI_341.png,208012,476,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,22,ROI_342.png,194472,444,438,0.157,[],['NONE'],"[0.95, 0.79]",2,[],"{0: 'NaN', 1: 'NaN'}","['11 ', 'you see. says. ']"
+T_15,22,ROI_343.png,157601,359,439,0.0,"['t-t', 't-t']","[0.784, 0.723]",[],0,[],{},[]
+T_15,22,ROI_344.png,208086,474,439,0.286,[],['NONE'],"[0.911, 0.67]",2,[],"{0: 'NaN', 1: 'NaN'}","['mirage again, my dear chap!... One can see that immediately! ', ""This time, there's no mistake, we're saved. ""]"
+T_15,22,ROI_345.png,211159,481,439,0.254,"['t-t', 't-t']","[0.908, 0.885]","[0.852, 0.679]",2,['2'],"{0: 'NaN', 1: 't-t'}","[""Oh, no?. stay you'll see.... "", ""No! This time assure you it isn't one! ""]"
+T_15,22,ROI_346.png,203301,461,441,0.0,[],['NONE'],[],0,[],{},[]
+T_15,22,ROI_347.png,206769,471,439,0.029,['t-t'],[0.964],[0.899],1,['1'],{0: 't-t'},['there. ']
+T_15,22,ROI_348.png,171549,389,441,0.241,[],['NONE'],"[0.965, 0.868]",2,[],"{0: 'NaN', 1: 'NaN'}","[""you. Because me, I'm terribly sorry. for a mirage!. "", 'UNKNOWN']"
+T_15,22,ROI_349.png,229950,525,438,0.068,[],['NONE'],[0.616],1,[],{0: 'NaN'},['will be pies. ilm. joyed ']
+T_15,22,ROI_350.png,167200,380,440,0.155,[],['NONE'],"[0.859, 0.799]",2,[],"{0: 'NaN', 1: 'NaN'}","[""you know, you were quite right : it wasn't a mirage.... "", 'aha?. ']"
+T_15,22,ROI_351.png,183063,417,439,0.0,['snowy'],[0.789],[],0,[],{},[]
+T_15,23,ROI_353.png,158840,380,418,0.331,"['snowy', 'tintin']","[0.939, 0.893]","[0.924, 0.73]",2,"['1', '2']","{0: 'tintin', 1: 'snowy'}","['What happened?.... Ahl Yes, now I remember. The Arabs. march. The dried up well.. ', ""Ah. He's finally coming round!. ""]"
+T_15,23,ROI_354.png,120096,288,417,0.259,['snowy'],[0.877],[0.905],1,[],{0: 'NaN'},"[""The bandits. they abandoned me. Come on.let's try and tget out of this mess. ""]"
+T_15,23,ROI_355.png,267938,641,418,0.0,[],['NONE'],[],0,[],{},[]
+T_15,23,ROI_356.png,124696,286,436,0.0,['snowy'],[0.833],[],0,[],{},[]
+T_15,23,ROI_357.png,151986,347,438,0.226,['snowy'],[0.893],[0.949],1,['1'],{0: 'snowy'},['over there!. dreaming.. a pipeline!.... an oasis!. snowy. ']
+T_15,23,ROI_358.png,106434,243,438,0.176,[],['NONE'],[0.979],1,[],{0: 'NaN'},"[""as long d. 25 long as it's not a mirage! ""]"
+T_15,23,ROI_359.png,187464,428,438,0.09,['snowy'],[0.82],[0.943],1,['1'],{0: 'snowy'},['a well.. water! God be praised! ']
+T_15,23,ROI_360.png,161113,367,439,0.065,['snowy'],[0.799],[0.946],1,['1'],{0: 'snowy'},['water! Wonderful water! ']
+T_15,23,ROI_361.png,166820,380,439,0.0,"['t-t', 't-t']","[0.802, 0.734]",[],0,[],{},[]
+T_15,23,ROI_362.png,251370,570,441,0.192,[],['NONE'],"[0.953, 0.896]",2,[],"{0: 'NaN', 1: 'NaN'}","['Lo and behold! Another mirage! ', ""you think so?. It doesn't seem like one. would drive round it and.... ""]"
+T_15,23,ROI_363.png,166002,379,438,0.355,"['t-t', 't-t']","[0.942, 0.93]",[0.953],1,['1'],{0: 't-t'},"[""Me, drive round something doesn't exist because you think nothing is something. No, deviate for an illusion.... er. never, I'll drive straight on regardless. ""]"
+T_15,23,ROI_364.png,155216,356,436,0.05,[],['NONE'],"[0.841, 0.705]",2,[],"{0: 'NaN', 1: 'NaN'}","['!', 'UNKNOWN']"
+T_15,23,ROI_365.png,253316,581,436,0.083,['t-t'],[0.804],[0.906],1,['1'],{0: 't-t'},['you see. What did tell young. ']
+T_15,24,ROI_367.png,120336,276,436,0.181,['snowy'],[0.858],[0.925],1,[],{0: 'NaN'},['aaah. was good! ']
+T_15,24,ROI_368.png,115710,266,435,0.271,['snowy'],[0.922],[0.896],1,['1'],{0: 'snowy'},"['And now, if only we had something to our teeth into. ohl wait. but. ']"
+T_15,24,ROI_369.png,128620,295,436,0.155,[],['NONE'],[0.903],1,[],{0: 'NaN'},"[""but yes. our luck's in.... Those are date palms.... ""]"
+T_15,24,ROI_370.png,203642,466,437,0.122,['snowy'],[0.876],"[0.943, 0.902]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['And you really think that ready roasted pigeon. ', 'hupi ']"
+T_15,24,ROI_371.png,193599,441,439,0.072,[],['NONE'],[0.952],1,[],{0: 'NaN'},"[""Oh! Poor Snowy! I'm sorry. ""]"
+T_15,24,ROI_372.png,149260,340,439,0.378,['snowy'],[0.939],"[0.924, 0.898]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","[""It's getting dark. sleep here. and tomorrow we'll bump into someone. "", ""these may have chevvy. centres, but they's 're not up to a leg of Lambi. ""]"
+T_15,24,ROI_373.png,126144,288,438,0.178,[],['NONE'],[0.942],1,[],{0: 'NaN'},"[""brrrr. the night's freezing. ican't sleep a wink. ""]"
+T_15,24,ROI_374.png,101616,232,438,0.154,[],['NONE'],"[0.975, 0.607]",2,[],"{0: 'NaN', 1: 'NaN'}","[""ssh. What's that noise?. "", 'is ']"
+T_15,24,ROI_375.png,198414,453,438,0.14,[],['NONE'],[0.724],1,[],{0: 'NaN'},"[""Men on horseback. snowy. old boy. we're saved. ""]"
+T_15,24,ROI_376.png,121326,277,438,0.305,[],['NONE'],[0.941],1,[],{0: 'NaN'},"[""hang on, riders?. In the dead of night?. Hmm! That's suspicious. better. keep out of sight.... ""]"
+T_15,24,ROI_377.png,254478,581,438,0.057,[],['NONE'],[0.963],1,[],{0: 'NaN'},"[""They're dismounting.... ""]"
+T_15,24,ROI_378.png,160580,370,434,0.295,[],['NONE'],"[0.958, 0.897]",2,[],"{0: 'NaN', 1: 'NaN'}","['That voice. heard it before? ', 'Ahmed, you look after the horses. come with me.... ']"
+T_15,24,ROI_379.png,147560,340,434,0.099,[],['NONE'],[0.904],1,[],{0: 'NaN'},['What does this all mean? ']
+T_15,24,ROI_380.png,158775,365,435,0.108,[],['NONE'],[0.838],1,[],{0: 'NaN'},['go on.!. quick about it. ']
+T_15,24,ROI_381.png,98310,226,435,0.22,['tintin'],[0.829],[0.952],1,['1'],{0: 'tintin'},['what can they near the pipeline?.... ']
+T_15,25,ROI_383.png,181830,418,435,0.14,[],['NONE'],[0.852],1,[],{0: 'NaN'},"[""they're rushing wonder what.... ""]"
+T_15,25,ROI_384.png,142786,329,434,0.055,[],['NONE'],"[0.837, 0.616]",2,[],"{0: 'NaN', 1: 'NaN'}","['?', '?']"
+T_15,25,ROI_385.png,247779,567,437,0.08,[],['NONE'],[0.944],1,[],{0: 'NaN'},"[""Great snakes. they. 've blown up the pipeline! ""]"
+T_15,25,ROI_386.png,222942,509,438,0.174,[],['NONE'],"[0.917, 0.883]",2,[],"{0: 'NaN', 1: 'NaN'}","['That voice.... my word! know. that voice.... ', 'Quick, in the saddle!. The alarm will be raised!. ']"
+T_15,25,ROI_387.png,216752,496,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,25,ROI_388.png,132848,304,437,0.138,[],['NONE'],[0.911],1,[],{0: 'NaN'},"[""Hello, what's that one there ""]"
+T_15,25,ROI_389.png,133017,303,439,0.263,[],['NONE'],[0.953],1,[],{0: 'NaN'},"[""ohl see, he's adjusting his stirrup.... if dare, 1. ""]"
+T_15,25,ROI_390.png,195355,445,439,0.21,[],['NONE'],"[0.962, 0.918]",2,[],"{0: 'NaN', 1: 'NaN'}","[""what's gotten into young. "", ""Charge, Snowy! We'll stake everything!.... ""]"
+T_15,25,ROI_391.png,246031,563,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,25,ROI_392.png,191404,439,436,0.079,[],['NONE'],[0.949],1,[],{0: 'NaN'},['And Ahmed?.... he following us?.... ']
+T_15,25,ROI_393.png,161253,369,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,25,ROI_394.png,220685,505,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,26,ROI_396.png,182684,419,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,26,ROI_397.png,113274,261,434,0.489,[],['NONE'],[0.878],1,[],{0: 'NaN'},['Hello. Hello.... pumping station No.12 here. reporting complete loss of pressure. ruptured upline... Send urgently a repair team. ']
+T_15,26,ROI_398.png,171072,396,432,0.23,[],['NONE'],[0.968],1,[],{0: 'NaN'},"[""What I'm is pure ifolly. but too bad! It's too late to back off.... The bottle of wine has been uncorked and must be drunk. ""]"
+T_15,26,ROI_399.png,98470,229,430,0.558,[],['NONE'],[0.851],1,[],{0: 'NaN'},['Hellor. Hellop. Pumping station. station No. 1 here.... Shut off immediately all valves. The pipeline teams. have just been expedited.... ']
+T_15,26,ROI_400.png,173360,394,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,26,ROI_401.png,178296,408,437,0.181,[],['NONE'],[0.863],1,[],{0: 'NaN'},"[""We'll separate here. That way we'll jumble the tracks. accompany men. ""]"
+T_15,26,ROI_402.png,225929,517,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,26,ROI_403.png,183941,419,439,0.139,[],['NONE'],[0.818],1,[],{0: 'NaN'},['That voice.... Where then have ']
+T_15,26,ROI_404.png,216040,491,440,0.026,[],['NONE'],[0.866],1,[],{0: 'NaN'},['whoa. ']
+T_15,26,ROI_405.png,179452,406,442,0.183,[],['NONE'],[0.909],1,[],{0: 'NaN'},"[""Hold my horse I'll be back directly.... ""]"
+T_15,26,ROI_406.png,172178,394,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,26,ROI_407.png,146932,337,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,26,ROI_408.png,255932,587,436,0.02,[],['NONE'],[0.94],1,[],{0: 'NaN'},['?']
+T_15,27,ROI_410.png,146595,337,435,0.185,[],['NONE'],[0.961],1,[],{0: 'NaN'},"[""That face!. recognise him. But yes... It's Dr. Miller! ""]"
+T_15,27,ROI_411.png,125426,289,434,0.0,[],['NONE'],[],0,[],{},[]
+T_15,27,ROI_412.png,160950,370,435,0.097,[],['NONE'],[0.902],1,[],{0: 'NaN'},"[""What's he going to do? ""]"
+T_15,27,ROI_413.png,131068,302,434,0.138,['snowy'],[0.784],[0.93],1,['1'],{0: 'snowy'},"[""Well, where's he gone? ""]"
+T_15,27,ROI_414.png,156366,357,438,0.044,['snowy'],[0.864],"[0.938, 0.932]",2,['2'],"{0: 'NaN', 1: 'snowy'}","['!', '?']"
+T_15,27,ROI_415.png,212476,484,439,0.0,['snowy'],[0.831],[],0,[],{},[]
+T_15,27,ROI_416.png,92466,467,198,0.0,['snowy'],[0.835],[],0,[],{},[]
+T_15,27,ROI_417.png,108112,466,232,0.0,['snowy'],[0.854],[],0,[],{},[]
+T_15,27,ROI_418.png,129505,295,439,0.311,['tintin'],[0.715],[0.896],1,[],{0: 'NaN'},"[""Ha-ha ) My poor Ahmed. a small mirror is sometimes very useful to see what's going on behind one. and don't like nosy workers. ""]"
+T_15,27,ROI_419.png,137280,312,440,0.183,[],['NONE'],[0.898],1,[],{0: 'NaN'},"[""krutzitiirken!. It's not Ahmed. It's Tintin, ""]"
+T_15,27,ROI_420.png,120120,273,440,0.504,['haddock'],[0.841],[0.904],1,['1'],{0: 'haddock'},['Tintin!... How the hell did he him?. he suspect something?.... should wait for him. to come round to question A waste of time. ']
+T_15,27,ROI_421.png,185220,420,441,0.159,[],['NONE'],[0.793],1,[],{0: 'NaN'},"['I will, once and for all. put in my affairs. ']"
+T_15,27,ROI_422.png,148920,340,438,0.27,['haddock'],[0.775],[0.971],1,['1'],{0: 'haddock'},"[""Achl. What's that noise?. It sounds like. but yes. ""]"
+T_15,27,ROI_423.png,223818,511,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,27,ROI_424.png,201960,459,440,0.0,['t-t'],[0.776],[],0,[],{},[]
+T_15,28,ROI_431.png,115611,267,433,0.223,['tintin'],[0.781],[0.956],1,['1'],{0: 'tintin'},['good grief. The horses. it if they spot ']
+T_15,28,ROI_432.png,109116,252,433,0.379,[],['NONE'],[0.913],1,[],{0: 'NaN'},"[""But what shall do about tintin?. No, they'd hear it!.... Bahl. He seems to be out cold for a while... I'll deal with him later.... ""]"
+T_15,28,ROI_433.png,140400,325,432,0.0,[],['NONE'],[],0,[],{},[]
+T_15,28,ROI_434.png,196940,458,430,0.102,[],['NONE'],[0.88],1,[],{0: 'NaN'},"[""Phewl They've passed!. That was a close shovel ""]"
+T_15,28,ROI_435.png,134904,308,438,0.288,[],['NONE'],[0.912],1,[],{0: 'NaN'},"[""and now. quickly!... Let's tackle Tintin!.. everything. considered, was to finish him off. with the rifle. ""]"
+T_15,28,ROI_436.png,166440,380,438,0.113,[],['NONE'],"[0.966, 0.915, 0.69]",3,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN'}","['Donnerwetter! ', 'UNKNOWN', 'Donnerwetter! ']"
+T_15,28,ROI_437.png,154089,351,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,28,ROI_438.png,118091,269,439,0.079,[],['NONE'],[0.929],1,[],{0: 'NaN'},['In the nick of time! ']
+T_15,28,ROI_439.png,155320,353,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,28,ROI_440.png,110880,252,440,0.0,['snowy'],[0.726],[],0,[],{},[]
+T_15,28,ROI_441.png,44726,209,214,0.255,[],['NONE'],[0.843],1,[],{0: 'NaN'},"[""What's all the din? ""]"
+T_15,28,ROI_442.png,95702,218,439,0.296,[],['NONE'],[0.949],1,[],{0: 'NaN'},"[""well now?. nothing more?. over. he's no longer. it be a trap?. ""]"
+T_15,28,ROI_443.png,115720,263,440,0.261,[],['NONE'],[0.948],1,[],{0: 'NaN'},"[""Oh! What's that?.... It sounds like galloping. Is that, by chance? ""]"
+T_15,28,ROI_444.png,44940,210,214,0.0,[],['NONE'],[],0,[],{},[]
+T_15,28,ROI_445.png,206360,469,440,0.142,[],['NONE'],[0.666],1,[],{0: 'NaN'},['But yes. the roguel. ']
+T_15,28,ROI_446.png,106820,245,436,0.262,['snowy'],[0.897],[0.959],1,[],{0: 'NaN'},['And here I am back to square one.... With a nice bump on my head as a bonus. ']
+T_15,28,ROI_447.png,106628,244,437,0.224,['snowy'],[0.71],[0.96],1,[],{0: 'NaN'},"[""come on, snowy. let's go. there's only one thing to do. ""]"
+T_15,28,ROI_448.png,152862,349,438,0.316,['snowy'],[0.722],"[0.925, 0.806]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['If ever find that watch the seat of his pants. ', 'Follow the tracks of that scoundrel.... ']"
+T_15,29,ROI_450.png,177422,406,437,0.446,[],['NONE'],[0.896],1,[],{0: 'NaN'},"[""How come find Dr. Miller here in the desert?.... blowing up the pipeline?.... And why did he spare my life, when he had me at his mercy?. any number of questions that I'm unable to answer at present.... ""]"
+T_15,29,ROI_451.png,120336,276,436,0.249,['snowy'],[0.867],"[0.945, 0.931]",2,['2'],"{0: 'NaN', 1: 'snowy'}","['Hello, But. mistaken. a closer look. ', '!']"
+T_15,29,ROI_452.png,149984,344,436,0.3,['snowy'],[0.897],"[0.966, 0.931]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","[""Ah. yes. perhaps it's bus route. "", ""But yes, tyre tracks, Snowy! That's a stroke of luck. ""]"
+T_15,29,ROI_453.png,121923,279,437,0.429,['snowy'],[0.789],[0.929],1,['1'],{0: 'snowy'},"[""Look at that... They seem to be jeep tyres. ipebbles are thrown and carr. was going that way.... Let's hit the road. snowy.ly. We'll go in the same ""]"
+T_15,29,ROI_454.png,233200,530,440,0.14,[],['NONE'],[0.678],1,[],{0: 'NaN'},"[""and we'll concern ourselves later with our friend Dr. Miller. ""]"
+T_15,29,ROI_455.png,154440,351,440,0.226,"['t-t', 't-t']","[0.865, 0.806]",[0.962],1,['1'],{0: 't-t'},"[""things don't look promising. thomson. We absolutely must arrive somewhere, otherwise.... ""]"
+T_15,29,ROI_456.png,190960,434,440,0.113,[],['NONE'],[0.92],1,[],{0: 'NaN'},"[""you're right. it's not a mirage.... ""]"
+T_15,29,ROI_457.png,218736,496,441,0.141,[],['NONE'],[0.648],1,[],{0: 'NaN'},"[""All we need to do is follow the tracks, and Bob's your uncle! ""]"
+T_15,29,ROI_458.png,194916,444,439,0.144,[],['NONE'],[0.87],1,[],{0: 'NaN'},['there. look ']
+T_15,29,ROI_459.png,165000,375,440,0.278,[],['NONE'],"[0.902, 0.889]",2,[],"{0: 'NaN', 1: 'NaN'}","['What a stroke of good fortune to have found this route. ', 'To be precise : ifortune good has given ']"
+T_15,29,ROI_460.png,158319,359,441,0.225,[],['NONE'],[0.935],1,[],{0: 'NaN'},"[""And there! joined the other two!. We're on a busy ""]"
+T_15,29,ROI_461.png,157080,357,440,0.138,[],['NONE'],[0.814],1,[],{0: 'NaN'},['another one!. That makes the seventh!. ']
+T_15,29,ROI_462.png,263560,599,440,0.185,[],['NONE'],[0.616],1,[],{0: 'NaN'},['We must definitely be near a big town. Stop! ']
+T_15,30,ROI_464.png,302498,697,434,0.038,['t-t'],[0.935],[0.829],1,['1'],{0: 't-t'},['jerrycan. of petroll. ']
+T_15,30,ROI_465.png,133672,308,434,0.261,['t-t'],[0.887],[0.925],1,['1'],{0: 't-t'},"[""And what's more, it's full!.... That's a lucky find!. for us, of course. Not for the poor chap who lost it.. ""]"
+T_15,30,ROI_466.png,132370,305,434,0.209,['t-t'],[0.987],[0.936],1,[],{0: 'NaN'},"[""I'm going to check that ours is well secured : one never knows! ""]"
+T_15,30,ROI_467.png,195800,445,440,0.072,['t-t'],[0.932],"[0.953, 0.723]",2,['1'],"{0: 't-t', 1: 'NaN'}","['!', 'by gall. ']"
+T_15,30,ROI_468.png,179990,410,439,0.245,[],['NONE'],"[0.913, 0.842]",2,[],"{0: 'NaN', 1: 'NaN'}","['we too, look, the strap ', 'goodness me. ']"
+T_15,30,ROI_469.png,199745,455,439,0.319,['t-t'],[0.923],"[0.869, 0.643]",2,[],"{0: 'NaN', 1: 'NaN'}","[""you're quite petrol is too precious to abandon.... "", ""It must therefore be behind us.... hurry up, we'll turn around and go and find it. ""]"
+T_15,30,ROI_470.png,191406,437,438,0.097,[],['NONE'],[0.669],1,[],{0: 'NaN'},"[""let's igol It can't be far. ""]"
+T_15,30,ROI_471.png,209364,478,438,0.093,[],['NONE'],[0.63],1,[],{0: 'NaN'},['A real highway. Snowy!. ']
+T_15,30,ROI_472.png,173844,396,439,0.45,['snowy'],[0.828],"[0.922, 0.887]",2,['1'],"{0: 'snowy', 1: 'NaN'}","['unless what? ', 'See how busy!... Look at the number of tracks.... And the imprints are all still quite ifrest.... odd.... The tracks are absolutely identical. perhaps it was convoy. jeeps?.... unless.... ']"
+T_15,30,ROI_473.png,143664,328,438,0.399,[],['NONE'],[0.924],1,[],{0: 'NaN'},"[""Yes, there's not a shadow of doubt!. which has been going round carr. and round following its own tracks. Its occupants must have lost their way, like me.... ""]"
+T_15,30,ROI_474.png,167424,384,436,0.023,[],['NONE'],[0.952],1,[],{0: 'NaN'},['?']
+T_15,30,ROI_475.png,262472,602,436,0.15,[],['NONE'],[0.908],1,[],{0: 'NaN'},"[""Uh-ohl. snowy. ' something much more serious. A sandstorm : the Khamsin!. ""]"
+T_15,31,ROI_477.png,173926,398,437,0.226,['snowy'],[0.913],[0.914],1,[],{0: 'NaN'},"[""there! That's it! We're in the middle of it!.... is that the wind and sand will erase the tracks. ""]"
+T_15,31,ROI_478.png,161320,370,436,0.226,['snowy'],[0.836],[0.951],1,[],{0: 'NaN'},"[""Ahl This sandal. In the mouth. It's impossible to go on.l. Only one thing ""]"
+T_15,31,ROI_479.png,124545,285,437,0.183,[],['NONE'],[0.953],1,[],{0: 'NaN'},['To stop and wait for the storm to blow past. ']
+T_15,31,ROI_480.png,106628,244,437,0.301,[],['NONE'],[0.937],1,[],{0: 'NaN'},"['ssh. something. Yes, definitely.... The sound of an engine. ']"
+T_15,31,ROI_481.png,191400,435,440,0.186,['t-t'],[0.81],[0.7],1,[],{0: 'NaN'},"[""It's impossible to continue like this. We must punt and attach the hood.... ""]"
+T_15,31,ROI_482.png,53261,241,221,0.118,[],['NONE'],[0.945],1,[],{0: 'NaN'},['hall-000s. ']
+T_15,31,ROI_483.png,172920,393,440,0.16,[],['NONE'],"[0.926, 0.87]",2,[],"{0: 'NaN', 1: 'NaN'}","[""careful. Don't let go!. "", ""Don't worry. l've egot ""]"
+T_15,31,ROI_485.png,50336,242,208,0.182,[],['NONE'],[0.662],1,[],{0: 'NaN'},['Ugh! This sand : ']
+T_15,31,ROI_486.png,59082,229,258,0.156,['snowy'],[0.912],[0.738],1,['1'],{0: 'snowy'},"['come om, snowy. ']"
+T_15,31,ROI_487.png,436040,991,440,0.0,['t-t'],[0.771],[],0,[],{},[]
+T_15,31,ROI_488.png,145748,332,439,0.033,[],['NONE'],[0.884],1,[],{0: 'NaN'},['hall-pool. ']
+T_15,31,ROI_489.png,226600,515,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,31,ROI_490.png,136090,310,439,0.043,[],['NONE'],"[0.736, 0.604]",2,[],"{0: 'NaN', 1: 'NaN'}","['hall-000i ', 'wall-pool ']"
+T_15,31,ROI_491.png,213306,487,438,0.019,['snowy'],[0.788],[0.9],1,['1'],{0: 'snowy'},['?']
+T_15,32,ROI_493.png,193591,443,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,32,ROI_494.png,233358,534,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,32,ROI_495.png,46189,323,143,0.276,[],['NONE'],[0.641],1,[],{0: 'NaN'},['What happened to me?.... ']
+T_15,32,ROI_496.png,92016,324,284,0.0,[],['NONE'],[],0,[],{},[]
+T_15,32,ROI_497.png,148382,338,439,0.311,['snowy'],[0.847],[0.952],1,[],{0: 'NaN'},"['Well, what next! hat the "" Thompsonists. of the are they.... ']"
+T_15,32,ROI_499.png,158118,361,438,0.016,[],['NONE'],[0.936],1,[],{0: 'NaN'},['?']
+T_15,32,ROI_500.png,172572,394,438,0.379,[],['NONE'],"[0.94, 0.91]",2,[],"{0: 'NaN', 1: 'NaN'}","['say. did you hear something?. no?. there was calling our name! ', ""Camel Camel Another mirage, my dear old ckoy. let's iget going. quick ""]"
+T_15,32,ROI_501.png,46662,202,231,0.33,[],['NONE'],[0.948],1,[],{0: 'NaN'},"[""yoo-hoo! thomson. It's me, tintin!. ""]"
+T_15,32,ROI_502.png,51200,256,200,0.388,[],['NONE'],[0.762],1,[],{0: 'NaN'},"[""The engine has been restarted... They didn't hear me. ""]"
+T_15,32,ROI_503.png,136968,312,439,0.016,['snowy'],[0.816],[0.907],1,['1'],{0: 'snowy'},['!']
+T_15,32,ROI_504.png,56523,249,227,0.404,[],['NONE'],[0.698],1,[],{0: 'NaN'},"[""hooray. This time, they heard. they. i've stopped again! ""]"
+T_15,32,ROI_505.png,209403,477,439,0.324,[],['NONE'],"[0.876, 0.609]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Everything is in order on this side too. Right-ho, let's carry on. "", ""nothing I'm nevertheless certain that heard a loud bang.... ""]"
+T_15,32,ROI_506.png,58624,256,229,0.33,[],['NONE'],[0.738],1,[],{0: 'NaN'},"[""Oh! My rifle!... They'll certainly hear a shot from that! ""]"
+T_15,32,ROI_507.png,50344,248,203,0.199,[],['NONE'],[0.732],1,[],{0: 'NaN'},['yoo-hoo!. ']
+T_15,32,ROI_508.png,43488,302,144,0.225,[],['NONE'],[0.917],1,[],{0: 'NaN'},"[',000-hoo!. thomson.. ']"
+T_15,32,ROI_509.png,154176,352,438,0.316,[],['NONE'],[0.97],1,[],{0: 'NaN'},"['A mirage, old boy!.... the first time... How can you still pay attention to them?. "" 900. ']"
+T_15,32,ROI_510.png,130524,298,438,0.223,[],['NONE'],[0.935],1,[],{0: 'NaN'},"[""The engine sound is fading... It's finished.... They've gone off again.... ""]"
+T_15,32,ROI_511.png,149699,341,439,0.259,[],['NONE'],"[0.945, 0.936]",2,[],"{0: 'NaN', 1: 'NaN'}","[""there's nothing more we can do, snowy.... we're lost.... "", ""well, that's jolly! ""]"
+T_15,32,ROI_512.png,86640,304,285,0.212,[],['NONE'],"[0.959, 0.919, 0.651]",3,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN'}","['?', '?', 'omson. ']"
+T_15,33,ROI_514.png,115540,265,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,33,ROI_515.png,58463,323,181,0.0,['t-t'],[0.818],[],0,[],{},[]
+T_15,33,ROI_516.png,148335,341,435,0.394,['t-t'],[0.726],"[0.92, 0.877]",2,['1'],"{0: 't-t', 1: 'NaN'}","['Does it talk?. mirage?. Of course not, my dear fellow..... is seen, not heard.!. ', 'Do you think mirage talks? ']"
+T_15,33,ROI_517.png,160080,368,435,0.406,['t-t'],[0.713],"[0.923, 0.91]",2,['1'],"{0: 't-t', 1: 'NaN'}","[""Those shouts?. But, goodness gracious! You're right. It wasn't a miracle!. quick! "", 'But then, those shouts we heard a while ago? ']"
+T_15,33,ROI_518.png,79458,323,246,0.161,[],['NONE'],"[0.913, 0.902]",2,[],"{0: 'NaN', 1: 'NaN'}","['what? ', 'says. ']"
+T_15,33,ROI_519.png,120560,274,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,33,ROI_521.png,91312,208,439,0.0,['snowy'],[0.801],[],0,[],{},[]
+T_15,33,ROI_522.png,265428,606,438,0.071,[],['NONE'],"[0.955, 0.914, 0.913]",3,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN'}","[""tintin' "", 'there they arel ', ""It's him! ""]"
+T_15,33,ROI_523.png,53424,212,252,0.415,[],['NONE'],[0.913],1,[],{0: 'NaN'},"[""The sound of an engine, again!. they're coming back herel ""]"
+T_15,33,ROI_524.png,176000,400,440,0.276,['t-t'],[0.909],"[0.909, 0.848]",2,['2'],"{0: 'NaN', 1: 't-t'}","[""it's good "", ""It's him... It's really him!.... Ah. What a turn up for the books. Oh! I'm so happy.... ""]"
+T_15,33,ROI_525.png,164560,374,440,0.183,"['t-t', 'snowy']","[0.941, 0.875]",[0.9],1,['1'],{0: 't-t'},"[""to have my hat back. That's really a piece of luck! ""]"
+T_15,33,ROI_526.png,113960,259,440,0.26,[],['NONE'],"[0.945, 0.905]",2,[],"{0: 'NaN', 1: 'NaN'}","['poor jail. have been completely exhausted : look how he sleeps. ', 'zzzz zzzz ']"
+T_15,33,ROI_527.png,68352,267,256,0.168,"['t-t', 'haddock']","[0.893, 0.863]",[0.853],1,['1'],{0: 't-t'},"['Yes, but this is hardly the moment! ']"
+T_15,33,ROI_528.png,46018,266,173,0.135,"['t-t', 't-t']","[0.972, 0.892]","[0.826, 0.806]",2,['1'],"{0: 't-t', 1: 'NaN'}","['zizzi zzzzy ', 'zzzz zzzz ']"
+T_15,33,ROI_529.png,187910,430,437,0.076,['haddock'],[0.703],"[0.913, 0.885, 0.864]",3,"['1', '3']","{0: 'haddock', 1: 'NaN', 2: 'haddock'}","['2222 2222 ', 'zzzz zzzz ', '2222 zzzz ']"
+T_15,33,ROI_530.png,175674,402,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,33,ROI_531.png,210240,480,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,34,ROI_533.png,124124,286,434,0.17,[],['NONE'],[0.916],1,[],{0: 'NaN'},['La illaha illalah.!. mohammed rassoul Allah..... ']
+T_15,34,ROI_534.png,176638,407,434,0.0,[],['NONE'],[],0,[],{},[]
+T_15,34,ROI_535.png,267268,613,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,34,ROI_536.png,177828,406,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,34,ROI_537.png,222134,506,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,34,ROI_538.png,0,0,0,0,['snowy'],[0.702],[],0,[],{},[]
+T_15,34,ROI_539.png,231702,529,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,34,ROI_540.png,187902,429,438,0.0,"['t-t', 't-t']","[0.831, 0.774]",[],0,[],{},[]
+T_15,34,ROI_541.png,154089,351,439,0.409,['t-t'],[0.855],"[0.944, 0.735]",2,[],"{0: 'NaN', 1: 'NaN'}","[""now. think must have fallen asleep at the wheel and that. But I wonder what's happened to Tintin?.... "", 'What happened?.... any ']"
+T_15,34,ROI_542.png,191843,439,437,0.162,[],['NONE'],"[0.884, 0.808]",2,[],"{0: 'NaN', 1: 'NaN'}","['no ', 'So, Mohammed Ben Kalish Ezab, will you sign the contract? ']"
+T_15,34,ROI_543.png,163064,374,436,0.374,[],['NONE'],"[0.935, 0.907]",2,[],"{0: 'NaN', 1: 'NaN'}","['regret? should take your words as a threat? ', 'As you wish, mighty Emir.... that you will not regret it one day. ']"
+T_15,34,ROI_544.png,218124,498,438,0.176,[],['NONE'],"[0.926, 0.808]",2,[],"{0: 'NaN', 1: 'NaN'}","['very well. I will receive him.... ', 'Such being so very wonderful films. ']"
+T_15,35,ROI_546.png,127455,293,435,0.0,[],['NONE'],[],0,[],{},[]
+T_15,35,ROI_547.png,95484,219,436,0.097,['snowy'],[0.829],"[0.917, 0.862]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['!', '?']"
+T_15,35,ROI_548.png,186180,428,435,0.111,['haddock'],[0.777],"[0.894, 0.688]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""He'll pay dearly for this, the old owl. "", 'UNKNOWN']"
+T_15,35,ROI_549.png,157832,362,436,0.244,[],['NONE'],"[0.978, 0.785]",2,[],"{0: 'NaN', 1: 'NaN'}","[""That was lucky!. He didn't see me. "", 'His Highness awaits your- Please follow me. ']"
+T_15,35,ROI_550.png,171210,390,439,0.143,['snowy'],[0.77],[0.878],1,['1'],{0: 'snowy'},"[""What's that rascal doing here?. must keep my eyes open! ""]"
+T_15,35,ROI_551.png,109750,250,439,0.023,['snowy'],[0.734],[0.883],1,['1'],{0: 'snowy'},['11 ']
+T_15,35,ROI_552.png,97236,222,438,0.0,['snowy'],[0.871],[],0,[],{},[]
+T_15,35,ROI_553.png,192721,439,439,0.198,[],['NONE'],[0.935],1,[],{0: 'NaN'},"['Aleikum salaam, young stranger.... Welcome to Hasch El Hemm.... Sit down and tell me what you wish.... ']"
+T_15,35,ROI_554.png,189216,432,438,0.221,[],['NONE'],[0.957],1,[],{0: 'NaN'},['I know about it. you mention will be flogged : punishment. they. well deserve.... ']
+T_15,35,ROI_555.png,200623,457,439,0.266,[],['NONE'],[0.959],1,[],{0: 'NaN'},"['good. good. We shall see about that. But, tell me, what were they. doing in the desert?.... And how about yourself. what are you doing here, dressed like bedouin. Explain me that. ']"
+T_15,35,ROI_556.png,184398,421,438,0.336,['tintin'],[0.709],"[0.954, 0.672]",2,[],"{0: 'NaN', 1: 'NaN'}","['no, no, like stories very much. do begin, I am listening.... ', ""Certainly, your Highness. But it is a long. story and don't want to impose upon you. ""]"
+T_15,35,ROI_557.png,176111,403,437,0.525,[],['NONE'],"[0.945, 0.717]",2,[],"{0: 'NaN', 1: 'NaN'}","['Yes, it was one of the two attacks that were reported to me yesterday. There were another two during the night. get my hands on that cur Bab El Ehr. ', ""At that moment, huge. flames. shot up : they'd, just set the pipeline slight. ""]"
+T_15,35,ROI_558.png,225929,517,437,0.487,[],['NONE'],[0.869],1,[],{0: 'NaN'},"[""Yes, that bandit is trying to depose me with the backing of Skoil Petroleum. Should he come to power, he would hand over the oil resources of Khemedite Arabia to Skoil and expel Arabes to whom have given the concession. That's why the crook has it in for Arabex and its installations.. ""]"
+T_15,35,ROI_559.png,170912,392,436,0.656,[],['NONE'],"[0.929, 0.821]",2,[],"{0: 'NaN', 1: 'NaN'}","[""think I've understood things. "", ""Now, as the contract that is due to expire soon, I could decide not to renew it and instead sign a new one with Skoil. That's what was proposed by Professor Smith. who left. just as you arrived. ""]"
+T_15,36,ROI_561.png,170562,393,434,0.488,[],['NONE'],"[0.943, 0.915]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Well, it's really quite simple.... If I sign the contract with Skoil. the attacks on the pipeline will cease immediately... Why then should refuse to sign the contract with Professor Smith?.... "", 'Yes, why? ']"
+T_15,36,ROI_562.png,200942,463,434,0.524,[],['NONE'],"[0.863, 0.76]",2,[],"{0: 'NaN', 1: 'NaN'}","['ahzo ', ""Why? It's strange. don't know what makes me tell you all this. hardly know you.... but, but trust. you. will not sign the contract because neitherlike Professor Smith nor Skoil Petroleum. ""]"
+T_15,36,ROI_563.png,194880,448,435,0.472,['tintin'],[0.719],"[0.942, 0.732]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['then, they came running back and jumped onto their horses. "" remained hidden behind a rock. suddenly.... ', 'But all this is a story.... You were at the epoint had just pipeline.... And then? ']"
+T_15,36,ROI_564.png,136781,313,437,0.277,[],['NONE'],"[0.963, 0.706]",2,[],"{0: 'NaN', 1: 'NaN'}","['What is it? Why do you disturb me? ', 'master! master!.... Oh! Master!. ']"
+T_15,36,ROI_565.png,214567,491,437,0.169,['snowy'],[0.814],[0.935],1,[],{0: 'NaN'},"['Well. Ali Ben Mahmoud, what new prank has my adorable little lamb thought up this time? ']"
+T_15,36,ROI_566.png,218500,500,437,0.359,[],['NONE'],[0.927],1,[],{0: 'NaN'},"[""Hal Hal If you knew my son, you would be laughing like me. extraordinary little devil that one has ever seen, every you ' 11 see. ""]"
+T_15,36,ROI_567.png,180429,411,439,0.211,['snowy'],[0.831],"[0.783, 0.672]",2,[],"{0: 'NaN', 1: 'NaN'}","['Yes, yes. Ali Ben Mahmoud. calm down! ', 'He was playing in the garden. Master!. ']"
+T_15,36,ROI_568.png,197120,448,440,0.171,['tintin'],[0.807],[0.644],1,[],{0: 'NaN'},"[""There's the little racing I gave him three days ago. for his sixth birthday.... ""]"
+T_15,36,ROI_569.png,197111,449,439,0.148,[],['NONE'],"[0.878, 0.697]",2,[],"{0: 'NaN', 1: 'NaN'}","['?', 'Abdullah..... where are you. my little treasure? ']"
+T_15,36,ROI_570.png,142025,325,437,0.181,[],['NONE'],[0.921],1,[],{0: 'NaN'},['abdullah. my little sugar pie.... ']
+T_15,36,ROI_571.png,103768,238,436,0.154,[],['NONE'],[0.957],1,[],{0: 'NaN'},['abdullah. My little gazelle. ']
+T_15,36,ROI_572.png,95484,219,436,0.177,[],['NONE'],[0.968],1,[],{0: 'NaN'},['abdullah. Abdullah! Where hiding?.... ']
+T_15,36,ROI_573.png,85892,197,436,0.378,[],['NONE'],[0.93],1,[],{0: 'NaN'},"['abdullah.. you little rascal. "" If you don\'t show yourself immediately. Daddy will give you good telling off! ']"
+T_15,36,ROI_574.png,133722,306,437,0.408,[],['NONE'],"[0.941, 0.871]",2,[],"{0: 'NaN', 1: 'NaN'}","['a blue. garment?. Abdullah! Not. why do you ask? ', 'excuse me, highness. but was your son wearing blue clothing? ']"
+T_15,37,ROI_576.png,177915,409,435,0.52,[],['NONE'],"[0.853, 0.715]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Here's a piece of blue material that just found caught on this branch.... At the foot of the tree, there are some very pronounced footprints. Someone who doubtless was hiding in its branches and then jumped to the ground.... "", 'perhaps.... Yes. but.... ']"
+T_15,37,ROI_577.png,212660,490,434,0.26,[],['NONE'],[0.838],1,[],{0: 'NaN'},"[""Here's your son's motor car.... roughly pushed aside, as can be seen by the tyre marks.... ""]"
+T_15,37,ROI_578.png,176175,405,435,0.426,[],['NONE'],"[0.941, 0.611]",2,[],"{0: 'NaN', 1: 'NaN'}","['hardly dare to say what I think. Your Highness.... fear the worst. along with me.... to discover other clues.... ', 'but What are you getting at? ']"
+T_15,37,ROI_579.png,142025,325,437,0.0,['snowy'],[0.797],[],0,[],{},[]
+T_15,37,ROI_580.png,153472,352,436,0.14,['snowy'],[0.898],[0.882],1,['1'],{0: 'snowy'},['there! thought sol. More footprints. ']
+T_15,37,ROI_581.png,130663,299,437,0.267,['snowy'],[0.845],[0.944],1,['1'],{0: 'snowy'},"['and here!. there again, look. the wall scraped.... This is where they must have climbed over.... ']"
+T_15,37,ROI_582.png,140598,321,438,0.23,['snowy'],[0.925],"[0.883, 0.792]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['Why, those who kidnapped your som, highness! ', 'But who do you mean. "" they "" 12 ']"
+T_15,37,ROI_583.png,169506,387,438,0.402,[],['NONE'],[0.957],1,[],{0: 'NaN'},"[""those who. My son!... Kidnapped.... and why?.... tell me, why should anyone kidnap my son?. it all up. Because you're liar. yes, a liar, like all those of your racel. ""]"
+T_15,37,ROI_584.png,118698,271,438,0.293,[],['NONE'],"[0.945, 0.818]",2,[],"{0: 'NaN', 1: 'NaN'}","['over there, by the wall, with the young foreigner.... ', 'Where is Mohammed Ben Kalish Ezab? ']"
+T_15,37,ROI_585.png,160379,367,437,0.316,[],['NONE'],[0.976],1,[],{0: 'NaN'},"['A rider has just brought this letter, Master. He rode away immediately, at a furious gallop. into the desert. ']"
+T_15,37,ROI_586.png,120612,276,437,0.14,[],['NONE'],[0.903],1,[],{0: 'NaN'},['by Allah. ']
+T_15,37,ROI_587.png,156088,358,436,0.142,[],['NONE'],[0.932],1,[],{0: 'NaN'},"[""it's quite There'll Read this letter.... ""]"
+T_15,37,ROI_589.png,129195,297,435,0.339,[],['NONE'],"[0.953, 0.898]",2,[],"{0: 'NaN', 1: 'NaN'}","['Ah. Yes, here, will translate it for you. ', ""Excuse me, Highness, but it's in Arabic and.... ""]"
+T_15,37,ROI_590.png,185736,426,436,0.458,[],['NONE'],"[0.867, 0.699]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Yes, yes, that's no surprise! "", '"" To Mohammed Ben Kalish Ezab. If you want to see your son alive again, \'drive Arabes out of your territory. And it\'s signed : "" Bab El ehr. ']"
+T_15,37,ROI_591.png,56376,216,261,0.0,[],['NONE'],[],0,[],{},[]
+T_15,38,ROI_593.png,195716,452,433,0.0,[],['NONE'],[],0,[],{},[]
+T_15,38,ROI_594.png,109802,253,434,0.21,[],['NONE'],[0.937],1,[],{0: 'NaN'},['But we must respond.!. I will see my military adviser! ']
+T_15,38,ROI_595.png,123690,285,434,0.114,[],['NONE'],"[0.959, 0.824]",2,[],"{0: 'NaN', 1: 'NaN'}","['!', 'my God!. His little carr. ']"
+T_15,38,ROI_596.png,132370,305,434,0.502,[],['NONE'],"[0.904, 0.899]",2,[],"{0: 'NaN', 1: 'NaN'}","['Boo-hoo-hoo-hoo-hoo-hoo. My little Abdullah!.... Where are you, my honeyed gingerbread?... Boo-hoo.... My little sugar plum!.... Boo-hoo--hoo-hoo-hoo-hoo.... ', 'come now, calm down. your Highness, ']"
+T_15,38,ROI_597.png,166060,380,437,0.14,['snowy'],[0.891],[0.833],1,['1'],{0: 'snowy'},['Boo-hoo-hoo... My little cherub. Boo-hoo-hoo.... ']
+T_15,38,ROI_598.png,117116,268,437,0.182,[],['NONE'],[0.935],1,[],{0: 'NaN'},['My little Abdullah!.... aaaah. ']
+T_15,38,ROI_599.png,107502,246,437,0.22,[],['NONE'],[0.947],1,[],{0: 'NaN'},['tchoo!. tchooi. tchoo!. ']
+T_15,38,ROI_600.png,175237,401,437,0.401,[],['NONE'],[0.954],1,[],{0: 'NaN'},"[""you see. It's one of the last practical. l jokes my boy discovered : sneez... Sneez.... TCHOOL... Sneezing... powder... AAAah.... tchooi. for his birthday.... darling! ""]"
+T_15,38,ROI_601.png,208449,477,437,0.262,[],['NONE'],"[0.915, 0.779]",2,[],"{0: 'NaN', 1: 'NaN'}","[""No thank you, don't smoke. "", 'Let me introduce Youssef Ben Moulfrid, my military adviser, who will outline his plan. of campaign.... cigarette? ']"
+T_15,38,ROI_602.png,218063,499,437,0.362,[],['NONE'],[0.8],1,[],{0: 'NaN'},"[""Well, my lord.... In two hours time, three hundred cavalrymen will be ready to leave in pursuit of Babel Ehr's men.... have already given orders for scouts to pick up their trail. In short, I can tell you this. ""]"
+T_15,38,ROI_603.png,144540,330,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,38,ROI_604.png,193148,443,436,0.238,[],['NONE'],[0.872],1,[],{0: 'NaN'},['Allah is great!. The dear little angel has replaced my Havana cigars with exploding omes.... ']
+T_15,38,ROI_605.png,52281,333,157,0.0,[],['NONE'],[],0,[],{},[]
+T_15,38,ROI_606.png,231080,530,436,0.236,[],['NONE'],[0.773],1,[],{0: 'NaN'},"['By the beard of the Prophet! That miserable little earthworm has dared to replace my best cigarettes with his trick "" ones. ']"
+T_15,38,ROI_607.png,89244,333,268,0.034,[],['NONE'],[0.911],1,[],{0: 'NaN'},['!']
+T_15,39,ROI_609.png,214830,495,434,0.0,['tintin'],[0.812],[],0,[],{},[]
+T_15,39,ROI_610.png,153908,353,436,0.27,[],['NONE'],[0.974],1,[],{0: 'NaN'},"[""They're off!.... they. with the help of Allah, wrest my dear child from the hands the infamous Bab El Ehrl.l. ""]"
+T_15,39,ROI_611.png,198360,456,435,0.38,[],['NONE'],"[0.952, 0.852]",2,[],"{0: 'NaN', 1: 'NaN'}","['?', 'In all honesty, Your Highness, that expedition is absolutely useless. "" Useless, for the good reason that it is not Bab El Ehr who has abducted your son. We must concentrate our enquiries elsewhere.... ']"
+T_15,39,ROI_612.png,205390,470,437,0.424,[],['NONE'],"[0.959, 0.668]",2,[],"{0: 'NaN', 1: 'NaN'}","['yes, saw it, Your highness. But what proof do we have that this letter was written by Bab El Ehr?... Do you know his writing? ', ""What! It isn't Bab El Ehr?. But you saw the letter signed with his name. ""]"
+T_15,39,ROI_613.png,200166,457,438,0.404,[],['NONE'],"[0.879, 0.87]",2,[],"{0: 'NaN', 1: 'NaN'}","['why?. ', ""His writing?. No, in fact don't. but. But then, if you knew it wasn't him. why didn't you tell me earlier?.... And, above all, why did you let me despatch my warriors?.... ""]"
+T_15,39,ROI_614.png,167754,383,438,0.453,[],['NONE'],"[0.926, 0.883]",2,[],"{0: 'NaN', 1: 'NaN'}","['The real kidnapper. you say. You know who he is then? ', 'Quite simply to make the real kidnapper believe that his ruse had worked... In that way, he will not suspect anything.... ']"
+T_15,39,ROI_615.png,184851,423,437,0.51,[],['NONE'],[0.711],1,[],{0: 'NaN'},"[""yes, think but I don't have any proof. yet. And above all, don't know where he's taken your son.... finding must be our top do you have a photograph of Prince Abdullah. 50 I would be able to recognise him?. ""]"
+T_15,39,ROI_616.png,158268,363,436,0.205,[],['NONE'],"[0.985, 0.612]",2,[],"{0: 'NaN', 1: 'NaN'}","['there you can see his latest portrait. ', 'there you can see his latest portrait. ']"
+T_15,39,ROI_617.png,229772,527,436,0.147,[],['NONE'],[0.858],1,[],{0: 'NaN'},['poor little angel. the sittings. were a real torture for him. ']
+T_15,39,ROI_618.png,100073,229,437,0.191,[],['NONE'],[0.883],1,[],{0: 'NaN'},"['It is true that the painter went mad soon, after. ']"
+T_15,39,ROI_619.png,117284,269,436,0.293,[],['NONE'],[0.928],1,[],{0: 'NaN'},"[""Uh-ohl... Is this another of those diabolical exploding cigarettes?. No, it's a real one.... ""]"
+T_15,39,ROI_620.png,118592,272,436,0.265,[],['NONE'],[0.946],1,[],{0: 'NaN'},"['apologise, my dear little lamb, for unfairly suspeci ting. "" you. ']"
+T_15,39,ROI_621.png,231855,533,435,0.02,[],['NONE'],[0.855],1,[],{0: 'NaN'},"['5. "" ']"
+T_15,40,ROI_623.png,121520,280,434,0.267,[],['NONE'],[0.946],1,[],{0: 'NaN'},"[""Another of the little demon's tricks. wonder where he egot this one. ""]"
+T_15,40,ROI_624.png,160580,370,434,0.489,[],['NONE'],[0.922],1,[],{0: 'NaN'},"['Good. Now that know. your son, will set out to find him.. to ask you for some other clothes and some information on Dr. Mii. sorry.ly. on Professor Smith. ']"
+T_15,40,ROI_625.png,124124,286,434,0.308,[],['NONE'],"[0.95, 0.806]",2,[],"{0: 'NaN', 1: 'NaN'}","['on Professor Smith?. You think he can help. you find my son? ', 'possibly.... ']"
+T_15,40,ROI_626.png,155295,357,435,0.532,[],['NONE'],"[0.937, 0.907]",2,[],"{0: 'NaN', 1: 'NaN'}","['Does he live here? ', ""Well, he's an archaeologist. researching the vestiges of ancient civilians that once flourished in these parts.... At the same time, he is the representative here of Skoil Petroleum. ""]"
+T_15,40,ROI_627.png,187902,429,438,0.376,['snowy'],[0.857],"[0.882, 0.82]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['right. ohl another point. ', ""Yes, he lives in Wadesdah, my capital, dozen miles away from here. He occupies a great palace there, perched like an eagle's nest on the top of a cliff. ""]"
+T_15,40,ROI_628.png,206701,473,437,0.035,['snowy'],[0.849],"[0.921, 0.902]",2,['2'],"{0: 'NaN', 1: 'snowy'}","['!', '!']"
+T_15,40,ROI_629.png,176111,403,437,0.26,[],['NONE'],"[0.911, 0.806]",2,[],"{0: 'NaN', 1: 'NaN'}","[""it's nothing. percussion cap.... Abdullah is in the habit of scattering them. everywhere. It lives things. up in the palace. "", '0hz. good.... ']"
+T_15,40,ROI_630.png,200640,456,440,0.526,[],['NONE'],[0.676],1,[],{0: 'NaN'},"['where was IP.... Oh! Yes... The two friends mentioned to you.... Well, of you a "" great favour on their behalf. Please treat them 25 honoured. iquests. look after their comfort, take care of their health. for goodness sake don\'t let them leave the place on any pretext. ']"
+T_15,40,ROI_631.png,195355,445,439,0.0,['snowy'],[0.89],[],0,[],{},[]
+T_15,40,ROI_632.png,178234,406,439,0.185,[],['NONE'],[0.936],1,[],{0: 'NaN'},"['Ah. That must be the palace of Professor Smith, up there. ']"
+T_15,40,ROI_633.png,165244,379,436,0.016,['snowy'],[0.835],[0.964],1,['1'],{0: 'snowy'},['!']
+T_15,40,ROI_634.png,169604,389,436,0.179,['snowy'],[0.758],"[0.897, 0.849]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","[""cold?. sneezing powder?. I'll follow him. "", 'atchoo ']"
+T_15,40,ROI_635.png,235440,540,436,0.075,[],['NONE'],"[0.94, 0.719, 0.676]",3,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN'}","['?', '25 ', 'thisi ']"
+T_15,41,ROI_637.png,172656,396,436,0.339,[],['NONE'],"[0.855, 0.853]",2,[],"{0: 'NaN', 1: 'NaN'}","['2 1 to ', ""No mistake, that's Senhor Oliveira da Figueira ) ( 1 ) ""]"
+T_15,41,ROI_638.png,106384,244,436,0.333,[],['NONE'],[0.944],1,[],{0: 'NaN'},"[""What a character! Still the same! He's managed to sell him. pair of roller skates. ""]"
+T_15,41,ROI_639.png,120495,277,435,0.161,[],['NONE'],"[0.835, 0.78]",2,[],"{0: 'NaN', 1: 'NaN'}","['25pool xx ', 'UNKNOWN']"
+T_15,41,ROI_640.png,166605,383,435,0.235,[],['NONE'],[0.941],1,[],{0: 'NaN'},"[""Yes, a real epidemic has broken out this morning among Professor Smith's servants. ""]"
+T_15,41,ROI_641.png,134904,308,438,0.425,[],['NONE'],[0.878],1,[],{0: 'NaN'},"[""But please come in, dear sir, come in.... a visit. brings. no But you're bound to need ' something that you'll find here.... ""]"
+T_15,41,ROI_642.png,175638,401,438,0.414,[],['NONE'],"[0.949, 0.856]",2,[],"{0: 'NaN', 1: 'NaN'}","['tintin!. never. what a wonderful surprise!. Ah. But we must drink to that!. ', ""Quite honestly. Senator Oliveira, need But I'm delighted to see you again.... recognise me? ""]"
+T_15,41,ROI_643.png,143773,329,437,0.311,[],['NONE'],[0.948],1,[],{0: 'NaN'},"[""you'll drink glass of wine. with meroo A good rose. wine from Portugal.... in a bottle! ""]"
+T_15,41,ROI_644.png,112128,256,438,0.219,[],['NONE'],[0.958],1,[],{0: 'NaN'},"['and so, what are you doing here. in this. good- country? ']"
+T_15,41,ROI_645.png,195355,445,439,0.134,['snowy'],[0.878],"[0.929, 0.688]",2,['1'],"{0: 'snowy', 1: 'NaN'}","['?', 'Oh! Like Professor Smith.... ']"
+T_15,41,ROI_646.png,205013,467,439,0.378,[],['NONE'],"[0.84, 0.618]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Speaking frankly. no, not at all.... He's a hard and cruel man and. "", ""Yes, exactly.... By the way. you must know him, what's this Professor Smith like?. Pleasant? ""]"
+T_15,41,ROI_647.png,173405,395,439,0.045,[],['NONE'],[0.941],1,[],"{0: 'NaN', 1: 'NaN'}",['!']
+T_15,41,ROI_648.png,200166,457,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,41,ROI_649.png,92644,212,437,0.383,[],['NONE'],[0.959],1,[],{0: 'NaN'},"[""There's a mousetrap in the cupboard. but that must huge that it's caught. ""]"
+T_15,41,ROI_650.png,281865,645,437,0.017,[],['NONE'],[0.846],1,[],{0: 'NaN'},['?']
+T_15,42,ROI_658.png,184884,426,434,0.179,[],['NONE'],"[0.924, 0.611]",2,[],"{0: 'NaN', 1: 'NaN'}","['Yes, there!. spot the mouse trap off. ', ""That's it? ""]"
+T_15,42,ROI_659.png,154938,357,434,0.375,[],['NONE'],"[0.952, 0.928]",2,[],"{0: 'NaN', 1: 'NaN'}","[""please do. I'll clear things. up. "", ""Excuse me a moment.... There's a customer. ""]"
+T_15,42,ROI_660.png,109982,254,433,0.222,['snowy'],[0.74],[0.959],1,['1'],{0: 'snowy'},"[""you see what happens. when you're ""]"
+T_15,42,ROI_661.png,107817,249,433,0.294,['snowy'],[0.854],[0.944],1,['1'],{0: 'snowy'},"[""There, that's done. look. a radio.... Why don't I try and tune in to the news? ""]"
+T_15,42,ROI_662.png,76680,360,213,0.0,['snowy'],[0.777],[],0,[],{},[]
+T_15,42,ROI_663.png,160308,366,438,0.185,['snowy'],[0.853],[0.948],1,[],{0: 'NaN'},"[""well, what's up? It doesn't even light up. ""]"
+T_15,42,ROI_664.png,111872,256,437,0.177,[],['NONE'],[0.949],1,[],{0: 'NaN'},['Ah. I see. The set isn. plugged in! ']
+T_15,42,ROI_665.png,134159,307,437,0.131,[],['NONE'],[0.768],1,[],{0: 'NaN'},"['There, it should work now. ']"
+T_15,42,ROI_666.png,77400,360,215,0.0,[],['NONE'],[],0,[],{},[]
+T_15,42,ROI_667.png,283176,648,437,0.076,['snowy'],[0.826],"[0.885, 0.817]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['?', 'WOO AAA H. ']"
+T_15,42,ROI_668.png,76560,330,232,0.323,[],['NONE'],[0.792],1,[],{0: 'NaN'},['dash! used the wrong plug. This is the right one. ']
+T_15,42,ROI_669.png,142136,326,436,0.292,[],['NONE'],"[0.972, 0.912]",2,[],"{0: 'NaN', 1: 'NaN'}","['!', 'Ah. My beauty past s. compare.... These jewels bright.... ']"
+T_15,42,ROI_670.png,63552,331,192,0.086,[],['NONE'],[0.859],1,[],{0: 'NaN'},['and now. ']
+T_15,42,ROI_671.png,133852,307,436,0.262,['tintin'],[0.745],[0.912],1,['1'],{0: 'tintin'},"['wear sparked was I ever Margarita? come, reply.... A ']"
+T_15,42,ROI_672.png,143654,331,434,0.479,[],['NONE'],"[0.907, 0.681]",2,[],"{0: 'NaN', 1: 'NaN'}","['all records and. criri. hnet.... and for the latest European news. ', 'curry. Even though thiey. have broken exemptable property all records and... CRR. hnet. and for latest ']"
+T_15,42,ROI_673.png,174034,401,434,0.497,['tintin'],[0.764],[0.912],1,[],{0: 'NaN'},"['following meeting of foreign ministers, diplomatic sources said there had significant reduction in international tensions.... bing.... Meanwhile, the mysterious epidemic of motor vehicle explosions afflicted a number of countries has ended as suddenly began. ']"
+T_15,42,ROI_674.png,110490,254,435,0.526,[],['NONE'],[0.895],1,[],{0: 'NaN'},"['Asked about the cause of this phenomenon. Mr. Barrett, Director for Fuel at the ministry of Transport, declined to comment, saying only that his department was continuing its investigations. ']"
+T_15,43,ROI_676.png,149112,342,436,0.29,[],['NONE'],"[0.904, 0.862]",2,[],"{0: 'NaN', 1: 'NaN'}","['Yes, and thank heavens, war seems to have been ', ""There, I'm back. you 're listening to the news? ""]"
+T_15,43,ROI_677.png,195315,449,435,0.245,[],['NONE'],"[0.935, 0.742]",2,[],"{0: 'NaN', 1: 'NaN'}","[""About Professor Smith. you were saying that he wasn't very agreeable. "", 'And so, what were we talking about? ']"
+T_15,43,ROI_678.png,227156,521,436,0.542,[],['NONE'],[0.669],1,[],{0: 'NaN'},"[""That's the truth... Only, he is extremely rich. and I'm his principal supplier. have besides the custom of all the notables in the he's well, the Emir, alas. Unlike his ghastly son!. pest adjust been ""]"
+T_15,43,ROI_679.png,203696,464,439,0.248,[],['NONE'],[0.962],1,[],{0: 'NaN'},['would like that?. course!... It would be the crowning achievement of my career.... only. what would have to do? ']
+T_15,43,ROI_680.png,194916,444,439,0.213,[],['NONE'],[0.964],1,[],{0: 'NaN'},"[""Into Professor Smith's house?. What's the link?... Still, if you want to. It's very easy.... go there every morning.... ""]"
+T_15,43,ROI_681.png,174762,399,438,0.174,[],['NONE'],"[0.819, 0.688]",2,[],"{0: 'NaN', 1: 'NaN'}","['Salaamaleikum Mourad! ', 'Aleikum sala.... school ']"
+T_15,43,ROI_682.png,180868,412,439,0.193,[],['NONE'],[0.944],1,[],{0: 'NaN'},"[""He's my nephew. would like to introduce him palace servants. ""]"
+T_15,43,ROI_683.png,194920,443,440,0.358,[],['NONE'],"[0.912, 0.886]",2,[],"{0: 'NaN', 1: 'NaN'}","['My friends, please cam. introduce you to me nephew. Alvaro who has just come from Portugal.... The poor boy. is an orphan.. have taken him into my home.... ', 'atchoo ; ']"
+T_15,43,ROI_684.png,200200,455,440,0.0,[],['NONE'],[],0,[],{},[]
+T_15,43,ROI_685.png,150672,344,438,0.429,[],['NONE'],"[0.944, 0.917]",2,[],"{0: 'NaN', 1: 'NaN'}","['Now be a good boy. alvaroo. I have to deal with these gentlemen. Go and play in the garden.... 1"" you later. ', 'very well, uncle. ']"
+T_15,43,ROI_686.png,137578,317,434,0.434,[],['NONE'],"[0.923, 0.91]",2,[],"{0: 'NaN', 1: 'NaN'}","[""But watch out now, Alvaro. Don't make any noise. The Professor is working in his study on the first floor. You mustn't disturb him.... "", 'No, uncle. ']"
+T_15,43,ROI_687.png,108934,251,434,0.0,[],['NONE'],[],0,[],{},[]
+T_15,43,ROI_688.png,167958,387,434,0.297,[],['NONE'],[0.954],1,[],{0: 'NaN'},"['so far so good.... he\'s telling them endless stories and they. "" \'re all gathered around him.... There\'s no time to lose.... ']"
+T_15,44,ROI_690.png,172260,396,435,0.139,[],['NONE'],[0.8],1,[],{0: 'NaN'},"[""So that must be Professor Smith's study. ""]"
+T_15,44,ROI_691.png,121954,281,434,0.264,[],['NONE'],[0.953],1,[],{0: 'NaN'},"[""Let's first see if he's actually in.... a few. pebbles. ""]"
+T_15,44,ROI_692.png,108500,250,434,0.133,[],['NONE'],[0.963],1,[],{0: 'NaN'},['direct hit. on the shutters. ']
+T_15,44,ROI_693.png,61456,368,167,0.255,[],['NONE'],[0.861],1,[],{0: 'NaN'},"['sign of life?. no, nothing.... ']"
+T_15,44,ROI_694.png,95202,369,258,0.122,[],['NONE'],[0.963],1,[],{0: 'NaN'},['One more try. ']
+T_15,44,ROI_695.png,183977,421,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,44,ROI_696.png,97664,224,436,0.134,[],['NONE'],[0.968],1,[],{0: 'NaN'},"[""nobody.... all's well. ""]"
+T_15,44,ROI_697.png,135470,310,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,44,ROI_698.png,147706,338,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,44,ROI_699.png,145309,331,439,0.135,[],['NONE'],[0.857],1,[],{0: 'NaN'},['successful first time!. lucky. ']
+T_15,44,ROI_700.png,112384,256,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,44,ROI_701.png,151548,346,438,0.106,['tintin'],[0.797],[0.902],1,['1'],{0: 'tintin'},"[""That's it. Here we are.... ""]"
+T_15,44,ROI_702.png,158118,361,438,0.102,[],['NONE'],[0.872],1,[],{0: 'NaN'},['careful.... risk. ']
+T_15,44,ROI_703.png,125568,288,436,0.429,[],['NONE'],[0.855],1,[],{0: 'NaN'},"['so, his father. who married the daughter. of Da Costa, the Lisbon himself embroiled in an incredible adventure. one day. ']"
+T_15,44,ROI_704.png,154698,354,437,0.095,[],['NONE'],[0.79],1,[],{0: 'NaN'},"[""That's alright. ""]"
+T_15,44,ROI_705.png,122516,281,436,0.308,[],['NONE'],[0.948],1,[],{0: 'NaN'},"[""first, the door... Like that, if anyone comes I'll have time to disappear. ""]"
+T_15,44,ROI_706.png,162127,371,437,0.041,[],['NONE'],[0.824],1,[],{0: 'NaN'},['?']
+T_15,45,ROI_708.png,117384,268,438,0.389,[],['NONE'],[0.915],1,[],{0: 'NaN'},"[""the key The door's locked from the inside. no-one in the room!. What does that mean? ""]"
+T_15,45,ROI_709.png,286672,656,437,0.107,[],['NONE'],[0.693],1,[],{0: 'NaN'},"[""I'll figure that out later. Let's take a glance at the papers on the desk. ""]"
+T_15,45,ROI_710.png,80958,393,206,0.181,[],['NONE'],[0.772],1,[],{0: 'NaN'},"[""What's in this folder? ""]"
+T_15,45,ROI_711.png,88085,395,223,0.192,[],['NONE'],[0.941],1,[],{0: 'NaN'},['well. Well.. Newspaper cuttings! ']
+T_15,45,ROI_712.png,178673,407,439,0.166,[],['NONE'],[0.696],1,[],{0: 'NaN'},['more petrol blasts. pyour Motoring Correspond the reset. copi- ']
+T_15,45,ROI_713.png,110124,252,437,0.391,[],['NONE'],[0.942],1,[],{0: 'NaN'},['Now why is Dr. Miller so interested in this petrol I wonder if. ']
+T_15,45,ROI_714.png,113004,258,438,0.181,[],['NONE'],"[0.896, 0.866]",2,[],"{0: 'NaN', 1: 'NaN'}","['21 ', 'ATC HOO ']"
+T_15,45,ROI_715.png,170430,390,437,0.217,['tintin'],[0.789],"[0.956, 0.871]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['Great snakes. is opening..... must hide! ', 'aaah. ']"
+T_15,45,ROI_716.png,190965,435,439,0.0,[],['NONE'],[],0,[],{},[]
+T_15,45,ROI_717.png,137970,315,438,0.0,['tintin'],[0.825],[],0,[],{},[]
+T_15,45,ROI_718.png,111690,255,438,0.354,[],['NONE'],[0.94],1,[],{0: 'NaN'},"[""what's he doing there, in that corner?. Ah.l It's there that the device that controls the trapdoor must be concealed.... ""]"
+T_15,45,ROI_719.png,131400,300,438,0.263,['haddock'],[0.806],[0.942],1,['1'],{0: 'haddock'},['aaah. school. tchoo!. That filthy little pestl. ']
+T_15,45,ROI_720.png,151016,344,439,0.379,[],['NONE'],[0.922],1,[],{0: 'NaN'},"[""it's a igot him. to hand over that damned in exchange for the roller skates. ""]"
+T_15,45,ROI_721.png,148280,337,440,0.181,['haddock'],[0.768],[0.906],1,['1'],{0: 'haddock'},"[""There it is.... I'll burn it later.... ""]"
+T_15,45,ROI_722.png,140556,318,442,0.137,[],['NONE'],[0.872],1,[],{0: 'NaN'},"[""Dash! He's started writing. ""]"
+T_15,45,ROI_723.png,138659,313,443,0.268,[],['NONE'],[0.944],1,[],{0: 'NaN'},"[""let's hope he's not going to be too long. I'm starting i get pins ""]"
+T_15,46,ROI_725.png,127020,290,438,0.041,[],['NONE'],[0.877],1,[],{0: 'NaN'},['?']
+T_15,46,ROI_726.png,51238,274,187,0.142,[],['NONE'],[0.917],1,[],{0: 'NaN'},['ach! wasp.l.... ']
+T_15,46,ROI_727.png,166381,379,439,0.179,[],['NONE'],"[0.898, 0.627]",2,[],"{0: 'NaN', 1: 'NaN'}","['Donnerwetter! get away!. ', 'donnerwetter! Get away! ']"
+T_15,46,ROI_728.png,157162,358,439,0.131,[],['NONE'],"[0.936, 0.619]",2,[],"{0: 'NaN', 1: 'NaN'}","['Ach! There. will youryour. ', 'Ach! There. will youryour. ']"
+T_15,46,ROI_729.png,66550,275,242,0.126,[],['NONE'],[0.947],1,[],{0: 'NaN'},['buzz off. vile thing. ']
+T_15,46,ROI_730.png,295849,677,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,46,ROI_731.png,119301,273,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,46,ROI_732.png,158631,363,437,0.171,[],['NONE'],[0.918],1,[],{0: 'NaN'},['damnation. done?. window. Fresh air!.... ']
+T_15,46,ROI_733.png,151986,347,438,0.0,['haddock'],[0.825],[],0,[],{},[]
+T_15,46,ROI_734.png,128041,293,437,0.186,[],['NONE'],"[0.745, 0.656]",2,[],"{0: 'NaN', 1: 'NaN'}","['?', 'ETCHOOD I ']"
+T_15,46,ROI_735.png,111435,255,437,0.169,[],['NONE'],[0.939],1,[],{0: 'NaN'},['Can that be am AAAAY. AAAAH. aaaah. ']
+T_15,46,ROI_736.png,179580,410,438,0.101,[],['NONE'],"[0.853, 0.776]",2,[],"{0: 'NaN', 1: 'NaN'}","['!', 'itchbook. ']"
+T_15,46,ROI_737.png,175428,396,443,0.246,[],['NONE'],"[0.967, 0.784]",2,[],"{0: 'NaN', 1: 'NaN'}","[""alright. I'm coming.... "", 'Come out of there.... Aaah.... Or. IN. ']"
+T_15,46,ROI_738.png,165816,376,441,0.382,['haddock'],[0.709],"[0.908, 0.847]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['aaah. My name is. Aaah... Alvaro... Aaah.... aaah. aim. the nephew of. alaska. aaah.... ', 'Who. Aaah.... young And what are you doing ']"
+T_15,46,ROI_739.png,240345,545,441,0.0,"['tintin', 'calculus']","[0.762, 0.728]",[],0,[],{},[]
+T_15,47,ROI_741.png,181280,412,440,0.127,['tintin'],[0.933],"[0.94, 0.844]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['Yes, I... aaah. sadaah.... ', 'tintin!. ']"
+T_15,47,ROI_742.png,115198,482,239,0.215,['tintin'],[0.872],[0.816],1,[],{0: 'NaN'},"['This time, my friend. your score is. alaska. is settled. ']"
+T_15,47,ROI_743.png,187892,428,439,0.0,['tintin'],[0.883],[],0,[],{},[]
+T_15,47,ROI_744.png,92625,475,195,0.112,['tintin'],[0.932],"[0.919, 0.911]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['aaaah. ', 'UNKNOWN']"
+T_15,47,ROI_745.png,168630,385,438,0.114,['tintin'],[0.947],[0.93],1,['1'],{0: 'tintin'},"[""That's spot groggy. ' One more right, ""]"
+T_15,47,ROI_746.png,202379,461,439,0.094,[],['NONE'],"[0.925, 0.922]",2,[],"{0: 'NaN', 1: 'NaN'}","['aaaaa aaah. ', 'UNKNOWN']"
+T_15,47,ROI_747.png,205827,471,437,0.0,['tintin'],[0.887],[],0,[],{},[]
+T_15,47,ROI_748.png,201110,455,442,0.066,['tintin'],[0.863],[0.901],1,[],{0: 'NaN'},['tchoo! ']
+T_15,47,ROI_749.png,143325,325,441,0.0,['tintin'],[0.862],[],0,[],{},[]
+T_15,47,ROI_750.png,241092,543,444,0.124,['tintin'],[0.921],"[0.929, 0.719]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['!', ""I'll wring. your miserable neck, swine, ""]"
+T_15,47,ROI_751.png,209124,471,444,0.0,[],['NONE'],[],0,[],{},[]
+T_15,47,ROI_752.png,136136,308,442,0.136,['tintin'],[0.91],[0.949],1,['1'],{0: 'tintin'},"[""This time he's out for the count! ""]"
+T_15,47,ROI_754.png,158760,360,441,0.0,['tintin'],[0.917],[],0,[],{},[]
+T_15,47,ROI_755.png,47684,182,262,0.2,['tintin'],[0.863],[0.875],1,[],{0: 'NaN'},['etchbook. ']
+T_15,48,ROI_758.png,176144,404,436,0.312,['tintin'],[0.801],[0.925],1,[],{0: 'NaN'},"[""phewl He's still out cold... Now, quick : tie him up, gag and conceal him somewhere, and telephone the Emir. ""]"
+T_15,48,ROI_759.png,216752,496,437,0.358,[],['NONE'],[0.709],1,[],{0: 'NaN'},"[""Alas! The poor woman never recovered! She died. overcome by grief, at the age of ninety-seven. Her husband, his heart broken, soon followed her to the grave. But the terrible tragedies of this unfortunate family didn't stop there. their son. ""]"
+T_15,48,ROI_760.png,180960,416,435,0.138,[],['NONE'],[0.818],1,[],{0: 'NaN'},"['There, Dr. Miller. Now, you be on your best behaviour.... ']"
+T_15,48,ROI_761.png,99426,227,438,0.453,['tintin'],[0.769],[0.892],1,['1'],{0: 'tintin'},"[""hello?.... The Emir's palace?. would like to speak highness. tintin. hello?. that you, Your ""]"
+T_15,48,ROI_762.png,126730,290,437,0.424,[],['NONE'],[0.919],1,[],{0: 'NaN'},['tintin?. young. At the house of Professor Smith?. what?. My son is there?. prisoner! What are you saying?. What?. Ah. Did youryour. ']
+T_15,48,ROI_763.png,105996,242,438,0.467,['tintin'],[0.823],[0.929],1,['1'],{0: 'tintin'},"[""Send your men to Wadesdale and surround the Professor's palace. In the meantime, i'll try and free your son.... ""]"
+T_15,48,ROI_764.png,90228,206,438,0.334,['tintin'],[0.897],[0.953],1,['1'],{0: 'tintin'},"[""I don't like these toys much. but in this case, it would be better to be armed. ""]"
+T_15,48,ROI_765.png,147840,336,440,0.137,['tintin'],[0.934],[0.919],1,['1'],{0: 'tintin'},"[""And now, let's have a closer look at this. ""]"
+T_15,48,ROI_766.png,163240,371,440,0.027,['tintin'],[0.919],[0.88],1,['1'],{0: 'tintin'},['?']
+T_15,48,ROI_767.png,169840,386,440,0.137,['tintin'],[0.949],[0.902],1,['1'],{0: 'tintin'},['Concrete tunnels.... A narrow gauge railway track. ']
+T_15,48,ROI_768.png,106480,242,440,0.068,['tintin'],[0.98],[0.919],1,['1'],{0: 'tintin'},['and here?. ']
+T_15,48,ROI_769.png,69486,313,222,0.246,[],['NONE'],[0.756],1,[],{0: 'NaN'},['fully-fledged bunker!. ']
+T_15,48,ROI_770.png,66254,314,211,0.373,[],['NONE'],[0.804],1,[],{0: 'NaN'},['With gun emplacements overlooking the city and port.... ']
+T_15,48,ROI_771.png,123954,283,438,0.218,['tintin'],[0.918],[0.957],1,['1'],{0: 'tintin'},['My word! One would think one was on the Maginot line. ']
+T_15,48,ROI_772.png,49680,240,207,0.142,['tintin'],[0.924],[0.849],1,[],{0: 'NaN'},['aaah. ']
+T_15,48,ROI_773.png,118260,270,438,0.13,['tintin'],[0.94],"[0.931, 0.921]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['?', 'Is that you, boss?. ']"
+T_15,48,ROI_774.png,227760,520,438,0.117,['tintin'],[0.778],"[0.878, 0.773]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['aaaaaway. ', 'boss?. ']"
+T_15,48,ROI_775.png,53743,241,223,0.0,['tintin'],[0.777],[],0,[],{},[]
+T_15,49,ROI_778.png,172872,392,441,0.097,[],['NONE'],[0.873],1,[],{0: 'NaN'},"[""nobody.... That's strange!. ""]"
+T_15,49,ROI_779.png,106722,242,441,0.208,[],['NONE'],[0.947],1,[],{0: 'NaN'},['could have sworn heard someone sneeze. ']
+T_15,49,ROI_780.png,115280,262,440,0.0,['tintin'],[0.89],[],0,[],{},[]
+T_15,49,ROI_781.png,179046,406,441,0.283,['tintin'],[0.885],"[0.956, 0.939, 0.6]",3,"['1', '2', '3']","{0: 'tintin', 1: 'tintin', 2: 'tintin'}","['!', 'Stop!. Hands up... or ', 'Stop!. Hands up... or ']"
+T_15,49,ROI_782.png,153824,352,437,0.179,['tintin'],[0.937],[0.912],1,['1'],{0: 'tintin'},"['Not a movement, not a sound!.... or else! ']"
+T_15,49,ROI_783.png,163875,375,437,0.315,['tintin'],[0.93],[0.973],1,['1'],{0: 'tintin'},"[""good.... And now, you'll take me to where the Emir's son is held... Get going, and no monkey business. understand?. ""]"
+T_15,49,ROI_784.png,107256,246,436,0.0,['tintin'],[0.909],[],0,[],{},[]
+T_15,49,ROI_785.png,143880,330,436,0.225,['tintin'],[0.967],"[0.932, 0.86]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""Good. You've got the key?... Open up.... "", 'there. ']"
+T_15,49,ROI_786.png,154528,352,439,0.224,['tintin'],[0.948],[0.936],1,['1'],{0: 'tintin'},"[""That's it?. now. Face to the wall and keep. your hands up.... ""]"
+T_15,49,ROI_787.png,251412,574,438,0.129,['tintin'],[0.946],[0.629],1,[],{0: 'NaN'},"['Quick, Abdullah!.... quick taking you back to your papa.... ']"
+T_15,49,ROI_788.png,171258,391,438,0.262,['tintin'],[0.938],"[0.967, 0.879]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""Nah, don't want to go home. I'm having fun here!. And anyway. let me go, I'm staying here, there, "", 'but. ']"
+T_15,49,ROI_789.png,121716,276,441,0.0,['tintin'],[0.881],[],0,[],{},[]
+T_15,49,ROI_790.png,124803,283,441,0.218,['tintin'],[0.941],[0.946],1,['1'],{0: 'tintin'},"[""Abdullah.... Let's go. come abdullah.. There's no time to lose.... ""]"
+T_15,49,ROI_791.png,145971,331,441,0.0,['snowy'],[0.84],[],0,[],{},[]
+T_15,49,ROI_792.png,185661,421,441,0.069,['t-t'],[0.708],"[0.887, 0.852]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['his still ', '?']"
+T_15,50,ROI_794.png,188770,430,439,0.143,['tintin'],[0.766],"[0.919, 0.749]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['If only could.... ', 'serves you ha-hal. ']"
+T_15,50,ROI_795.png,222573,507,439,0.202,['tintin'],[0.729],"[0.953, 0.862]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['you forgot this one, my good man! ', ""l've spot abdullah's igot key. l've egot the key.l. ""]"
+T_15,50,ROI_796.png,164560,374,440,0.23,['tintin'],[0.897],"[0.968, 0.837]",2,[],"{0: 'NaN', 1: 'NaN'}","['abdullah come on, no more nonsense, come nowl. quick shant! ', 'shant! ']"
+T_15,50,ROI_797.png,121049,277,437,0.078,[],['NONE'],[0.899],1,[],{0: 'NaN'},['abdullah. ']
+T_15,50,ROI_798.png,104880,240,437,0.239,['tintin'],[0.919],[0.929],1,['1'],{0: 'tintin'},"[""Abdullah, I... drati He's locked the door! ""]"
+T_15,50,ROI_799.png,63920,235,272,0.347,['tintin'],[0.833],[0.943],1,['1'],{0: 'tintin'},"[""For heaven's sake, Abdullah, open the door, and be about wittlers ""]"
+T_15,50,ROI_800.png,92644,212,437,0.167,['tintin'],[0.81],[0.978],1,['1'],{0: 'tintin'},"['My God, what can do? ']"
+T_15,50,ROI_801.png,146395,335,437,0.339,['tintin'],[0.922],"[0.945, 0.613]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""well, alright.... stay if you want!. cinema without you, that's all. off. "", ""don't care. ""]"
+T_15,50,ROI_803.png,121486,278,437,0.0,['tintin'],[0.918],[],0,[],{},[]
+T_15,50,ROI_804.png,57305,365,157,0.085,[],['NONE'],[0.805],1,[],{0: 'NaN'},['?']
+T_15,50,ROI_805.png,126730,290,437,0.154,['tintin'],[0.913],"[0.901, 0.845]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['shant. ', 'ABDULLAH.... Come here!. ']"
+T_15,50,ROI_806.png,163308,372,439,0.065,['tintin'],[0.911],"[0.883, 0.816]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['shant! ', 'UNKNOWN']"
+T_15,50,ROI_807.png,100191,367,273,0.0,['tintin'],[0.903],[],0,[],{},[]
+T_15,50,ROI_808.png,153560,349,440,0.0,['tintin'],[0.781],[],0,[],{},[]
+T_15,50,ROI_809.png,169840,386,440,0.18,['tintin'],[0.96],"[0.918, 0.881]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['size ', 'W.W.A.A.A.A.A.A.A.A ']"
+T_15,50,ROI_810.png,121880,277,440,0.166,['tintin'],[0.901],"[0.956, 0.932]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","['11 ', ""be quiet, for pity's sake! ""]"
+T_15,50,ROI_811.png,130240,296,440,0.082,[],['NONE'],[0.904],1,[],{0: 'NaN'},['Ye Owen. ']
+T_15,51,ROI_813.png,152424,348,438,0.219,['tintin'],[0.931],"[0.953, 0.894]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['Informal little pestil Will you shut up, yes or no? ', 'shant. ']"
+T_15,51,ROI_814.png,164808,378,436,0.133,['tintin'],[0.904],[0.904],1,['1'],{0: 'tintin'},['waaah. waaah. ']
+T_15,51,ROI_815.png,136032,312,436,0.231,[],['NONE'],"[0.942, 0.911]",2,[],"{0: 'NaN', 1: 'NaN'}","['things are still alright. on this side. should. ', 'waaah. ']"
+T_15,51,ROI_816.png,116412,267,436,0.054,[],['NONE'],[0.796],1,[],{0: 'NaN'},['yaasam. waaah. ']
+T_15,51,ROI_817.png,129789,297,437,0.067,[],['NONE'],[0.853],1,[],{0: 'NaN'},['yeowi ']
+T_15,51,ROI_818.png,205860,470,438,0.209,['tintin'],[0.936],"[0.917, 0.715]",2,[],"{0: 'NaN', 1: 'NaN'}","['Oh, yes. ', ""You're really mean. I'm going to tell on you to my the Emirl. ""]"
+T_15,51,ROI_819.png,117553,269,437,0.302,['tintin'],[0.864],"[0.937, 0.936]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['?', ""Great snakes. He's come to, He's certain to have given the alarm.... ""]"
+T_15,51,ROI_820.png,117116,268,437,0.329,[],['NONE'],"[0.928, 0.755]",2,[],"{0: 'NaN', 1: 'NaN'}","['my Papa will have you flogged.... then impaled!. ', 'good idea ']"
+T_15,51,ROI_821.png,171210,390,439,0.426,[],['NONE'],"[0.926, 0.871]",2,[],"{0: 'NaN', 1: 'NaN'}","[""quick, Mourad!.... Go and fetch Daoud and Abdul. Take Daoud with you and go round by the other way out. Send Abdul to me... I'll wait with him here for that little worn.... "", 'right. master. ']"
+T_15,51,ROI_822.png,180018,411,438,0.402,[],['NONE'],[0.89],1,[],{0: 'NaN'},"[""Now, at that moment, the count intervened.... in Portuguese ( since don't forget that was his mother tongue ) and, without hesitating, he threw open the door.... The sight he saw froze his blood.... ""]"
+T_15,51,ROI_823.png,225132,514,438,0.131,[],['NONE'],[0.878],1,[],{0: 'NaN'},['daoud. quick Come with me. The master needs us. ']
+T_15,51,ROI_824.png,138408,316,438,0.398,[],['NONE'],[0.917],1,[],{0: 'NaN'},"[""io er. back. an appointment that I'd forgotten.... ER. If you my nephew, send him see back to me... Goodbye! ""]"
+T_15,51,ROI_825.png,128915,295,437,0.211,[],['NONE'],[0.944],1,[],{0: 'NaN'},"['With us here, and Mourad and Daoud at the other end his ']"
+T_15,51,ROI_826.png,152950,350,437,0.212,['tintin'],[0.924],[0.964],1,[],{0: 'NaN'},"[""then, he'll cut off your head.... And he'll play skittles with it, so there!. ""]"
+T_15,51,ROI_827.png,150138,342,439,0.182,[],['NONE'],[0.934],1,[],{0: 'NaN'},"[""He can't escape... With the boss at the other way out.... ""]"
+T_15,52,ROI_829.png,139084,319,436,0.139,[],['NONE'],[0.91],1,[],{0: 'NaN'},['Poor Tintin!.. happen to him?.... ']
+T_15,52,ROI_830.png,102896,236,436,0.258,[],['NONE'],[0.942],1,[],{0: 'NaN'},"[""But I'm not seeing things.... It looks like. it's Snowy!. ""]"
+T_15,52,ROI_831.png,149548,343,436,0.236,['snowy'],[0.725],[0.886],1,[],{0: 'NaN'},"['But we left him shut up at my house, he manage to escape?. ']"
+T_15,52,ROI_832.png,173565,399,435,0.098,[],['NONE'],[0.732],1,[],{0: 'NaN'},"['snowy!. Here, Snowy!.... ']"
+T_15,52,ROI_833.png,213793,487,439,0.204,['tintin'],[0.921],"[0.916, 0.912]",2,[],"{0: 'NaN', 1: 'NaN'}","['Yes, rail tracks. But you can play later. ', 'Oh! Look. rails. rail tracks to play trains. ']"
+T_15,52,ROI_834.png,208488,476,438,0.108,['tintin'],[0.927],[0.92],1,[],{0: 'NaN'},"['noil want to play trains, now!.... ']"
+T_15,52,ROI_835.png,152950,350,437,0.18,['tintin'],[0.915],"[0.827, 0.777]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['Chuff-Chuff-Chuff -chuff. ', 'Abdullah.. ']"
+T_15,52,ROI_836.png,224400,510,440,0.149,['tintin'],[0.956],"[0.9, 0.87]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['yeown! ', 'Abdullah.. will you stop now, yes or not. ']"
+T_15,52,ROI_837.png,209475,475,441,0.067,['tintin'],[0.922],"[0.927, 0.886]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['?', 'yeowww. ']"
+T_15,52,ROI_838.png,145748,332,439,0.139,['tintin'],[0.905],[0.854],1,[],{0: 'NaN'},['Chuff-Chuff-Chuff-Chuff.... ']
+T_15,52,ROI_839.png,159201,361,441,0.176,['tintin'],[0.906],"[0.908, 0.869]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","['Abdullah.. For goodness sake. stop.l. come back. ', 'tocoot. ']"
+T_15,52,ROI_840.png,184360,419,440,0.095,['tintin'],[0.933],"[0.855, 0.673]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['!', 'Go on, Abdul.L. ']"
+T_15,52,ROI_841.png,235304,536,439,0.021,[],['NONE'],[0.832],1,[],{0: 'NaN'},['yeownies. ']
+T_15,53,ROI_843.png,179170,410,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,53,ROI_844.png,226720,520,436,0.037,[],['NONE'],"[0.92, 0.843]",2,[],"{0: 'NaN', 1: 'NaN'}","['?', 'owns. ']"
+T_15,53,ROI_845.png,169993,389,437,0.084,[],['NONE'],"[0.921, 0.84]",2,[],"{0: 'NaN', 1: 'NaN'}","['quick, Abdul.. ', 'size ']"
+T_15,53,ROI_846.png,138846,317,438,0.139,[],['NONE'],[0.767],1,[],{0: 'NaN'},['Stop him. closing abdul. ']
+T_15,53,ROI_847.png,142025,325,437,0.033,[],['NONE'],[0.893],1,[],{0: 'NaN'},['dash! ']
+T_15,53,ROI_848.png,131672,302,436,0.0,['tintin'],[0.861],[],0,[],{},[]
+T_15,53,ROI_849.png,157396,361,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,53,ROI_850.png,135470,310,437,0.261,['tintin'],[0.911],"[0.951, 0.812]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","[""Just as your magazine is empty?.... you'll see. "", 'surrender!. ']"
+T_15,53,ROI_851.png,201042,459,438,0.041,[],['NONE'],"[0.909, 0.903]",2,[],"{0: 'NaN', 1: 'NaN'}","['!', 'nuts. ']"
+T_15,53,ROI_852.png,129352,296,437,0.216,['tintin'],[0.935],[0.927],1,[],{0: 'NaN'},"[""phewl again. I've got a moment's respite movedness. But that was close shavel. ""]"
+T_15,53,ROI_853.png,104204,239,436,0.05,['tintin'],[0.938],[0.872],1,['1'],{0: 'tintin'},['?']
+T_15,53,ROI_854.png,152164,349,436,0.179,['tintin'],[0.898],[0.939],1,['1'],{0: 'tintin'},['help. rockets. And who knows? perhaps ammunition too. ']
+T_15,53,ROI_855.png,158704,364,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,53,ROI_856.png,265923,603,441,0.0,['tintin'],[0.814],[],0,[],{},[]
+T_15,54,ROI_858.png,96360,220,438,0.174,['tintin'],[0.891],[0.978],1,[],{0: 'NaN'},['It seems to be calming down little. ']
+T_15,54,ROI_859.png,56810,230,247,0.0,[],['NONE'],[],0,[],{},[]
+T_15,54,ROI_860.png,172178,394,437,0.031,['tintin'],[0.92],[0.921],1,['1'],{0: 'tintin'},['finished?. ']
+T_15,54,ROI_861.png,199688,458,436,0.08,[],['NONE'],"[0.935, 0.91]",2,[],"{0: 'NaN', 1: 'NaN'}","['?', ""charge! let's i got ""]"
+T_15,54,ROI_862.png,41860,230,182,0.089,[],['NONE'],[0.815],1,[],{0: 'NaN'},['!']
+T_15,54,ROI_863.png,120725,275,439,0.387,[],['NONE'],"[0.925, 0.918, 0.859]",3,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN'}","['wooah! wooah! ', ""I say, that's snowy.l. And then, that voice. "", ""open. Tintin!. Open up. it's me! ""]"
+T_15,54,ROI_864.png,174722,398,439,0.155,"['haddock', 'tintin']","[0.958, 0.796]","[0.928, 0.912]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","['hurrah. he is ', ""my dear captain.. good old snowy. ' ""]"
+T_15,54,ROI_865.png,140598,321,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,54,ROI_866.png,134904,308,438,0.246,['haddock'],[0.959],"[0.964, 0.858]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""Let's get out quick it's starting again.... "", ""Well, that's some welcome!. ""]"
+T_15,54,ROI_867.png,187902,429,438,0.164,['tintin'],[0.947],[0.949],1,[],{0: 'NaN'},"[""All rounded ump? excellent. How did you manage that?. And as for you, Captain. how come you're here?. ""]"
+T_15,54,ROI_868.png,117116,268,437,0.479,"['haddock', 'tintin']","[0.952, 0.811]","[0.935, 0.833]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""hold it! sorry. first one question : has the Emir's son been found? "", 'Oh well, there, 1"" explain things. "" YOU. imagine.... ']"
+T_15,54,ROI_869.png,129648,296,438,0.314,"['haddock', 'snowy', 'tintin']","[0.952, 0.892, 0.802]","[0.921, 0.904]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","[""I don't know. haven't see him... Not since came,.... "", 'quick ']"
+T_15,54,ROI_870.png,135596,311,436,0.297,['haddock'],[0.846],"[0.841, 0.608]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['Yes, he was there a short while ago.... was wanting just ', 'Is the Emir up there? ']"
+T_15,54,ROI_871.png,118916,274,434,0.066,['haddock'],[0.905],[0.872],1,['1'],{0: 'haddock'},['There he is! ']
+T_15,54,ROI_872.png,175708,403,436,0.438,[],['NONE'],"[0.878, 0.842]",2,[],"{0: 'NaN', 1: 'NaN'}","['Ah. Tintin. Tintin. all is lost.. We came too late. dastardly Professor Smith has fled by car. taking with him my little sugar plum.... ', ""he's being pursued. hope? ""]"
+T_15,54,ROI_873.png,134596,308,437,0.381,[],['NONE'],"[0.933, 0.855]",2,[],"{0: 'NaN', 1: 'NaN'}","['Yes, yes, of course.... My mounted. iquard are giving chase. in a jeep.... ', 'otherwell. In that case.... ']"
+T_15,54,ROI_874.png,139163,317,439,0.09,"['haddock', 'snowy']","[0.974, 0.847]","[0.926, 0.871, 0.756]",3,"['1', '2', '3']","{0: 'haddock', 1: 'haddock', 2: 'snowy'}","['?', '?', ""aha' ""]"
+T_15,55,ROI_876.png,130524,298,438,0.232,['tintin'],[0.917],"[0.905, 0.87]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['Who does that carr. belong top ', 'mel. why? ']"
+T_15,55,ROI_877.png,234568,538,436,0.078,"['haddock', 'snowy']","[0.931, 0.887]","[0.829, 0.752]",2,['1'],"{0: 'snowy', 1: 'NaN'}","['!', 'quick, ']"
+T_15,55,ROI_878.png,102225,235,435,0.259,[],['NONE'],[0.944],1,[],{0: 'NaN'},"[""Stop! It's my car!. you can't.. It's mine. ""]"
+T_15,55,ROI_879.png,104640,240,436,0.218,[],['NONE'],[0.958],1,[],{0: 'NaN'},"[""Don't let them go!. they'd ' 11 damage. my carl. ""]"
+T_15,55,ROI_880.png,265428,606,438,0.29,[],['NONE'],"[0.892, 0.659]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Yes, it's the only possible road. But tell me, Captain, you still haven't explained your presence here?.... "", ""You're sure that this is the right direction?.... ""]"
+T_15,55,ROI_881.png,141264,324,436,0.476,"['tintin', 'haddock']","[0.852, 0.734]","[0.948, 0.91]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Ahl. Here already are the Emir's cavalrymen.... you see we're on the right route.... "", ""Well! It's both very simple and quite complicated.... But first you must know. ""]"
+T_15,55,ROI_882.png,168296,386,436,0.183,[],['NONE'],[0.972],1,[],{0: 'NaN'},['But sorry to have interrupted you. Captain. You were saying that... ']
+T_15,55,ROI_883.png,156996,356,441,0.459,[],['NONE'],"[0.953, 0.916]",2,[],"{0: 'NaN', 1: 'NaN'}","['look. over there. could it be Professor smith already?.... ', 'well. was telling. at one and the same time simple and highly complicated.... you remember that. ']"
+T_15,55,ROI_884.png,223960,509,440,0.163,[],['NONE'],[0.94],1,[],{0: 'NaN'},"[""No, it's the Thompsons' jeep.... We'll overtake it. ""]"
+T_15,55,ROI_885.png,198852,454,438,0.051,[],['NONE'],"[0.89, 0.864]",2,[],"{0: 'NaN', 1: 'NaN'}","['!', 'UNKNOWN']"
+T_15,55,ROI_886.png,163500,375,436,0.169,['t-t'],[0.925],"[0.939, 0.802]",2,['1'],"{0: 't-t', 1: 'NaN'}","['What are you doing?. ', ""hang on, that's funny.... wonder why.... ""]"
+T_15,55,ROI_887.png,226008,516,438,0.029,[],['NONE'],[0.958],1,[],{0: 'NaN'},['!']
+T_15,55,ROI_888.png,187440,426,440,0.183,['t-t'],[0.937],[0.832],1,[],{0: 'NaN'},['Well. What on earth came over you?. white. did you. jiget car was moving?. ']
+T_15,56,ROI_890.png,163374,373,438,0.399,['t-t'],[0.934],[0.961],1,[],{0: 'NaN'},"[""Moving?. We were moving?.... Oh, now understand!... It was the other car that overtook ussi It was going so fast that thought we'd stopped. ""]"
+T_15,56,ROI_891.png,214130,490,437,0.0,[],['NONE'],[],0,[],{},[]
+T_15,56,ROI_892.png,95444,446,214,0.187,[],['NONE'],"[0.956, 0.953]",2,[],"{0: 'NaN', 1: 'NaN'}","[""I'm thirsty. "", 'me too.. ']"
+T_15,56,ROI_893.png,95424,448,213,0.266,[],['NONE'],"[0.91, 0.902]",2,[],"{0: 'NaN', 1: 'NaN'}","['later.... ', 'I want an ice-cream. ']"
+T_15,56,ROI_894.png,172656,396,436,0.265,['haddock'],[0.815],[0.953],1,[],{0: 'NaN'},['noil immediately!.... want an ice-cream now.l.. to go back home to my. ifather.... ']
+T_15,56,ROI_895.png,94528,448,211,0.0,[],['NONE'],[],0,[],{},[]
+T_15,56,ROI_896.png,205320,472,435,0.218,[],['NONE'],[0.927],1,[],{0: 'NaN'},"['And now shut up. or else. And sit down here!. will you stay joint here, Abdullah.. ']"
+T_15,56,ROI_897.png,96535,449,215,0.176,[],['NONE'],[0.834],1,[],{0: 'NaN'},"[""Shut up! There's your ice-cream ""]"
+T_15,56,ROI_898.png,114268,539,212,0.357,[],['NONE'],"[0.89, 0.863]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Shan't I'm staying here. so you. 're nasty. tomy father.... is the Emir. "", 'alright. alright.... ']"
+T_15,56,ROI_899.png,165244,379,436,0.476,[],['NONE'],"[0.936, 0.908]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Oh! That's right. didn't continue my story.... was telling you that it was at the same time quite "", ""That's him there!. The dust cloud, over there. must be Professor Smith!. ""]"
+T_15,56,ROI_900.png,83556,396,211,0.0,[],['NONE'],[],0,[],{},[]
+T_15,56,ROI_901.png,58362,274,213,0.063,[],['NONE'],[0.826],1,[],{0: 'NaN'},['?']
+T_15,56,ROI_902.png,53889,253,213,0.199,[],['NONE'],[0.794],1,[],{0: 'NaN'},['Heel Heel itching. powder! ']
+T_15,56,ROI_903.png,40896,192,213,0.075,[],['NONE'],[0.846],1,[],{0: 'NaN'},['?']
+T_15,56,ROI_904.png,40704,192,212,0.0,[],['NONE'],[],0,[],{},[]
+T_15,56,ROI_905.png,51906,246,211,0.0,[],['NONE'],[],0,[],{},[]
+T_15,56,ROI_906.png,122952,282,436,0.0,[],['NONE'],[],0,[],{},[]
+T_15,56,ROI_907.png,168630,385,438,0.029,[],['NONE'],[0.795],1,[],{0: 'NaN'},['!']
+T_15,56,ROI_908.png,172088,392,439,0.337,[],['NONE'],"[0.933, 0.683]",2,[],"{0: 'NaN', 1: 'NaN'}","['My God!. All that smoke!. happened to them?. ', 'My God!. All that smoke!. happened to them?. ']"
+T_15,56,ROI_909.png,52364,247,212,0.0,[],['NONE'],[],0,[],{},[]
+T_15,57,ROI_911.png,142025,325,437,0.394,[],['NONE'],[0.895],1,[],{0: 'NaN'},"[""Look at the tyre marks. The professor must have lost control of the steering. the car rolled over and burst into flames... Let's hope nothing has happened to the little boy.boy. ""]"
+T_15,57,ROI_912.png,307648,704,437,0.062,[],['NONE'],[0.931],1,[],{0: 'NaN'},['cool. had great accident.. ']
+T_15,57,ROI_913.png,125568,288,436,0.405,['haddock'],[0.731],"[0.933, 0.718]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""ssh. A car's stopping... Its doors are slamming shut.. careful. "", ""Let's have another one, what?. ""]"
+T_15,57,ROI_914.png,261763,599,437,0.123,['tintin'],[0.871],"[0.948, 0.664]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['!', ""Aha, I've egot an old score to settle with that chap!.... ""]"
+T_15,57,ROI_915.png,141375,325,435,0.349,['haddock'],[0.757],"[0.939, 0.897]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['great!. in a real lgangster. film. ', 'caught me?. not yet. one step. further and kill the child!.... ']"
+T_15,57,ROI_916.png,169604,389,436,0.298,['haddock'],[0.811],"[0.935, 0.8]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['Thanks, Abdullah!. you two, throw down your weapons. ', 'Here! Another revolver you can shoot at them with! ']"
+T_15,57,ROI_917.png,183040,416,440,0.228,"['haddock', 'tintin']","[0.971, 0.924]",[0.921],1,['1'],{0: 'tintin'},"[""So that you can shoot us like rabbits?. Not on your life, we're hanging om to them. ""]"
+T_15,57,ROI_918.png,129800,295,440,0.395,['haddock'],[0.746],[0.922],1,['1'],{0: 'haddock'},"['As you wish. But watch it!... At the first suspicious move, shoot the boy!. Get back, now. Go on, move back. step. back. ']"
+T_15,57,ROI_919.png,267520,608,440,0.12,"['tintin', 'haddock', 'snowy']","[0.944, 0.849, 0.841]",[0.733],1,['1'],{0: 'snowy'},"[""That's my is car.... Are we going to play accident again? Ooh, let's. ""]"
+T_15,57,ROI_920.png,116622,589,198,0.206,['tintin'],[0.961],[0.871],1,['1'],{0: 'tintin'},"[""Hop it! Get inside. your. and don't bother me. ""]"
+T_15,57,ROI_921.png,156200,355,440,0.381,"['haddock', 'tintin']","[0.899, 0.885]","[0.946, 0.903]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""And you two, fire one shot as drive off, and it'll spell death for that unbearable little monkey. understood?. so, goodbye!. "", 'waaah.. ']"
+T_15,57,ROI_922.png,165000,375,440,0.265,"['tintin', 'haddock']","[0.908, 0.896]","[0.948, 0.791]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","['brute. child-snatcher!. baboon!. ectoplasm. quack-doctor!. ', 'waaah.. ']"
+T_15,57,ROI_923.png,93324,404,231,0.0,[],['NONE'],[],0,[],{},[]
+T_15,57,ROI_924.png,40368,174,232,0.241,[],['NONE'],[0.881],1,[],{0: 'NaN'},['waaah. waaatil. ']
+T_15,58,ROI_926.png,104060,430,242,0.311,[],['NONE'],"[0.954, 0.86]",2,[],"{0: 'NaN', 1: 'NaN'}","[""You're really mean! I'm going back to my papa. so there. "", 'Alright... Alright.... ']"
+T_15,58,ROI_927.png,208886,478,437,0.205,"['haddock', 'tintin']","[0.941, 0.93]","[0.982, 0.878]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['!', 'Abdullah has jumped out of the carl now that changes everything!. ']"
+T_15,58,ROI_928.png,74115,405,183,0.0,['tintin'],[0.9],[],0,[],{},[]
+T_15,58,ROI_929.png,78690,430,183,0.047,[],['NONE'],[0.963],1,[],{0: 'NaN'},['!']
+T_15,58,ROI_930.png,98010,405,242,0.017,[],['NONE'],[0.892],1,[],{0: 'NaN'},['!']
+T_15,58,ROI_931.png,169556,388,437,0.244,"['tintin', 'snowy']","[0.906, 0.808]","[0.869, 0.794, 0.742]",3,"['2', '3']","{0: 'NaN', 1: 'snowy', 2: 'snowy'}","['Give up. Miller!. ', 'wooah! wooah! ', 'never!. take me alive! ']"
+T_15,58,ROI_932.png,40896,213,192,0.0,[],['NONE'],[],0,[],{},[]
+T_15,58,ROI_933.png,54817,287,191,0.0,"['snowy', 'tintin']","[0.902, 0.889]",[],0,[],{},[]
+T_15,58,ROI_934.png,0,0,0,0,"['haddock', 'tintin', 'snowy']","[0.959, 0.919, 0.816]",[],0,[],{},[]
+T_15,58,ROI_935.png,119808,512,234,0.322,['haddock'],[0.763],[0.657],1,['1'],{0: 'haddock'},"[""They've taken cover.... What next?. my only chance is to creep up behind them.... ""]"
+T_15,58,ROI_936.png,240350,550,437,0.274,"['haddock', 'snowy']","[0.966, 0.706]","[0.943, 0.636]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['waaah.. Me, want to play with the little doggie!. waaah.. ', 'will you keep quiet, you sized ']"
+T_15,58,ROI_937.png,155652,357,436,0.098,['haddock'],[0.881],[0.923],1,[],{0: 'NaN'},"['Morrid, bearded man! ']"
+T_15,58,ROI_938.png,177045,407,435,0.048,"['haddock', 'snowy']","[0.97, 0.912]",[0.901],1,[],{0: 'NaN'},['waah!. waaan.. ']
+T_15,58,ROI_939.png,145084,332,437,0.33,['haddock'],[0.972],"[0.958, 0.871]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","[""and now, thundering typhoons! Stay quiet, or else i'll liget really cross. "", 'wash. waaah.. ']"
+T_15,58,ROI_940.png,97798,457,214,0.247,['haddock'],[0.971],[0.642],1,['1'],{0: 'haddock'},"[""What's going on?. Tintin up to?.... ""]"
+T_15,58,ROI_941.png,230120,523,440,0.135,"['haddock', 'snowy']","[0.965, 0.787]",[0.926],1,['1'],{0: 'haddock'},"[""The silence worries mel. something. 's afoot, that's for sure.... ""]"
+T_15,58,ROI_942.png,98255,457,215,0.185,['haddock'],[0.963],[0.82],1,['1'],{0: 'haddock'},"[""It's too quiet. normal.... ""]"
+T_15,59,ROI_944.png,145854,333,438,0.038,['haddock'],[0.777],[0.845],1,['1'],{0: 'haddock'},['!']
+T_15,59,ROI_945.png,76659,303,253,0.375,['haddock'],[0.959],[0.862],1,['1'],{0: 'haddock'},"['Thundering typhoons. You Arabian terror, ']"
+T_15,59,ROI_946.png,179632,412,436,0.296,['snowy'],[0.76],"[0.956, 0.949]",2,[],"{0: 'NaN', 1: 'NaN'}","['over there!. miller!. to snipe at us from behind, the bandit!. Lucky that Tintin intervened. ', 'bang! blistering barmacles. bang! bang! bang. ']"
+T_15,59,ROI_947.png,110998,254,437,0.262,[],['NONE'],[0.956],1,[],{0: 'NaN'},"['donnerwetter! No more ammunition. quick, Abdullah gave miel. ']"
+T_15,59,ROI_948.png,53328,303,176,0.0,['haddock'],[0.946],[],0,[],{},[]
+T_15,59,ROI_949.png,210197,481,437,0.368,['tintin'],[0.886],"[0.861, 0.644]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['?', ""miller!. look behind youryour. The jeep that's approaching, it's the police, miller!. And over there, in the distance, the cloud of dust you see : the Emir's cavalry.. ""]"
+T_15,59,ROI_950.png,130505,607,215,0.0,['tintin'],[0.822],[],0,[],{},[]
+T_15,59,ROI_951.png,99199,227,437,0.34,['tintin'],[0.796],[0.915],1,[],{0: 'NaN'},"[""told you that you'd never stand by my word. ""]"
+T_15,59,ROI_952.png,83528,394,212,0.442,['haddock'],[0.74],[0.827],1,[],{0: 'NaN'},"['but first. must destroy Formula Fourteen capsules.... Where did I put them?. Donnerwetter, ']"
+T_15,59,ROI_953.png,42210,201,210,0.314,[],['NONE'],[0.9],1,[],{0: 'NaN'},"[""but all, it doesn't matter more. ""]"
+T_15,59,ROI_954.png,149017,341,437,0.183,"['tintin', 'snowy']","[0.932, 0.88]",[0.938],1,['1'],{0: 'tintin'},"[""In heaven's name, you wretched. Don't do it.l. ""]"
+T_15,59,ROI_955.png,116242,266,437,0.047,[],['NONE'],[0.802],1,[],{0: 'NaN'},['?']
+T_15,59,ROI_956.png,144540,330,438,0.219,['haddock'],[0.962],[0.964],1,[],{0: 'NaN'},"['It was my "" joke that I gave him!... Thundering typhoons. ']"
+T_15,59,ROI_957.png,161320,370,436,0.291,[],['NONE'],"[0.953, 0.877]",2,[],"{0: 'NaN', 1: 'NaN'}","['The drive under the beating sum. splitting headache.... ', ""you're telling me. and me tool I'm a headache!. ""]"
+T_15,59,ROI_958.png,84560,280,302,0.244,"['t-t', 't-t']","[0.923, 0.871]",[0.936],1,['1'],{0: 't-t'},"[""look. What's that there on the ground?. ""]"
+T_15,59,ROI_959.png,95256,378,252,0.36,"['t-t', 't-t']","[0.988, 0.905]",[0.832],1,['1'],{0: 't-t'},"[""A tube of aspirin. well, that's a stroke of luck. A tablet each and hey, prestol. An end to our headache! ""]"
+T_15,59,ROI_960.png,102258,234,437,0.418,"['t-t', 't-t']","[0.958, 0.923]","[0.863, 0.849]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['Oh! You know. these medicines. are never very good.... ', ""Strange taste, don't you find?. ""]"
+T_15,59,ROI_961.png,183502,418,439,0.109,['t-t'],[0.742],"[0.891, 0.698]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['bhurrup. ', 'bhurrup. ']"
+T_15,59,ROI_962.png,65424,376,174,0.097,"['t-t', 't-t']","[0.988, 0.987]","[0.903, 0.874]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['one! ', 'two! ']"
+T_15,60,ROI_965.png,208012,476,437,0.252,"['t-t', 't-t', 'tintin', 'haddock']","[0.966, 0.929, 0.864, 0.749]","[0.948, 0.839]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""My God! What's happened to their?. "", 'blistering barnacles. Look at the two Thompsons. ']"
+T_15,60,ROI_966.png,239039,547,437,0.363,"['tintin', 'haddock', 'haddock', 't-t']","[0.931, 0.895, 0.844, 0.726]","[0.947, 0.91, 0.806]",3,"['1', '2', '3']","{0: 'tintin', 1: 'haddock', 2: 't-t'}","['What aspirin? ', 'tube we just found.... Here it is. ', ""don't know.. hic. the heat, per. Unless it was that aspirin. which we e just ""]"
+T_15,60,ROI_967.png,128184,294,436,0.306,"['haddock', 'tintin']","[0.961, 0.833]",[0.948],1,['1'],{0: 'tintin'},"[""I don't understand it at all... It's a real tube of aspirin.... But let's see what it contains. ""]"
+T_15,60,ROI_968.png,137460,316,435,0.368,"['haddock', 'tintin']","[0.936, 0.874]","[0.944, 0.938]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['It is rather odd.... ', ""Strange.... The tablets bear the maker's mark. That's extraordinary, that. ""]"
+T_15,60,ROI_969.png,176580,405,436,0.209,"['haddock', 'tintin', 'snowy']","[0.952, 0.912, 0.832]","[0.944, 0.87, 0.765]",3,"['1', '2', '3']","{0: 'tintin', 1: 'tintin', 2: 'haddock'}","['Blistering-Barnacles, say, Blistering-Barnacles. look how funny they. ', '!', '!']"
+T_15,60,ROI_970.png,259260,596,435,0.324,['tintin'],[0.93],"[0.897, 0.852, 0.833, 0.78]",4,"['3', '4']","{0: 'NaN', 1: 'NaN', 2: 'tintin', 3: 'tintin'}","['thundering typhoons. again. ', 'To be. precise. hic. sick. ', ""er. think I'm going to be sick. "", ""My God, oh my God!.... But that's dreadful.. ""]"
+T_15,60,ROI_971.png,185697,423,439,0.42,"['haddock', 'tintin', 'haddock']","[0.976, 0.922, 0.765]","[0.922, 0.907, 0.809]",3,"['1', '2']","{0: 'haddock', 1: 'tintin', 2: 'NaN'}","['right-ho. ', ""We must get medical help for these unfortunate fellows. to his father... I'll go back in the jeep with Miller and the thompsons. "", 'hic.. ']"
+T_15,60,ROI_972.png,263238,601,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,60,ROI_973.png,128620,295,436,0.461,"['tintin', 'haddock']","[0.888, 0.717]","[0.959, 0.916]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""So, the tube belongs to youngers. what's "", ""There's a fortune for you if you. destroy those. aspirins instead of having them analysed!.... ""]"
+T_15,60,ROI_974.png,136155,313,435,0.363,[],['NONE'],"[0.912, 0.9]",2,[],"{0: 'NaN', 1: 'NaN'}","[""I'm sorry. Dr. Miller, but they analysed. "", 'What does it matter?. them and your fortune is made. ']"
+T_15,60,ROI_975.png,139840,320,437,0.213,[],['NONE'],[0.935],1,[],{0: 'NaN'},"['Doctor, doctor, come quickly! We have two stroordinary cases. ex. ']"
+T_15,60,ROI_976.png,302967,687,441,0.039,['tintin'],[0.92],"[0.868, 0.868]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['12 ', 'there! ']"
+T_15,61,ROI_978.png,111252,254,438,0.278,[],['NONE'],"[0.932, 0.891]",2,[],"{0: 'NaN', 1: 'NaN'}","['With Abdullah?.... ', ""Master, here's your car returning. ""]"
+T_15,61,ROI_979.png,162628,373,436,0.355,['haddock'],[0.932],"[0.926, 0.924]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['With Abdullah.!. Abdullah!. My little lamb, My chocolate-coa ited sugar plum! ', ""can't say I'm sorry to be rid of ""]"
+T_15,61,ROI_980.png,145725,335,435,0.34,['haddock'],[0.919],"[0.941, 0.773, 0.766]",3,"['1', '3']","{0: 'haddock', 1: 'NaN', 2: 'haddock'}","['At last, can enjoy quiet, satisfying smoke! ', 'My dear little pigeon in rose. petal ', 'waaah. ']"
+T_15,61,ROI_981.png,150420,345,436,0.175,[],['NONE'],[0.97],1,[],{0: 'NaN'},"['wash. Waaah!. Waah! want to stay. with Blistering-Barnacles, thundering typhoons. ']"
+T_15,61,ROI_982.png,230550,530,435,0.289,"['haddock', 'snowy']","[0.849, 0.831]","[0.944, 0.914, 0.741]",3,"['1', '2', '3']","{0: 'haddock', 1: 'haddock', 2: 'snowy'}","['Go on, do it again, if only to please him.... little. like that amuse him.... ', 'my nose! billions. of blistering barnacles. my nose!. ', 'Yes, bravo! Encorel. burn. your nose again. ']"
+T_15,61,ROI_983.png,140940,324,435,0.138,['haddock'],[0.87],[0.944],1,[],{0: 'NaN'},['ah ']
+T_15,61,ROI_984.png,201457,461,437,0.484,"['haddock', 'tintin']","[0.937, 0.936]","[0.836, 0.756]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['miller?. ', ""So, the Thompsons are in hospital. Nobody knows syet Their hair has to be cut every half an hour... I've already written to Professor Calculus to ask him to analyse the sins, spect tablets that belonged to Miller.... ""]"
+T_15,61,ROI_985.png,155572,356,437,0.414,['tintin'],[0.927],"[0.944, 0.919]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['Where is he, the miserable reptile? I will have him impaled.. ', ""Oh! That's right, Your Highness, you don't know!. Miller is the real name of Professor Smith. ""]"
+T_15,61,ROI_986.png,183540,420,437,0.463,['tintin'],[0.937],"[0.956, 0.667]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['By Allah! You Westerners are Us men of the Orient are much more direct. ', 'Miller, Your Highness, is in police custody. and live. given him my word that he will receive a fair trial. ']"
+T_15,61,ROI_987.png,235335,541,435,0.536,"['haddock', 'tintin']","[0.942, 0.927]",[0.702],1,['1'],{0: 'tintin'},"['Besides, the trial will attract a great deal of attention.... found on him. at his palace.... establish that Miller was a secret agent for major foreign power... In the event of war, he had the task, with his accomplices, of seizing oil wells, which explains the huge arsenal of weapons discovered to have Arabex ousted and replaced by Skoil. ']"
+T_15,61,ROI_988.png,157905,363,435,0.528,['tintin'],[0.906],[0.929],1,['1'],{0: 'tintin'},"[""That's the affair in a nutshell. thorough search of his residence, 25 well as the interrogation of Miller and his associates, should reveal the whole story. to sum up. it's a simple episode war over oil or, called black gold. ""]"
+T_15,61,ROI_989.png,112924,259,436,0.162,['haddock'],[0.947],[0.914],1,[],{0: 'NaN'},"[""Tintin' Tintin!. an answer from Calculus!. ""]"
+T_15,61,ROI_990.png,141912,324,438,0.0,[],['NONE'],[],0,[],{},[]
+T_15,61,ROI_991.png,159280,362,440,0.338,"['haddock', 'tintin']","[0.954, 0.918]","[0.93, 0.901]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""That's it, Captain. That explains the mystery of the exploding motor car engines. is it?. What's the matter?.... "", 'thundering ']"
+T_15,62,ROI_993.png,64477,427,151,0.299,"['haddock', 'tintin']","[0.966, 0.916]","[0.94, 0.926]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['!', 'Take a look at this photograph. blistering. barnacles. ']"
+T_15,62,ROI_994.png,113796,261,436,0.494,"['haddock', 'tintin']","[0.965, 0.926]","[0.93, 0.836]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""Let's read on, no doubt. we'll find out. "", ""my stately thundering typhoons. What's that crackpot done to my beautiful house?. ""]"
+T_15,62,ROI_995.png,125132,287,436,0.529,"['haddock', 'tintin']","[0.959, 0.9]","[0.938, 0.816]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['First experiments?. Did he then do others? 1. ', 'And the research has been very difficult. I enclose a photograph of Marlinspike Hall after the first experiments.... ']"
+T_15,62,ROI_996.png,143773,329,437,0.0,['tintin'],[0.884],[],0,[],{},[]
+T_15,62,ROI_997.png,118128,428,276,0.0,[],['NONE'],[],0,[],{},[]
+T_15,62,ROI_998.png,197538,451,438,0.482,['tintin'],[0.717],[0.689],1,[],{0: 'NaN'},"['"" The trial of Dr. Miller brings new revelations daily. Thus the mystery of the exploding motor car engines has now been It is now known that a major foreign power had developed a product, known as Formula Fourteen, which, added to petrol, increased its explosive potential tenfold.... ']"
+T_15,62,ROI_999.png,201020,460,437,0.523,[],['NONE'],[0.722],1,[],{0: 'NaN'},"['"" In the event of that power would disable the fuel reserves of its enemies in this way. The recent epidemic of motor. carr. some sort of rehearsal. on a reduced scale, for this new tactic. It is thanks to the celebrated reporter Tintin that the secret of Formula Fourteen was revealed.... ']"
+T_15,62,ROI_1000.png,178296,408,437,0.635,"['haddock', 'tintin']","[0.89, 0.881]",[0.64],1,[],{0: 'NaN'},"[""An effective counter-product, capable of neutralizing the effects of the contaminant, was by top scientist Professor Cuthbert Calculus, a friend of Tintin. The reporter's courageous intervention. certainly prevented war. As for the detectives Thomson and Thompson, who accidentally swallowed gave rise to serious concern. they. are now of out danger and recovering. ""]"
+T_15,62,ROI_1001.png,214130,490,437,0.1,"['haddock', 'tintin']","[0.95, 0.92]",[0.881],1,['1'],{0: 'haddock'},"['Ah. Yes, indeed. I.... Thank you, Your Highness.... ']"
+T_15,62,ROI_1002.png,158631,363,437,0.313,['haddock'],[0.916],[0.97],1,['1'],{0: 'haddock'},"['well. P.FF- There. P.F.F. think Pfff.... That it\'s at one and the same time quite simple. P. P. and very complicated. "" ']"
+T_15,62,ROI_1003.png,77909,461,169,0.244,['haddock'],[0.908],[0.903],1,['1'],{0: 'haddock'},['Imagine that. peff.... that. P. P. ']
+T_15,62,ROI_1004.png,118272,462,256,0.037,[],['NONE'],[0.948],1,[],{0: 'NaN'},['!']
+T_15,62,ROI_1005.png,214567,491,437,0.276,"['tintin', 'haddock']","[0.929, 0.845]",[0.905],1,['1'],{0: 'tintin'},"[""Another of Abdullah's delightful little jokes. Though he promised me he'd be very good. ' Ah! What an adorable little child. don't you think? ""]"
+T_15,62,ROI_1006.png,268840,611,440,0.223,"['haddock', 'tintin']","[0.955, 0.938]",[0.877],1,[],{0: 'NaN'},"[""adorable.. You think that's the word!. But if you want to know my story. don't count on me!. This time, blistering barnacles, that's it, the end, once and for ""]"
+T_15,62,ROI_1007.png,93946,214,439,0.0,[],['NONE'],[],0,[],{},[]

@@ -1,0 +1,757 @@
+book,page,img,panel_area,panel_width,panel_length,balloon_to_panel_ratio,detected_chars,character_model_confidence,balloon_model_confidence,detected_balloon_numbers,associated_balloon_numbers,associated_characters,text
+T_12,1,ROI_25.png,196686,441,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,1,ROI_26.png,293488,664,442,0.028,[],['NONE'],[0.908],1,[],{0: 'NaN'},['greetings all ']
+T_12,1,ROI_27.png,98346,222,443,0.163,['haddock'],[0.81],[0.921],1,['1'],{0: 'haddock'},['hey!. Van Dammel. ']
+T_12,1,ROI_28.png,192717,437,441,0.243,['haddock'],[0.807],"[0.887, 0.881]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""Not too bad, and your still a ship's cook?. "", ""Hello, George. How's life? ""]"
+T_12,1,ROI_29.png,194481,441,441,0.299,['haddock'],[0.818],[0.787],1,[],{0: 'NaN'},"[""as ever. I'm sailing in days. aboard the SIRIUS, with Captain Haddock and Tintin. Do you know them? ""]"
+T_12,1,ROI_30.png,195360,444,440,0.42,[],['NONE'],[0.831],1,[],{0: 'NaN'},"[""tintin?. Captain Haddock?. sure know them. There's been per-th, of talk of them. over business with the Bird brothers but, say, the SIRIUS is a trawler. Are you going fishing?.... ""]"
+T_12,1,ROI_31.png,193591,437,443,0.236,[],['NONE'],"[0.687, 0.605]",2,[],"{0: 'NaN', 1: 'NaN'}","['What tale are you telling. me? ', 'Yes, but no fishing. for treasure. ']"
+T_12,1,ROI_32.png,202878,459,442,0.408,[],['NONE'],[0.871],1,[],{0: 'NaN'},"[""Well, it's like this. Only we must keep it to ourselves, what! It concerns the treasure of a 17th century. pirate, Red Rackham, who was on ship called the UNICORN. now, captain. haddock. ' ""]"
+T_12,1,ROI_33.png,188256,424,444,0.281,[],['NONE'],[0.919],1,[],{0: 'NaN'},"['know where the UNICORN went down and.... and. you the rest, later. The walls here have ears.... ']"
+T_12,2,ROI_42.png,219232,496,442,0.083,['haddock'],[0.952],[0.925],1,[],{0: 'NaN'},['Daily Reporter. Read all the news. ']
+T_12,2,ROI_43.png,173706,393,442,0.049,['haddock'],[0.945],"[0.942, 0.921]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['thanks. ', 'here. ']"
+T_12,2,ROI_44.png,190920,430,444,0.127,['haddock'],[0.947],[0.675],1,[],{0: 'NaN'},['Daily Reporter. press. All the news. ']
+T_12,2,ROI_45.png,196686,441,446,0.0,['haddock'],[0.959],[],0,[],{},[]
+T_12,2,ROI_46.png,164353,371,443,0.125,['haddock'],[0.888],[0.813],1,['1'],{0: 'haddock'},"['Billions, of blue. blistering barnacles!. ']"
+T_12,2,ROI_47.png,226304,512,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,2,ROI_48.png,155936,352,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,2,ROI_49.png,235320,530,444,0.0,['haddock'],[0.932],[],0,[],{},[]
+T_12,2,ROI_50.png,197574,442,447,0.179,['haddock'],[0.979],[0.811],1,[],{0: 'NaN'},['These journalists are all the same wonder what Tintin will have to say about this.... ']
+T_12,2,ROI_51.png,198900,450,442,0.239,"['haddock', 'tintin']","[0.973, 0.95]",[0.882],1,['1'],{0: 'haddock'},['These journalists are incorrigible. We could ']
+T_12,2,ROI_52.png,232290,522,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,2,ROI_53.png,156992,352,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,3,ROI_55.png,181596,409,444,0.136,"['tintin', 'snowy']","[0.919, 0.854]","[0.765, 0.633]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['yes. "" ', 'mr. tintin?. yes. ']"
+T_12,3,ROI_56.png,218892,493,444,0.348,"['tintin', 'haddock']","[0.941, 0.919]","[0.938, 0.725]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['It is, but. ', ""mr. tintin. see from this morning's paper that you are going to try and 'discover the treasure Red Rackham. Is that correct?. ""]"
+T_12,3,ROI_57.png,186874,419,446,0.293,['tintin'],[0.92],[0.962],1,[],{0: 'NaN'},"['Good. In that case, without saying. shall accompany you. As for the treasure, will be satisfied with half share. Here is my card.... ']"
+T_12,3,ROI_58.png,198468,444,447,0.029,"['snowy', 'tintin']","[0.911, 0.892]",[0.836],1,['1'],{0: 'tintin'},['UNKNOWN']
+T_12,3,ROI_59.png,181251,411,441,0.237,['tintin'],[0.92],"[0.924, 0.873]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['most certainly. young man. ', ""That's. That's really your name?. ""]"
+T_12,3,ROI_60.png,205480,467,440,0.068,"['haddock', 'tintin']","[0.966, 0.925]",[0.889],1,['1'],{0: 'tintin'},"['Look, Captain.... ']"
+T_12,3,ROI_61.png,181035,405,447,0.068,"['tintin', 'haddock', 'snowy']","[0.93, 0.923, 0.854]",[0.671],1,['1'],{0: 'haddock'},['Blistering barnacles. ']
+T_12,3,ROI_62.png,214560,480,447,0.0,[],['NONE'],[],0,[],{},[]
+T_12,3,ROI_63.png,195360,440,444,0.461,['tintin'],[0.934],[0.811],1,['1'],{0: 'tintin'},"[""But, sir, if understand correctly, your name is simply rackham?. Red is perhaps the name of. your spouse? In which case, see no' connection between you and the pirate red Rackham, ""]"
+T_12,3,ROI_64.png,174985,395,443,0.0,['tintin'],[0.924],[],0,[],{},[]
+T_12,3,ROI_65.png,416472,938,444,0.2,[],['NONE'],"[0.862, 0.861, 0.66, 0.6]",4,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN', 3: 'NaN'}","[""I am! And here's my family tree to prove it. "", ""Mr. Tintin?. I'm claiming, my share of the treasure. I am the last surviving descendant of Red Rackham. "", 'no, me ', 'don. listen to them. me ']"
+T_12,4,ROI_67.png,177242,401,442,0.242,"['haddock', 'tintin']","[0.952, 0.925]",[0.972],1,['1'],{0: 'haddock'},"['leave. tiff, "" "" There\'s. "" soon see a real Red Rackham among this crowd! ']"
+T_12,4,ROI_68.png,196248,444,442,0.142,"['haddock', 't-t']","[0.939, 0.787]",[0.736],1,[],{0: 'NaN'},['you. ire all quite being descendants rackham? ']
+T_12,4,ROI_69.png,216270,486,445,0.286,['haddock'],[0.959],[0.809],1,[],{0: 'NaN'},"[""Good. Well! I'm direct descendant of Sir Francis Haddock who all those years ago killed Red Rackham in single combat. ""]"
+T_12,4,ROI_70.png,195364,442,442,0.139,['haddock'],[0.95],[0.735],1,['1'],{0: 'haddock'},['when of my ancestor. mounting in mel. ']
+T_12,4,ROI_71.png,165942,378,439,0.204,[],['NONE'],"[0.8, 0.756]",2,[],"{0: 'NaN', 1: 'NaN'}","[""What's going on up there? "", 'Avast, freshwater pirates! ']"
+T_12,4,ROI_72.png,226505,509,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,4,ROI_73.png,397380,895,444,0.0,"['t-t', 't-t']","[0.828, 0.824]",[],0,[],{},[]
+T_12,4,ROI_74.png,197580,444,445,0.226,"['t-t', 't-t']","[0.95, 0.947]","[0.887, 0.881]",2,['2'],"{0: 'NaN', 1: 't-t'}","['what hooligans. ', 'hooligans. indeed. ']"
+T_12,4,ROI_75.png,177760,404,440,0.256,"['t-t', 't-t']","[0.98, 0.952]","[0.868, 0.831]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['To be precise : a real hooli- gan band! ', 'A real band of hooligans! ']"
+T_12,4,ROI_76.png,181662,411,442,0.143,['haddock'],[0.953],[0.887],1,['1'],{0: 'haddock'},"['And there are your files, fancy-dress freebooters. ']"
+T_12,4,ROI_77.png,227906,511,446,0.0,"['t-t', 't-t']","[0.98, 0.968]",[],0,[],{},[]
+T_12,5,ROI_79.png,176440,401,440,0.187,"['haddock', 'tintin', 'snowy']","[0.957, 0.91, 0.9]",[0.879],1,['1'],{0: 'snowy'},"[""there We've seen off that bunch of. swindlers. ""]"
+T_12,5,ROI_80.png,117920,268,440,0.15,"['haddock', 'tintin']","[0.931, 0.929]","[0.933, 0.866]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""leave it, I'll go and seers. "", 'again?. ']"
+T_12,5,ROI_81.png,181630,410,443,0.334,"['t-t', 't-t', 'tintin']","[0.956, 0.944, 0.89]","[0.969, 0.934]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","['!', 'Is that you. Tintin?. could you give us hand?. some first-class hooligan, hurled something. heads.... on our ']"
+T_12,5,ROI_82.png,103452,233,444,0.172,"['t-t', 'tintin']","[0.966, 0.895]",[0.971],1,['1'],{0: 't-t'},"[""Come in, we'll sort that out. ""]"
+T_12,5,ROI_83.png,195364,442,442,0.017,"['haddock', 't-t', 'tintin', 't-t', 'snowy']","[0.95, 0.935, 0.931, 0.799, 0.769]",[0.901],1,['1'],{0: 'haddock'},['?']
+T_12,5,ROI_84.png,153650,350,439,0.122,"['calculus', 'haddock']","[0.963, 0.951]",[0.792],1,['1'],{0: 'calculus'},['would like to speak Mr. Tintin. please. ']
+T_12,5,ROI_85.png,131859,299,441,0.289,"['haddock', 'calculus']","[0.97, 0.931]","[0.943, 0.885]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","['Why?.... il suppose your name is Red Rackham? ', 'yes?. ']"
+T_12,5,ROI_86.png,96138,218,441,0.406,"['haddock', 'calculus']","[0.949, 0.827]","[0.929, 0.841]",2,"['1', '2']","{0: 'calculus', 1: 'calculus'}","[""No. I'm asking you if you're also called Red Rackham.... "", 'ah ']"
+T_12,5,ROI_87.png,135725,305,445,0.337,['haddock'],[0.963],"[0.93, 0.789]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""please speak up. I'm little hard hearing.... "", ""I'm asking you what your name is. ""]"
+T_12,5,ROI_88.png,256004,574,446,0.0,"['tintin', 'calculus', 'haddock', 't-t', 'snowy']","[0.932, 0.89, 0.879, 0.825, 0.793]",[],0,[],{},[]
+T_12,5,ROI_89.png,197132,442,446,0.298,"['tintin', 'haddock', 'calculus']","[0.918, 0.887, 0.834]",[0.908],1,['1'],{0: 'calculus'},"[""not in?. Oh! What a pity!. Never mind! I'll come back. I would have liked to speak to Mr. Tintin in person.... ""]"
+T_12,5,ROI_90.png,151640,340,446,0.329,['tintin'],[0.953],"[0.904, 0.791]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""Ahl. It's Mr. Tintin?. they. told me you weren here. "", ""That's me. do you want?. ""]"
+T_12,5,ROI_91.png,143412,323,444,0.22,"['tintin', 'snowy']","[0.912, 0.728]","[0.898, 0.692]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","['am. delighted to meet you. My name is Calculus. Cuthbert Calculus. ', '0h ']"
+T_12,5,ROI_92.png,294595,665,443,0.255,"['haddock', 'tintin', 'snowy']","[0.923, 0.863, 0.833]","[0.883, 0.779]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['sharks? ', ""No, Calculus, Cuthbert Calculus. Mr. tintin. heard that you are setting out on treasure hunt. That's all very well. But have you thought of sharks? ""]"
+T_12,6,ROI_94.png,144861,327,443,0.474,['tintin'],[0.907],"[0.94, 0.897]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""No young man, I'm talking. of sharks. suppose that you will have to do some diving. Well, watch out for sharks. "", 'but. ']"
+T_12,6,ROI_95.png,127449,289,441,0.718,['tintin'],[0.905],"[0.87, 0.796]",2,['2'],"{0: 'NaN', 1: 'tintin'}","[""I'm right, But I've invented device to explore the ocean bed that is shark-proof. If you'd like to come back with me, I'll show it to you.... "", ""I'm very sorry : but I. ""]"
+T_12,6,ROI_96.png,96574,218,443,0.529,"['tintin', 'calculus']","[0.915, 0.832]","[0.867, 0.864]",2,"['1', '2']","{0: 'calculus', 1: 'tintin'}","[""barely it's not far. ten minutes.. "", ""I'm sorry, but I'm terribly busy. and don't have.... ""]"
+T_12,6,ROI_97.png,103452,233,444,0.519,['tintin'],[0.911],"[0.916, 0.891]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""It's no good. havenit. spot the time. no time! "", 'But of course! these gentlemen. can come. with you.... ']"
+T_12,6,ROI_98.png,102350,230,445,0.287,"['tintin', 'calculus']","[0.892, 0.781]",[0.939],1,['1'],{0: 'calculus'},"[""well. That's settled. Let's go directly! ""]"
+T_12,6,ROI_99.png,195363,441,443,0.11,"['t-t', 'haddock', 'calculus', 't-t', 'tintin']","[0.975, 0.939, 0.86, 0.73, 0.711]",[0.689],1,['1'],{0: 'calculus'},['Thank you for agreeing to come so quickly. ']
+T_12,6,ROI_100.png,198900,450,442,0.196,"['t-t', 'haddock', 'tintin', 'calculus']","[0.984, 0.945, 0.929, 0.921]","[0.82, 0.69]",2,"['1', '2']","{0: 'calculus', 1: 'tintin'}","['No. Calculus, Cuthbert calculus. ', ""Don't mention it. ""]"
+T_12,6,ROI_101.png,191808,432,444,0.145,"['t-t', 'haddock', 'tintin']","[0.951, 0.938, 0.836]",[0.847],1,[],{0: 'NaN'},"[""You see, we're here. floor. ""]"
+T_12,6,ROI_102.png,602100,1350,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,6,ROI_103.png,194480,440,442,0.127,"['t-t', 'tintin']","[0.941, 0.885]",[0.71],1,[],{0: 'NaN'},"[""Yes, that's a new device for carbonating soda-water. ""]"
+T_12,6,ROI_104.png,170226,386,441,0.136,"['tintin', 'calculus', 'haddock']","[0.966, 0.954, 0.892]",[0.919],1,['1'],{0: 'calculus'},"['And that\'s an apparatus for brus. hing "" clothes. ']"
+T_12,6,ROI_105.png,220558,499,442,0.0,"['t-t', 't-t', 'haddock', 'snowy']","[0.935, 0.921, 0.909, 0.804]",[],0,[],{},[]
+T_12,7,ROI_107.png,198900,442,450,0.189,"['tintin', 'calculus']","[0.906, 0.759]",[0.912],1,['1'],{0: 'calculus'},"[""no, brushing It's one of my latest inventions. ""]"
+T_12,7,ROI_108.png,259522,578,449,0.246,"['tintin', 'calculus']","[0.958, 0.794]",[0.946],1,[],{0: 'NaN'},"['The clothes are sucked inside the apparatus, where they undergo vigorous brushing for thirty seconds. After which, they. emerge as good as new. ']"
+T_12,7,ROI_109.png,133200,300,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,7,ROI_110.png,397830,894,445,0.0,['snowy'],[0.799],[],0,[],{},[]
+T_12,7,ROI_111.png,193599,439,441,0.184,"['t-t', 'haddock', 'tintin', 'snowy']","[0.946, 0.916, 0.914, 0.873]",[0.789],1,['1'],{0: 'tintin'},"['Billions of blue, biliques blistering barnacles!. ']"
+T_12,7,ROI_112.png,291684,654,446,0.0,"['haddock', 'tintin', 't-t', 't-t']","[0.968, 0.953, 0.872, 0.85]",[],0,[],{},[]
+T_12,7,ROI_113.png,146076,329,444,0.355,"['haddock', 'calculus']","[0.955, 0.927]","[0.913, 0.861]",2,['1'],"{0: 'calculus', 1: 'NaN'}","[""that?. yes, it's for brushing clothes. "", ""You're going to pifty. me for a new suit do you hear? ""]"
+T_12,7,ROI_114.png,151506,342,443,0.34,"['calculus', 'haddock']","[0.924, 0.867]",[0.945],1,['1'],{0: 'calculus'},['But this is even more ingenious. Since have very little space. and my bed takes up too much. ']
+T_12,7,ROI_115.png,401376,904,444,0.046,"['haddock', 'calculus']","[0.804, 0.784]",[0.746],1,['1'],{0: 'calculus'},['invented this collapsible wall-bed. ']
+T_12,7,ROI_116.png,192270,435,442,0.195,"['haddock', 'calculus']","[0.938, 0.913]",[0.947],1,['1'],{0: 'haddock'},"[""You Bashi-bazouk. Now look what you've done. ""]"
+T_12,8,ROI_118.png,270774,614,441,0.068,"['t-t', 't-t', 'tintin', 'haddock', 'snowy']","[0.89, 0.884, 0.868, 0.867, 0.853]",[0.779],1,['1'],{0: 'haddock'},"['But look, you bragging in it! ']"
+T_12,8,ROI_119.png,322218,729,442,0.078,"['calculus', 'haddock', 'tintin']","[0.905, 0.853, 0.81]",[0.946],1,['1'],{0: 'calculus'},"['Ah. Yes, how does one it back?. there. ']"
+T_12,8,ROI_120.png,388912,872,446,0.0,"['tintin', 'snowy']","[0.85, 0.707]",[],0,[],{},[]
+T_12,8,ROI_121.png,206438,466,443,0.302,"['haddock', 'calculus', 'calculus']","[0.959, 0.919, 0.864]",[0.915],1,['1'],{0: 'haddock'},"['Between ourselves. wouldn\'t have through "" Fortificency. them. capable of they seemed so serious.... ']"
+T_12,8,ROI_122.png,118188,268,441,0.233,['calculus'],[0.87],[0.908],1,[],{0: 'NaN'},['And this is my invention to explore the of the ocean. ']
+T_12,8,ROI_123.png,340104,766,444,0.236,"['tintin', 'snowy', 'haddock']","[0.944, 0.848, 0.701]",[0.61],1,['1'],{0: 'haddock'},"[""As you can see, it's a type of miniature submarine. It is equipped with an electric motor and has oxygen supplies. for two hours. diving.... ""]"
+T_12,8,ROI_124.png,130077,291,447,0.266,[],['NONE'],[0.919],1,[],{0: 'NaN'},['Let me show you how it operates. ']
+T_12,8,ROI_125.png,197574,442,447,0.02,[],['NONE'],[0.927],1,[],{0: 'NaN'},['?']
+T_12,8,ROI_126.png,203385,455,447,0.242,['snowy'],[0.867],[0.782],1,['1'],{0: 'snowy'},"[""don. understand. it's sabotage. no, sir, you it's sabotage, Someone has subotaged my invention. ""]"
+T_12,8,ROI_127.png,191780,430,446,0.383,"['haddock', 'calculus', 'tintin']","[0.942, 0.932, 0.924]","[0.865, 0.836]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['for two?. you want it to be two-seater?. ', ""we're very sorry. Mr. Calculus, but as far as we're concerned your apparatus will not do. ""]"
+T_12,9,ROI_129.png,134946,306,441,0.316,['tintin'],[0.885],"[0.904, 0.894]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","[""No, Mr. Calculus, I'm saying your invention isn't suited for us! "", 'oh good! ']"
+T_12,9,ROI_130.png,254856,574,444,0.181,"['haddock', 't-t', 'calculus', 'tintin', 'snowy']","[0.95, 0.944, 0.933, 0.897, 0.753]",[0.751],1,['1'],{0: 'calculus'},"[""Well, gentlemen, that's agreed then, I'll make another, ller model. It'll be ready in just over a week. ""]"
+T_12,9,ROI_131.png,196686,441,446,0.357,"['haddock', 'snowy', 'tintin']","[0.94, 0.899, 0.856]",[0.765],1,['1'],{0: 'tintin'},"[""sayfully the well, is ready for, our departure. only we could mana- ge to find a diving suit. pent three days. combing marine. suppliers : it's impossible to ""]"
+T_12,9,ROI_132.png,158840,361,440,0.272,"['haddock', 'tintin']","[0.937, 0.901]","[0.9, 0.836, 0.738]",3,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN'}","['say. look. ', 'for sale complete. biving. "" menzig. equip. as ', ""Well, blow me down. let's ""]"
+T_12,9,ROI_133.png,302126,682,443,0.0,['tintin'],[0.714],[],0,[],{},[]
+T_12,9,ROI_134.png,125685,285,441,0.317,['haddock'],[0.963],"[0.941, 0.862]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['Ah. Yes, the diving. suit. follow me. ', ""morning We'd like to see the diving suit. ""]"
+T_12,9,ROI_135.png,177508,398,446,0.081,"['tintin', 'haddock']","[0.935, 0.894]","[0.916, 0.699]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['there. ', 'there. ']"
+T_12,9,ROI_136.png,217202,487,446,0.213,"['tintin', 'haddock']","[0.705, 0.701]","[0.918, 0.865]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['?', 'Beware, young lad, beware! Money does not bring happiness. ']"
+T_12,9,ROI_137.png,197132,442,446,0.336,"['haddock', 'tintin']","[0.892, 0.768]","[0.931, 0.763]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","[""why?. because see you're going to set out on hunt for treasure. "", 'Why... Why do you tell me that? ']"
+T_12,9,ROI_138.png,195800,440,445,0.241,['haddock'],[0.9],"[0.966, 0.769]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","['It\'s written all over your face. "" ', 'You see that? Where do you see that? ']"
+T_12,9,ROI_139.png,178488,402,444,0.333,"['haddock', 'tintin']","[0.948, 0.752]","[0.965, 0.909]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","[""over my face?. but. But what's so extraordinary about my face?. tintin, do you see "", 'well honestly. ']"
+T_12,9,ROI_140.png,211788,477,444,0.081,"['haddock', 'tintin']","[0.953, 0.915]",[0.913],1,['1'],{0: 'haddock'},['Blistering barnacles. ']
+T_12,10,ROI_142.png,195363,441,443,0.123,"['haddock', 'tintin']","[0.908, 0.866]",[0.747],1,['1'],{0: 'haddock'},"['It\'s ghastly!.. What\'s happened to"" one. ']"
+T_12,10,ROI_143.png,165750,375,442,0.314,"['haddock', 'haddock', 'tintin']","[0.955, 0.929, 0.814]","[0.924, 0.688]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""nothing at all, captain! you're just looking in a concave mirror! and here's a convex one. "", 'Ah.l Good!. ']"
+T_12,10,ROI_144.png,144534,327,442,0.175,"['haddock', 'snowy']","[0.932, 0.921]",[0.941],1,['1'],{0: 'haddock'},"[""But there's another mirror. want to clear matters. ""]"
+T_12,10,ROI_145.png,77604,174,446,0.058,[],['NONE'],[0.842],1,[],{0: 'NaN'},['ohl ']
+T_12,10,ROI_146.png,203796,459,444,0.188,"['tintin', 'snowy', 'haddock']","[0.881, 0.858, 0.856]","[0.777, 0.736]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['Seven years of bad luck! ', 'And five pounds for the mirror! ']"
+T_12,10,ROI_147.png,201537,457,441,0.453,"['haddock', 'tintin']","[0.934, 0.907]","[0.867, 0.758]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['Maybe, but what about the diving how. ', ""And besides, believe me, nowadays hidden treasure doesn't exist any more.... ""]"
+T_12,10,ROI_148.png,182546,413,442,0.206,"['haddock', 'tintin']","[0.936, 0.908]",[0.935],1,['1'],{0: 'tintin'},['done. collected this afternoon. are captains. coming. ']
+T_12,10,ROI_149.png,196249,443,443,0.178,"['haddock', 'tintin', 'snowy']","[0.962, 0.952, 0.906]",[0.744],1,[],{0: 'NaN'},"[""Remember what you, my boy! You won't discover any treasure. ""]"
+T_12,10,ROI_150.png,400500,900,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,10,ROI_151.png,209150,470,445,0.123,"['haddock', 'tintin']","[0.952, 0.921]","[0.859, 0.599]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['no, rotten! ', 'good morning. Captain. Is all well? ']"
+T_12,10,ROI_152.png,184198,413,446,0.373,"['haddock', 'tintin']","[0.97, 0.898]","[0.968, 0.86]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['Yes, bad. very bad. I\'m jill. "" flu, no doubt.... been having good Well, in short. in couple of words, I\'m not going! ', 'UNKNOWN']"
+T_12,10,ROI_153.png,196690,442,445,0.322,"['haddock', 'tintin']","[0.943, 0.924]",[0.917],1,[],{0: 'NaN'},"[""very. serious. I'm not superstitious, but to break sailing. No. definitely not, I'm not going! ""]"
+T_12,11,ROI_155.png,181560,408,445,0.046,"['t-t', 't-t', 'haddock']","[0.979, 0.859, 0.766]",[0.92],1,['1'],{0: 't-t'},['good morning. ']
+T_12,11,ROI_156.png,234827,523,449,0.362,"['t-t', 'haddock', 'tintin']","[0.986, 0.945, 0.921]","[0.922, 0.743]",2,"['1', '2']","{0: 'haddock', 1: 't-t'}","[""what did young. That's a brilliant start, isn't it? "", 'bad news. gentlemen. Max Bird has spot away! ']"
+T_12,11,ROI_157.png,176268,397,444,0.448,"['t-t', 'tintin']","[0.986, 0.891]","[0.917, 0.915]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","[""That's bad.... "", 'Yes, the accused antique dealer managed to give the police the slip as he was being taken to the examining magistrate for tioning. ques. ']"
+T_12,11,ROI_158.png,235405,529,445,0.098,"['t-t', 't-t', 'tintin', 'haddock', 'snowy']","[0.939, 0.92, 0.876, 0.851, 0.733]",[0.738],1,[],{0: 'NaN'},"['letter for. you, captain.... ']"
+T_12,11,ROI_159.png,176757,399,443,0.076,"['t-t', 't-t', 'haddock', 'tintin']","[0.989, 0.978, 0.931, 0.891]",[0.677],1,['1'],{0: 'haddock'},['former. ']
+T_12,11,ROI_160.png,178605,405,441,0.148,"['haddock', 'tintin', 'snowy']","[0.954, 0.95, 0.772]",[0.857],1,['1'],{0: 'haddock'},['Billions of biliqus blue blistering barnacles! ']
+T_12,11,ROI_161.png,182928,412,444,0.253,"['haddock', 'tintin']","[0.973, 0.936]","[0.881, 0.799]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","[""Read for yourself! it's ghastly!. "", 'Is it bad news, Captain? ']"
+T_12,11,ROI_162.png,196690,442,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,11,ROI_163.png,209150,470,445,0.0,"['t-t', 'haddock', 'tintin', 'snowy']","[0.975, 0.956, 0.955, 0.898]",[],0,[],{},[]
+T_12,11,ROI_164.png,232366,521,446,0.25,"['t-t', 't-t']","[0.937, 0.871]",[0.795],1,[],{0: 'NaN'},"['No? Then, gentlemen, I can tell you my machine is now ready. when can come aboard? ']"
+T_12,11,ROI_165.png,210040,472,445,0.235,"['haddock', 'tintin']","[0.958, 0.94]","[0.873, 0.652]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","[""There's no question of you coming aboard! Your machine doesn't interest us! "", 'Tomorrow? ']"
+T_12,11,ROI_166.png,146850,330,445,0.339,"['haddock', 'tintin']","[0.953, 0.949]","[0.906, 0.647]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Today?... Good! I'll go and collect it at once. "", 'No, not tomorrow! never. ']"
+T_12,12,ROI_168.png,244408,548,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,12,ROI_169.png,153768,344,447,0.0,['haddock'],[0.885],[],0,[],{},[]
+T_12,12,ROI_170.png,193088,431,448,0.225,['haddock'],[0.844],[0.881],1,['1'],{0: 'haddock'},"[""You may be deaf. blistering barnacles! But you aren't blind, are eyou? ""]"
+T_12,12,ROI_171.png,173213,391,443,0.0,['haddock'],[0.778],[],0,[],{},[]
+T_12,12,ROI_172.png,246194,557,442,0.0,['haddock'],[0.966],[],0,[],{},[]
+T_12,12,ROI_173.png,171990,390,441,0.185,"['haddock', 'tintin']","[0.948, 0.772]","[0.962, 0.761]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['let\'s hope so. "" ', 'there! understood! ']"
+T_12,12,ROI_174.png,196248,444,442,0.364,"['haddock', 't-t', 'tintin']","[0.961, 0.924, 0.914]","[0.911, 0.907]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['afraid?. ', ""Is it true, Captain? Tintin has just told us that you've decided not to go. It seems you afraid.... ""]"
+T_12,12,ROI_175.png,148185,333,445,0.411,"['haddock', 't-t']","[0.978, 0.939]",[0.907],1,['1'],{0: 'haddock'},"['me, afraid?. Afraid of what?. Afraid of whom?. Afraid of you, perhaps?. you better learn that Captain Haddock fears nothing! understand?. we weigh, anchor at dawn tomorrow!. ']"
+T_12,12,ROI_176.png,246297,551,447,0.047,"['haddock', 't-t', 'snowy']","[0.964, 0.957, 0.891]",[0.931],1,['1'],{0: 't-t'},['ouch ']
+T_12,12,ROI_177.png,603003,1349,447,0.0,[],['NONE'],[],0,[],{},[]
+T_12,13,ROI_179.png,180301,407,443,0.134,['tintin'],[0.803],[0.844],1,['1'],{0: 'tintin'},"[""we've left at last. snowy. told boy. ""]"
+T_12,13,ROI_180.png,262699,593,443,0.0,['tintin'],[0.949],[],0,[],{},[]
+T_12,13,ROI_181.png,142884,324,441,0.078,"['haddock', 'tintin']","[0.958, 0.753]",[0.866],1,[],{0: 'NaN'},['radio message... Have a read. ']
+T_12,13,ROI_182.png,196692,444,443,0.409,"['haddock', 'tintin']","[0.921, 0.858]",[0.888],1,['1'],{0: 'tintin'},"['"" Port Commander to Captain SIRIUS. Reduce speed. Motor launch on way to meet you. What does that mean? ']"
+T_12,13,ROI_183.png,188292,426,442,0.139,"['haddock', 'tintin']","[0.969, 0.904]",[0.92],1,['1'],{0: 'tintin'},['over there. motor launch coming.... ']
+T_12,13,ROI_184.png,202475,455,445,0.0,['tintin'],[0.87],[],0,[],{},[]
+T_12,13,ROI_185.png,301265,677,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,13,ROI_186.png,90576,204,444,0.482,"['haddock', 'tintin']","[0.96, 0.915]",[0.893],1,['1'],{0: 'haddock'},"[""I can't make out the passenger yet, but it better not be that Mr. Calculus, ""]"
+T_12,13,ROI_187.png,197574,442,447,0.0,[],['NONE'],[],0,[],{},[]
+T_12,13,ROI_188.png,147628,334,442,0.199,"['haddock', 'tintin']","[0.953, 0.866]",[0.949],1,['1'],{0: 'tintin'},['Thomson and thompson. Why are they coming aboard? ']
+T_12,13,ROI_189.png,263585,595,443,0.05,"['t-t', 'haddock']","[0.837, 0.829]",[0.858],1,[],{0: 'NaN'},['usp. with ']
+T_12,13,ROI_190.png,175871,397,443,0.306,"['haddock', 't-t', 'tintin']","[0.968, 0.96, 0.91]","[0.907, 0.887]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['protect us?. are we being threatened?. ', 'Yes, we received orders to protect you. ']"
+T_12,14,ROI_192.png,196672,448,439,0.491,"['t-t', 't-t', 'haddock', 'tintin']","[0.986, 0.979, 0.957, 0.936]","[0.824, 0.808]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","[""Let him try!. he'll find his match! "", ""Yes, you're in danger. Mac Bird, the antique dealer, was spotted last night prowling about near the SIRIUS. He may try and exact revenge on your. ""]"
+T_12,14,ROI_193.png,227630,515,442,0.416,"['t-t', 't-t', 'haddock', 'tintin']","[0.989, 0.986, 0.966, 0.938]","[0.889, 0.719]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['To be precise : your mind can rest. ', 'No doubt, no doubt. But anyway, now that we are aboard. your mind will be at rest. ']"
+T_12,14,ROI_194.png,160284,361,444,0.442,"['t-t', 'haddock']","[0.99, 0.968]","[0.914, 0.846]",2,"['1', '2']","{0: 'haddock', 1: 't-t'}","['We\'ll see. Meanwhile, we better find. you berth. let\'s "" error yes, there are a couple of spare bunks for hard. How\'s that?. ', 'very. well. ']"
+T_12,14,ROI_195.png,195806,443,442,0.086,"['t-t', 'haddock', 'tintin', 'snowy']","[0.988, 0.958, 0.904, 0.848]",[0.672],1,[],{0: 'NaN'},['captain!. captain!. ']
+T_12,14,ROI_196.png,155584,352,442,0.137,['haddock'],[0.964],"[0.912, 0.9]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","['what? ', 'captain. this can go on. ']"
+T_12,14,ROI_197.png,235233,531,443,0.26,"['haddock', 'tintin']","[0.978, 0.935]","[0.948, 0.847, 0.791]",3,"['1', '2']","{0: 'tintin', 1: 'haddock', 2: 'NaN'}","['snowy?. ', 'no?. ', 'That confounded snowy has stolen. the contents of whole box of biscuits, ']"
+T_12,14,ROI_198.png,137904,312,442,0.344,"['haddock', 'tintin']","[0.961, 0.93]","[0.946, 0.892]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""snowy. where's the miserable dog? "", 'Yes, Snowy! I saw him earlier near the galley! ']"
+T_12,14,ROI_199.png,92352,208,444,0.147,['tintin'],[0.898],[0.948],1,['1'],{0: 'tintin'},['snowy?. snowy. ']
+T_12,14,ROI_200.png,155750,350,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,14,ROI_201.png,197568,441,448,0.287,"['haddock', 'tintin']","[0.962, 0.942]","[0.932, 0.847]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""I don't see the rascal! But don't worry, I'll make sure it doesn't happen again.... "", 'good. ']"
+T_12,14,ROI_202.png,212640,480,443,0.089,"['t-t', 't-t', 'haddock']","[0.981, 0.977, 0.952]",[0.715],1,[],{0: 'NaN'},"[""er. It's in front. ""]"
+T_12,14,ROI_203.png,189996,426,446,0.234,"['t-t', 't-t']","[0.935, 0.904]","[0.84, 0.613]",2,[],"{0: 'NaN', 1: 'NaN'}","[""we'll liget changed immediately discreetly with and mingle. the crew. "", 'yes. good idea. ']"
+T_12,14,ROI_204.png,188718,426,443,0.0,"['t-t', 't-t']","[0.955, 0.82]",[],0,[],{},[]
+T_12,15,ROI_206.png,211598,482,439,0.15,[],['NONE'],[0.625],1,[],{0: 'NaN'},['We must behave like old sea-dogs.... ']
+T_12,15,ROI_207.png,170280,387,440,0.337,['t-t'],[0.919],[0.957],1,['1'],{0: 't-t'},"[""To begin with, we must learn to chew tobacco. It's well known that old sea dogs chew a quick. here, have orie. ""]"
+T_12,15,ROI_208.png,199784,452,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,15,ROI_209.png,195363,443,441,0.0,"['t-t', 't-t']","[0.904, 0.789]",[],0,[],{},[]
+T_12,15,ROI_210.png,81408,384,212,0.0,[],['NONE'],[],0,[],{},[]
+T_12,15,ROI_211.png,219285,495,443,0.126,"['haddock', 'tintin']","[0.93, 0.901]",[0.677],1,['1'],{0: 'haddock'},['a good blast of the siren and helm to starboard ']
+T_12,15,ROI_212.png,83111,383,217,0.0,[],['NONE'],[],0,[],{},[]
+T_12,15,ROI_213.png,203301,461,441,0.0,['t-t'],[0.878],[],0,[],{},[]
+T_12,15,ROI_214.png,176841,401,441,0.201,['t-t'],[0.785],"[0.918, 0.915]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['men. me. me too!. swallowed. ', 'gracious. my. my tobacco, ']"
+T_12,15,ROI_215.png,208680,470,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,15,ROI_216.png,116600,265,440,0.2,[],['NONE'],[0.896],1,[],{0: 'NaN'},"[""This has to topi- Oh! Yes. it's ogot tostop!. ""]"
+T_12,15,ROI_217.png,182160,414,440,0.329,"['haddock', 'tintin']","[0.972, 0.937]","[0.879, 0.845]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['Yes, Captain, yesterday it was tin of biscuits, whole chicken has gone missing. ', 'That wretched hound! ']"
+T_12,15,ROI_218.png,112014,254,441,0.427,['tintin'],[0.934],[0.897],1,['1'],{0: 'tintin'},"[""snowy. ' snowy. where's he hiding now?. snowy. ' ""]"
+T_12,15,ROI_219.png,165880,377,440,0.082,"['haddock', 'tintin']","[0.906, 0.773]",[0.751],1,['1'],{0: 'tintin'},"[""snowy! snowy. ' ""]"
+T_12,16,ROI_221.png,221760,504,440,0.127,"['haddock', 'tintin']","[0.932, 0.822]",[0.697],1,['1'],{0: 'tintin'},"[""snowy. ' Where in heaven's name is he hiding?. ""]"
+T_12,16,ROI_222.png,195363,443,441,0.144,"['haddock', 'tintin', 'tintin']","[0.934, 0.914, 0.839]",[0.904],1,['1'],{0: 'tintin'},"[""I didn't exactly see him. to tell the truth, but I supposed. ""]"
+T_12,16,ROI_223.png,164493,373,441,0.446,['haddock'],[0.937],[0.956],1,['1'],{0: 'haddock'},"[""you supposed. you supposed.. when one accuses someone, proof is needed.. Because in the end how do we know that you didn't consume the chicken. your- self?. ""]"
+T_12,16,ROI_224.png,196248,442,444,0.0,['snowy'],[0.77],[],0,[],{},[]
+T_12,16,ROI_225.png,252953,571,443,0.346,['haddock'],[0.896],"[0.868, 0.716, 0.667]",3,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN'}","[""don't synimji keep an eye on good night, captain.... "", 'good and you better watch Snowy a little.... ', 'Good night and you be Snowy a little ']"
+T_12,16,ROI_226.png,136400,310,440,0.0,['tintin'],[0.819],[],0,[],{},[]
+T_12,16,ROI_227.png,88239,201,439,0.0,['tintin'],[0.895],[],0,[],{},[]
+T_12,16,ROI_228.png,105672,238,444,0.241,[],['NONE'],[0.931],1,[],{0: 'NaN'},['my word! It sounds ']
+T_12,16,ROI_229.png,191350,430,445,0.16,['tintin'],[0.856],"[0.976, 0.925]",2,['2'],"{0: 'NaN', 1: 'tintin', 2: 'NaN'}","['!', ""Well! What's going on here?. ""]"
+T_12,16,ROI_230.png,197580,444,445,0.335,"['t-t', 't-t', 'tintin']","[0.918, 0.91, 0.902]","[0.935, 0.699]",2,['1'],"{0: 't-t', 1: 'NaN'}","[""That's not true! On the contrary. he took my blanket! "", ""It's him. Tintin!. He stole my pillow! ""]"
+T_12,16,ROI_231.png,235934,529,446,0.251,"['tintin', 't-t', 't-t']","[0.952, 0.929, 0.861]",[0.768],1,['1'],{0: 'tintin'},"[""Aren't you ashamed, at your age?. Arguing like that over such trifles. comel. enough, isn't ""]"
+T_12,16,ROI_232.png,109470,246,445,0.179,['tintin'],[0.885],[0.968],1,['1'],{0: 'tintin'},['And now to bed. ']
+T_12,16,ROI_233.png,243100,550,442,0.09,[],['NONE'],"[0.95, 0.892]",2,[],"{0: 'NaN', 1: 'NaN'}","['?', 'Billions of blistering, barnacles. ']"
+T_12,17,ROI_235.png,200214,454,441,0.275,['tintin'],[0.757],"[0.943, 0.769]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['The matter? Blistering barnacles. My whisky. bottle has disappeared!. ', ""What's the matter, Captain?. ""]"
+T_12,17,ROI_236.png,136887,309,443,0.415,[],['NONE'],[0.905],1,[],{0: 'NaN'},['disappeared?. It must be someone who is concerned about your health and wants to make sure your diet. ']
+T_12,17,ROI_237.png,113220,255,444,0.413,['haddock'],[0.951],[0.913],1,[],{0: 'NaN'},"[""You may laugh, But if I find the wretch responsible, i'll wring, neck! ""]"
+T_12,17,ROI_238.png,128605,289,445,0.447,[],['NONE'],[0.865],1,[],{0: 'NaN'},"[""We'll investigate in the morning. Now, let's sleep. I'm dropping with fatigue. good night! ""]"
+T_12,17,ROI_239.png,196245,441,445,0.185,['haddock'],[0.913],[0.751],1,[],{0: 'NaN'},['Go and sleep. if you want. As for myself. know what still have to do.... ']
+T_12,17,ROI_240.png,128772,292,441,0.0,['haddock'],[0.904],[],0,[],{},[]
+T_12,17,ROI_241.png,100989,229,441,0.039,[],['NONE'],[0.734],1,[],{0: 'NaN'},['no ']
+T_12,17,ROI_242.png,154164,348,443,0.0,['haddock'],[0.938],[],0,[],{},[]
+T_12,17,ROI_243.png,204223,461,443,0.0,['haddock'],[0.962],[],0,[],{},[]
+T_12,17,ROI_244.png,186524,422,442,0.092,['haddock'],[0.915],[0.825],1,['1'],{0: 'haddock'},"['Thundering typhoons, ']"
+T_12,17,ROI_245.png,195360,440,444,0.016,[],['NONE'],[0.908],1,[],{0: 'NaN'},['no nr. ']
+T_12,17,ROI_246.png,179247,401,447,0.0,['tintin'],[0.721],[],0,[],{},[]
+T_12,17,ROI_247.png,136887,309,443,0.25,['haddock'],[0.955],[0.953],1,['1'],{0: 'haddock'},"[""quick. Tintin!. quick ily. There's riot a second to be lost. ""]"
+T_12,17,ROI_248.png,270230,610,443,0.112,['haddock'],[0.922],[0.641],1,['1'],{0: 'haddock'},"[""we're there's bomb in the hold!. ""]"
+T_12,18,ROI_250.png,185240,421,440,0.258,['haddock'],[0.837],[0.874],1,[],{0: 'NaN'},['went down to the hold to open crate of whisky. Instead of bottles of whisky. found bomb there. ']
+T_12,18,ROI_251.png,194038,439,442,0.0,"['tintin', 'haddock']","[0.946, 0.927]",[],0,[],{},[]
+T_12,18,ROI_252.png,206460,465,444,0.105,"['haddock', 'tintin']","[0.903, 0.89]","[0.951, 0.672]",2,[],"{0: 'NaN', 1: 'NaN'}","['no entry ', ""It's here. look. ""]"
+T_12,18,ROI_253.png,196692,443,444,0.206,"['haddock', 'tintin']","[0.951, 0.884]","[0.857, 0.615]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['But I must, we have to know. a11 about. ', 'careful. don. go near. ']"
+T_12,18,ROI_254.png,156468,354,442,0.05,"['haddock', 'snowy']","[0.872, 0.829]",[0.935],1,['1'],{0: 'haddock'},['well?. ']
+T_12,18,ROI_255.png,109864,248,443,0.104,['tintin'],[0.881],[0.966],1,['1'],{0: 'tintin'},['steel plates. ']
+T_12,18,ROI_256.png,118992,268,444,0.145,['haddock'],[0.947],"[0.937, 0.783]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['Steel plates?? ', 'no jentry, ']"
+T_12,18,ROI_257.png,263885,593,445,0.287,"['haddock', 'tintin']","[0.947, 0.89]","[0.89, 0.877]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""My word, you're right. But then it's not bomb?. "", ""Definitely not. Look. Let's open another crate. ""]"
+T_12,18,ROI_258.png,174542,394,443,0.147,"['haddock', 'tintin']","[0.952, 0.936]",[0.94],1,['1'],{0: 'haddock'},['More steel plates. blistering barnacles! ']
+T_12,18,ROI_259.png,148848,336,443,0.177,"['tintin', 'haddock']","[0.934, 0.932]","[0.802, 0.708]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['And in this one.... ', 'Still more steel plates. ']"
+T_12,18,ROI_260.png,154762,347,446,0.454,"['haddock', 'tintin']","[0.951, 0.892]",[0.929],1,[],{0: 'NaN'},"[""Hell and damnation! not a laboardraft. Anyhift of whisky. played this trick. I'll make him squirm, ""]"
+T_12,18,ROI_261.png,117925,265,445,0.327,"['haddock', 'tintin']","[0.963, 0.95]",[0.947],1,['1'],{0: 'tintin'},"[""Come, Captain. We'll try and liget to the bottom of this mystery in the morning. ""]"
+T_12,18,ROI_262.png,105228,237,444,0.097,[],['NONE'],[0.802],1,[],{0: 'NaN'},['the next day. ']
+T_12,18,ROI_263.png,206016,464,444,0.285,"['haddock', 'tintin']","[0.92, 0.916]",[0.788],1,[],{0: 'NaN'},"[""in any case, we can't blame snowy any more. taking biscuits. or a chicken. perhaps. but toof whisky!. ""]"
+T_12,19,ROI_265.png,196249,443,443,0.023,"['haddock', 'snowy', 'tintin']","[0.934, 0.815, 0.761]",[0.752],1,['1'],{0: 'tintin'},['ohi ']
+T_12,19,ROI_266.png,255300,575,444,0.099,"['haddock', 'tintin', 'snowy']","[0.979, 0.94, 0.908]",[0.858],1,['1'],{0: 'tintin'},"['Goodness gracious. he. but yes, ']"
+T_12,19,ROI_267.png,134672,304,443,0.315,"['tintin', 'snowy']","[0.74, 0.719]",[0.942],1,['1'],{0: 'tintin'},['snowy. what have you done?. pooh! What breath!. You seek of whisky! ']
+T_12,19,ROI_268.png,170612,386,442,0.363,"['snowy', 'tintin']","[0.944, 0.903]","[0.938, 0.923]",2,"['1', '2']","{0: 'tintin', 1: 'snowy'}","['Oh! Alright.... you. a d-d-drink too?. ', 'now go on! And show. us where you found the whisky.... ']"
+T_12,19,ROI_269.png,218295,495,441,0.055,"['haddock', 'tintin', 'snowy']","[0.914, 0.899, 0.851]","[0.944, 0.93, 0.834]",3,"['1', '2', '3']","{0: 'tintin', 1: 'tintin', 2: 'snowy'}","['?', '?', 'there. ']"
+T_12,19,ROI_270.png,194034,438,443,0.187,"['haddock', 'snowy', 'tintin']","[0.82, 0.81, 0.747]",[0.893],1,['1'],{0: 'tintin'},"[""look have smashed up there!. Let's go and see.... ""]"
+T_12,19,ROI_271.png,176800,400,442,0.0,"['haddock', 'snowy', 'tintin']","[0.947, 0.743, 0.714]",[],0,[],{},[]
+T_12,19,ROI_272.png,291937,659,443,0.1,"['tintin', 'haddock']","[0.927, 0.837]","[0.937, 0.871]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['blister-thely barnacles! If I catch person who.i. ', 'there! ']"
+T_12,19,ROI_273.png,116952,264,443,0.154,"['haddock', 'tintin']","[0.951, 0.918]",[0.958],1,['1'],{0: 'tintin'},['shhh. listen.... ']
+T_12,19,ROI_274.png,254464,568,448,0.053,[],['NONE'],[0.946],1,[],{0: 'NaN'},['2222 2 2 2 ']
+T_12,19,ROI_275.png,165020,370,446,0.387,"['haddock', 'tintin']","[0.944, 0.923]","[0.93, 0.868]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['quite impossible : the lashings. are secure. at least. ', ""There's someone asleep in this lifeboat! ""]"
+T_12,19,ROI_276.png,173550,390,445,0.285,['haddock'],[0.92],[0.953],1,[],{0: 'NaN'},['Blistering barnacles. The last hings. undone on this side!. There is someone in this lifeboat! ']
+T_12,20,ROI_278.png,194920,440,443,0.082,[],['NONE'],"[0.977, 0.715]",2,[],"{0: 'NaN', 1: 'NaN'}","['!', 'Thundering typhoons! ']"
+T_12,20,ROI_279.png,270840,610,444,0.066,"['haddock', 'tintin']","[0.857, 0.77]",[0.948],1,[],{0: 'NaN'},['22 2 2 2 2 ']
+T_12,20,ROI_280.png,118456,268,442,0.337,"['tintin', 'haddock']","[0.908, 0.903]",[0.915],1,['1'],{0: 'haddock'},"['Billions of billions. blue bliss tering barnacles. Wake up, you in there. ']"
+T_12,20,ROI_281.png,175077,397,441,0.301,"['haddock', 'tintin']","[0.966, 0.891]",[0.939],1,[],{0: 'NaN'},"[""where's my whisky. wretch!. What have you done with my whisky?. answer, thundering typhoons. where is my whisky?. ""]"
+T_12,20,ROI_282.png,214412,484,443,0.256,"['calculus', 'haddock', 'tintin']","[0.964, 0.945, 0.852]",[0.835],1,['1'],{0: 'calculus'},"[""Yes, to tell the truth, slept very badly. But I hope you'll now. give me cabin.... ""]"
+T_12,20,ROI_283.png,196245,441,445,0.434,"['haddock', 'tintin', 'calculus']","[0.969, 0.951, 0.823]",[0.855],1,['1'],{0: 'haddock'},"[""a cabin!. I'll give you a cabin!. I'll have you thrown into the bottom of the hold with dry bread and water for the rest of ""]"
+T_12,20,ROI_284.png,196690,442,445,0.219,"['haddock', 'calculus', 'tintin']","[0.971, 0.902, 0.85]","[0.862, 0.842]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""It's on board. ' The Lord be praised!.... "", ""It's on board, of course. ""]"
+T_12,20,ROI_285.png,177156,399,444,0.336,"['calculus', 'haddock', 'tintin']","[0.956, 0.951, 0.916]","[0.918, 0.845]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","[""In separate parts?. My whisky is in separate ' parts?. "", 'Though it is, of course, in separate parts.... ']"
+T_12,20,ROI_286.png,215454,482,447,0.434,"['haddock', 'calculus', 'tintin']","[0.966, 0.955, 0.903]",[0.853],1,['1'],{0: 'calculus'},"['Yes, of course. It is a little smaller than the first model. but all the same still too big to go unnoticed. So I had to dismantle it and pack in the crates. ']"
+T_12,20,ROI_287.png,170496,384,444,0.361,"['haddock', 'calculus']","[0.951, 0.909]","[0.944, 0.669]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","['But the whisky that was in the crates, tell me. that whisky, what have you done with it? Did it remain ashore?. ', 'Oh no ']"
+T_12,20,ROI_288.png,255476,578,442,0.409,"['haddock', 'calculus', 'tintin']","[0.965, 0.958, 0.898]",[0.845],1,['1'],{0: 'calculus'},"['no, no. It was during the night before your departure. There were still crates on the quayside. ready I took out the bottles they contained. and in their place put parts. ']"
+T_12,20,ROI_289.png,159480,360,443,0.35,"['haddock', 'calculus']","[0.97, 0.867]",[0.935],1,['1'],{0: 'haddock'},"[""wretch!. Alpine cretin!.... I'm going to throw you overboard. overboard, do you hear?. ""]"
+T_12,21,ROI_291.png,193596,438,442,0.336,"['haddock', 'calculus']","[0.909, 0.838]",[0.825],1,['1'],{0: 'calculus'},"[""Thank you, Captain, thank you, I expected as much of you. you'll see, you'll not regret having given me such a friendly welcome. ""]"
+T_12,21,ROI_292.png,177643,401,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,21,ROI_293.png,211820,476,445,0.389,"['haddock', 'tintin']","[0.974, 0.951]","[0.84, 0.602]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['And this island doesn featurn on any the maps. ', ""Look. We're at the point indicated on the parchments. We should soon see went down. ""]"
+T_12,21,ROI_294.png,175871,397,443,0.275,"['tintin', 'haddock']","[0.961, 0.932]",[0.948],1,['1'],{0: 'haddock'},"[""No, that's sometimes the case with insignificant islands. Come, we'll try and find it.... ""]"
+T_12,21,ROI_295.png,195806,442,443,0.0,"['tintin', 'haddock']","[0.919, 0.722]",[],0,[],{},[]
+T_12,21,ROI_296.png,217202,487,446,0.159,['tintin'],[0.742],"[0.949, 0.931]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['nothing. ', 'I still see nothing.... How about young. ']"
+T_12,21,ROI_297.png,177242,401,442,0.392,['haddock'],[0.948],"[0.955, 0.68]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['nothing. type. But I\'ll give a bottle of champagne. to the first who sees land. "" ', 'Do you see something?. ']"
+T_12,21,ROI_298.png,222500,500,445,0.0,['tintin'],[0.908],[],0,[],{},[]
+T_12,21,ROI_299.png,187790,422,445,0.071,"['haddock', 'tintin', 'calculus', 't-t']","[0.947, 0.875, 0.766, 0.748]",[0.904],1,['1'],{0: 'calculus'},['over there! ']
+T_12,21,ROI_300.png,225900,502,450,0.136,"['tintin', 't-t']","[0.887, 0.725]",[0.744],1,[],{0: 'NaN'},"[""Where's this island, then?. see nothing ""]"
+T_12,21,ROI_301.png,165168,372,444,0.2,"['haddock', 'tintin', 'calculus']","[0.966, 0.942, 0.779]",[0.95],1,['1'],{0: 'calculus'},"['Yes. Captain, it was shark saw it, tell you. ']"
+T_12,21,ROI_302.png,199356,449,444,0.0,"['tintin', 'haddock']","[0.955, 0.806]",[],0,[],{},[]
+T_12,22,ROI_304.png,194922,441,442,0.154,"['haddock', 'tintin', 't-t']","[0.934, 0.912, 0.876]",[0.775],1,['1'],{0: 'haddock'},"[""nothing. still That's strange. ""]"
+T_12,22,ROI_305.png,190060,430,442,0.31,"['haddock', 't-t']","[0.898, 0.857]","[0.928, 0.793]",2,"['1', '2']","{0: 'haddock', 1: 't-t'}","[""How should know?. It doesn't feature on any mappi. "", 'And what is this island called?. ']"
+T_12,22,ROI_306.png,200226,453,442,0.151,"['t-t', 'haddock']","[0.948, 0.927]",[0.828],1,[],{0: 'NaN'},['quite sure. the position. yester at noon. ']
+T_12,22,ROI_307.png,168655,379,445,0.295,"['haddock', 't-t']","[0.969, 0.906]","[0.97, 0.851]",2,"['1', '2']","{0: 't-t', 1: 'haddock'}","['well, yes. but... ery. perhaps you. your calculations wrong.... ', 'UNKNOWN']"
+T_12,22,ROI_308.png,225170,506,445,0.313,"['haddock', 'tintin', 't-t']","[0.965, 0.942, 0.86]",[0.775],1,['1'],{0: 'haddock'},"[""Oh! So I tgot my calculations wrong. see. they. 're still on my table. Go and check them!.... yes, yes. at once! Go and check them now! ""]"
+T_12,22,ROI_309.png,194920,440,443,0.315,"['tintin', 'haddock', 'calculus']","[0.934, 0.929, 0.712]",[0.727],1,['1'],{0: 'calculus'},"['I say, Captain, is that a fish just saw jump out of the water. over No, it was grand there?. piano!. ']"
+T_12,22,ROI_310.png,133182,302,441,0.229,"['calculus', 'haddock']","[0.906, 0.874]",[0.947],1,['1'],{0: 'calculus'},"[""ah! didn't really think it could be a fish. ""]"
+T_12,22,ROI_311.png,212197,479,443,0.297,"['haddock', 't-t', 't-t']","[0.958, 0.876, 0.776]",[0.91],1,['1'],{0: 't-t'},"['captain. please excurse us, but there is in in your calculations. Here is point are. ']"
+T_12,22,ROI_312.png,243070,545,446,0.188,"['t-t', 'haddock', 't-t', 'tintin']","[0.956, 0.931, 0.898, 0.844]",[0.637],1,[],{0: 'NaN'},"['you are right.... was mistaken.... Gentlemen, please remove your hats.... ']"
+T_12,22,ROI_313.png,186946,422,443,0.19,"['t-t', 't-t', 'haddock']","[0.971, 0.965, 0.94]","[0.923, 0.918]",2,"['1', '2']","{0: 't-t', 1: 'haddock'}","['Why do we have take our hats off. Captain?. io ', 'shh. ']"
+T_12,22,ROI_314.png,222444,501,444,0.045,"['t-t', 't-t', 'haddock']","[0.96, 0.958, 0.919]","[0.949, 0.915]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['?', '?']"
+T_12,22,ROI_315.png,174985,395,443,0.251,"['haddock', 't-t']","[0.932, 0.832]","[0.958, 0.774]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","['But now, Captain. will you tell us what this means?. ', 'so here we stand. ']"
+T_12,23,ROI_317.png,193599,439,441,0.351,"['t-t', 't-t', 'haddock', 'tintin']","[0.956, 0.953, 0.947, 0.936]",[0.87],1,['1'],{0: 'haddock'},"['It means, gentlemen, that, according to your calculations, we are standing at this moment in the middle of Westminster abbey!. ']"
+T_12,23,ROI_318.png,237718,533,446,0.0,['t-t'],[0.715],[],0,[],{},[]
+T_12,23,ROI_319.png,153624,346,444,0.25,"['tintin', 'haddock']","[0.93, 0.8]",[0.957],1,['1'],{0: 'haddock'},"[""Thousands of thundering typhoons! where's that accursed island hiding?. ""]"
+T_12,23,ROI_320.png,232407,527,441,0.0,[],['NONE'],[],0,[],{},[]
+T_12,23,ROI_321.png,155142,351,442,0.367,"['haddock', 'tintin']","[0.977, 0.92]","[0.896, 0.786]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""I'm beginning to think that Sir Francis Haddock was taking us for a ride.... "", 'beginning to think so 700. ']"
+T_12,23,ROI_322.png,194034,438,443,0.234,"['haddock', 'tintin', 'snowy']","[0.947, 0.791, 0.752]",[0.897],1,[],{0: 'NaN'},"[""We'll soon see. It'll be noon shortly. We'll take our bearings. I'm going to. ' get ""]"
+T_12,23,ROI_323.png,135520,308,440,0.238,"['haddock', 'tintin']","[0.941, 0.905]",[0.952],1,['1'],{0: 'haddock'},"[""there. now, let's go in. I'll do my calculations. ""]"
+T_12,23,ROI_324.png,148280,337,440,0.446,"['haddock', 'tintin']","[0.952, 0.875]",[0.93],1,['1'],{0: 'haddock'},"['the point indicated by the parchments was : latitude 20 37.42 west. Here\'s our position now. same latitude, longitude 71""2\'29\' west. ']"
+T_12,23,ROI_325.png,133623,303,441,0.371,"['haddock', 'tintin']","[0.955, 0.924]",[0.921],1,['1'],{0: 'haddock'},"[""That means we've already. gone past point indicated, and nothing.... seen I don't understand it. ""]"
+T_12,23,ROI_326.png,159642,362,441,0.183,"['haddock', 'tintin']","[0.977, 0.935]","[0.937, 0.912]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Captain, we're fools! "", '1. "" ']"
+T_12,23,ROI_327.png,190047,429,443,0.356,"['haddock', 'tintin']","[0.976, 0.943]",[0.928],1,['1'],{0: 'tintin'},"['Look. Captain, the meridian you used to calculate the degrees of longitude is of course the Greenwich meridian.... ']"
+T_12,23,ROI_328.png,220171,497,443,0.366,"['haddock', 'tintin']","[0.946, 0.915]",[0.941],1,[],{0: 'NaN'},"['Wait! Now Sir Francis Haddock would almost certainly have taken the Paris meridian that was widely used then, and which lies more than two. degrees to the east of the greenwich. ']"
+T_12,23,ROI_329.png,174542,394,443,0.412,"['haddock', 'tintin']","[0.974, 0.926]",[0.931],1,['1'],{0: 'haddock'},"['blistering barnacles. You\'re right! Why didn\'t we think of that before?. therefore too far to the west. "" turn back. ']"
+T_12,24,ROI_331.png,80444,182,442,0.478,['haddock'],[0.988],[0.925],1,['1'],{0: 'haddock'},"['ahoy! helmsman, hard a- -portly steer due east! steam ahead! ']"
+T_12,24,ROI_332.png,108290,245,442,0.06,[],['NONE'],[0.769],1,[],{0: 'NaN'},['?']
+T_12,24,ROI_333.png,101200,230,440,0.0,['calculus'],[0.814],[],0,[],{},[]
+T_12,24,ROI_334.png,151704,344,441,0.407,"['haddock', 'calculus']","[0.97, 0.933]","[0.908, 0.875]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","['Yes, Mr. Calculus, we are going back.... ', ""Captain, what's going on?. going back. ""]"
+T_12,24,ROI_335.png,131128,296,443,0.238,"['haddock', 'calculus']","[0.959, 0.907]",[0.904],1,['1'],{0: 'calculus'},"[""Oh! Good!. That's fine then!. thought we were going back. ""]"
+T_12,24,ROI_336.png,186060,420,443,0.194,"['calculus', 'haddock']","[0.882, 0.861]",[0.869],1,[],{0: 'NaN'},['How one can uget things. wrong! could have sworn we were going back. ']
+T_12,24,ROI_337.png,203762,461,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,24,ROI_338.png,196249,443,443,0.125,"['tintin', 'haddock']","[0.969, 0.816]",[0.674],1,['1'],{0: 'haddock'},"['There at last, our treasure island. ']"
+T_12,24,ROI_339.png,599860,1348,445,0.0,['tintin'],[0.938],[],0,[],{},[]
+T_12,24,ROI_340.png,162729,369,441,0.377,"['haddock', 'tintin']","[0.967, 0.953]","[0.937, 0.756]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","[""It's too late to go ashore this evening. live'I'll drop anchor and explore the place tomorrow. morning. "", 'agree- ed. ']"
+T_12,24,ROI_341.png,217906,493,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,24,ROI_342.png,206414,467,442,0.131,"['haddock', 'tintin']","[0.949, 0.931]",[0.786],1,[],{0: 'NaN'},"[""bring. I'm going to investigate. the boat. ""]"
+T_12,25,ROI_344.png,238238,539,442,0.0,['haddock'],[0.958],[],0,[],{},[]
+T_12,25,ROI_345.png,179928,408,441,0.0,"['t-t', 't-t', 'tintin']","[0.919, 0.911, 0.876]",[],0,[],{},[]
+T_12,25,ROI_346.png,164796,372,443,0.131,"['tintin', 't-t', 't-t']","[0.932, 0.906, 0.891]",[0.823],1,['1'],{0: 't-t'},"[""my goodness What's happened to him?. ""]"
+T_12,25,ROI_347.png,216184,488,443,0.114,['haddock'],[0.964],[0.715],1,[],{0: 'NaN'},"['What is it, captain?. Are you hurt?. ']"
+T_12,25,ROI_348.png,226440,510,444,0.246,"['haddock', 'tintin']","[0.925, 0.796]",[0.858],1,['1'],{0: 'haddock'},"[""No, but my foot caught on that obstacle there, and I fell. That's how the shot was accidentally fired.... ""]"
+T_12,25,ROI_349.png,145304,328,443,0.0,['tintin'],[0.924],[],0,[],{},[]
+T_12,25,ROI_350.png,194922,442,441,0.121,['t-t'],[0.935],"[0.869, 0.84]",2,['2'],"{0: 'NaN', 1: 't-t'}","['yowl ', 'keep calm. keep ']"
+T_12,25,ROI_351.png,193158,438,441,0.045,"['t-t', 't-t']","[0.803, 0.751]",[0.849],1,['1'],{0: 't-t'},['Watch out! ']
+T_12,25,ROI_352.png,196245,445,441,0.048,[],['NONE'],[0.892],1,[],{0: 'NaN'},['yeow. ']
+T_12,25,ROI_353.png,187790,422,445,0.072,"['t-t', 't-t']","[0.887, 0.861]","[0.768, 0.759]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['yeeow. ', 'owl ']"
+T_12,25,ROI_354.png,169286,383,442,0.196,"['haddock', 'tintin']","[0.959, 0.911]",[0.948],1,['1'],{0: 'haddock'},['Leave them to it. instead and help piece ; of wood. It intrigues me.... ']
+T_12,25,ROI_355.png,231689,523,443,0.0,"['haddock', 'tintin']","[0.925, 0.85]",[],0,[],{},[]
+T_12,26,ROI_357.png,184338,418,441,0.119,['snowy'],[0.806],[0.74],1,[],{0: 'NaN'},"['Hello, what have they found there?. ']"
+T_12,26,ROI_358.png,234347,529,443,0.196,"['tintin', 'haddock', 'haddock']","[0.889, 0.82, 0.795]",[0.732],1,[],{0: 'NaN'},"['Gentlemen, here are the remains of the jollyboat which Sir Francis Haddock once rowed to this island.... ']"
+T_12,26,ROI_359.png,170496,384,444,0.425,"['haddock', 't-t', 't-t', 'tintin']","[0.97, 0.958, 0.906, 0.836]",[0.959],1,['1'],{0: 'haddock'},"[""This proves clearly that we are near our goal and that Red Rackham's bottom of the sea, now, shoes on and let's. go! ""]"
+T_12,26,ROI_360.png,1236600,1350,916,0.0,[],['NONE'],[],0,[],{},[]
+T_12,26,ROI_361.png,171828,387,444,0.192,"['haddock', 'tintin']","[0.922, 0.892]","[0.887, 0.636]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""it's snowy. ' on ahead. "", 'wooah. ']"
+T_12,26,ROI_362.png,221000,500,442,0.021,"['haddock', 'snowy', 'tintin']","[0.865, 0.811, 0.786]","[0.948, 0.945]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['?', 'UNKNOWN']"
+T_12,26,ROI_363.png,195806,443,442,0.207,"['haddock', 'tintin']","[0.952, 0.893]",[0.853],1,['1'],{0: 'tintin'},"['Where did you find that, bone, snowy?. come, quick I show us. where you found it ']"
+T_12,27,ROI_365.png,240006,543,442,0.0,"['tintin', 'haddock', 'snowy']","[0.929, 0.833, 0.781]",[],0,[],{},[]
+T_12,27,ROI_366.png,351894,789,446,0.0,"['snowy', 'haddock']","[0.823, 0.742]",[],0,[],{},[]
+T_12,27,ROI_367.png,201501,459,439,0.277,"['tintin', 'haddock', 'snowy']","[0.953, 0.944, 0.791]","[0.824, 0.696]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['surely not, captain. ', 'Blistering barnacles. bet those are the remains of the pirates killed by the explosion aboard the ']"
+T_12,27,ROI_368.png,225570,515,438,0.329,[],['NONE'],[0.823],1,[],{0: 'NaN'},"[""because if they. were, we'd have found them near the shore. No, look at this they were natives killed in a fight, and probably eaten afterwards by their enemies. ""]"
+T_12,27,ROI_369.png,151455,345,439,0.379,"['haddock', 'tintin', 't-t', 't-t']","[0.939, 0.918, 0.864, 0.719]","[0.909, 0.9]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""That's what we're hastening to find out. let's o on.. "", 'eaten?. are cannibals on this island?. ']"
+T_12,27,ROI_370.png,196248,442,444,0.0,"['tintin', 'snowy']","[0.851, 0.797]",[],0,[],{},[]
+T_12,27,ROI_371.png,208728,468,446,0.0,"['tintin', 'haddock', 'snowy']","[0.953, 0.856, 0.845]",[],0,[],{},[]
+T_12,27,ROI_372.png,183752,412,446,0.119,[],['NONE'],[0.84],1,[],{0: 'NaN'},"[""Goon! I'll catch you directly. up ""]"
+T_12,27,ROI_373.png,120286,274,439,0.0,"['tintin', 't-t', 't-t', 'snowy']","[0.939, 0.855, 0.753, 0.708]",[],0,[],{},[]
+T_12,27,ROI_374.png,270673,611,443,0.0,"['tintin', 'snowy']","[0.934, 0.797]",[],0,[],{},[]
+T_12,27,ROI_375.png,197135,443,445,0.046,"['tintin', 't-t']","[0.921, 0.82]",[0.619],1,['1'],{0: 't-t'},['an idol!. ']
+T_12,28,ROI_377.png,188734,427,442,0.202,"['t-t', 't-t', 'tintin']","[0.866, 0.735, 0.725]",[0.907],1,['1'],{0: 't-t'},"[""Golly! It's a representation Sir Francis Haddock, ""]"
+T_12,28,ROI_378.png,202878,459,442,0.4,"['tintin', 't-t', 't-t']","[0.914, 0.814, 0.708]",[0.77],1,['1'],{0: 't-t'},['Look at that mouth!. booming voice must have made singular impression on the natives! I can imagine their faces when they heard him for the first time exclaim : my run. ']
+T_12,28,ROI_379.png,194028,437,444,0.241,['tintin'],[0.935],[0.681],1,[],{0: 'NaN'},['rrration. my rrrum! ']
+T_12,28,ROI_380.png,155142,351,442,0.125,['tintin'],[0.938],[0.727],1,['1'],{0: 'tintin'},"[""Well! Captain, what's the matter?. ""]"
+T_12,28,ROI_381.png,256940,580,443,0.111,"['tintin', 'snowy', 'haddock']","[0.955, 0.83, 0.771]","[0.925, 0.901]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['what?. young. ', 'Who shouted like that?. ']"
+T_12,28,ROI_382.png,172770,390,443,0.244,"['haddock', 'tintin', 't-t']","[0.954, 0.925, 0.815]","[0.816, 0.803]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['Yes, Sir Francis haddock. ', ""No, it wasn't me. but. Thundering typhoons. ""]"
+T_12,28,ROI_383.png,194922,441,442,0.258,"['haddock', 'tintin', 't-t']","[0.926, 0.914, 0.725]",[0.72],1,[],{0: 'NaN'},['ruration my rrrum! ']
+T_12,28,ROI_384.png,173160,390,444,0.085,"['haddock', 'tintin']","[0.855, 0.729]",[0.676],1,['1'],{0: 'haddock'},['It came from that side!. ']
+T_12,28,ROI_385.png,217513,491,443,0.049,"['haddock', 'tintin']","[0.95, 0.907]",[0.906],1,['1'],{0: 'tintin'},['nobody! ']
+T_12,28,ROI_386.png,204646,463,442,0.187,"['haddock', 'tintin', 't-t']","[0.948, 0.868, 0.793]",[0.938],1,['1'],{0: 'haddock'},"[""To b-b-be precise : let's return to the b-b-o..... to the b-b-b-boat. ""]"
+T_12,28,ROI_387.png,185617,419,443,0.153,"['snowy', 'tintin', 'haddock']","[0.786, 0.742, 0.712]",[0.727],1,[],{0: 'NaN'},['man-water!. waffle-iron!. ']
+T_12,28,ROI_388.png,199360,445,448,0.137,"['haddock', 'tintin']","[0.92, 0.765]",[0.757],1,['1'],{0: 'haddock'},"['Waffle-iron yourself, informal ec. stoplasm. ']"
+T_12,29,ROI_390.png,206438,466,443,0.199,"['tintin', 'haddock']","[0.928, 0.915]",[0.846],1,['1'],{0: 'haddock'},"['show yourself, if you have any guts. pockmark. cannibal!. iconoclast! ']"
+T_12,29,ROI_391.png,138840,312,445,0.148,"['haddock', 'tintin']","[0.882, 0.847]",[0.823],1,['1'],{0: 'tintin'},['nincompoop. rascall. ']
+T_12,29,ROI_392.png,243070,545,446,0.0,"['haddock', 'tintin', 'snowy']","[0.927, 0.874, 0.874]",[],0,[],{},[]
+T_12,29,ROI_393.png,270230,610,443,0.157,[],['NONE'],"[0.925, 0.895, 0.785, 0.641]",4,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN', 3: 'NaN'}","['chimpanzee!. ', 'sea-gherkin. ', ""Squawking popinjay. ' "", 'Thirstless drinker!. ']"
+T_12,29,ROI_394.png,197574,447,442,0.372,"['haddock', 'tintin', 't-t']","[0.919, 0.897, 0.859]","[0.947, 0.822]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","[""Yes, parrots! From genera ition to generation testingory. 've passed on your ances : is ripe vocabulary. "", 'blisi tering barnacles. parrots. ). ']"
+T_12,29,ROI_395.png,117572,266,442,0.286,[],['NONE'],[0.939],1,[],{0: 'NaN'},['waffle-iron!. freshwater. sailor. funk. ']
+T_12,29,ROI_396.png,87220,196,445,0.355,['haddock'],[0.926],[0.943],1,[],{0: 'NaN'},['A funk. me you called me funk. did. young. ']
+T_12,29,ROI_397.png,104784,236,444,0.229,['haddock'],[0.934],[0.828],1,['1'],{0: 'haddock'},"[""You'll see what I'm mad of, mist chief- ""]"
+T_12,29,ROI_398.png,184288,416,443,0.158,"['tintin', 'haddock', 'snowy']","[0.925, 0.924, 0.885]",[0.843],1,['1'],{0: 'haddock'},"[""here's shut your beak. iconoclasts. ""]"
+T_12,29,ROI_399.png,205572,463,444,0.0,"['snowy', 'tintin', 'haddock']","[0.898, 0.799, 0.709]",[],0,[],{},[]
+T_12,29,ROI_400.png,165095,371,445,0.139,"['haddock', 'tintin', 'snowy']","[0.954, 0.91, 0.812]","[0.919, 0.879]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Wait, I'll give it a rub. "", 'aarghi. my back. ']"
+T_12,29,ROI_401.png,227630,515,442,0.0,"['tintin', 'snowy', 't-t']","[0.889, 0.831, 0.83]",[],0,[],{},[]
+T_12,29,ROI_402.png,195804,441,444,0.215,"['haddock', 'tintin']","[0.947, 0.92]",[0.818],1,[],{0: 'NaN'},"[""your rifle!. I'll turn them. into marrot. ""]"
+T_12,30,ROI_404.png,200679,453,443,0.21,"['haddock', 'tintin']","[0.961, 0.928]","[0.945, 0.862]",2,[],"{0: 'NaN', 1: 'NaN'}","[""look. they. down! pairrots.for heaven's sake! "", 'bandits, ']"
+T_12,30,ROI_405.png,160809,363,443,0.282,"['haddock', 'tintin']","[0.963, 0.936]","[0.905, 0.904]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","[""You're right. Come. let's. sgt "", ""Leave them. Captain. and let's go on ""]"
+T_12,30,ROI_406.png,220558,499,442,0.119,"['haddock', 'tintin', 'snowy']","[0.939, 0.935, 0.848]",[0.831],1,['1'],{0: 'tintin'},"[""my rifle! Who's taken my rifle?.... ""]"
+T_12,30,ROI_407.png,216580,490,442,0.177,"['tintin', 'haddock']","[0.942, 0.939]","[0.948, 0.761]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['only punt it there a\' second ago. "" ', 'perhaps it slid into bush? ']"
+T_12,30,ROI_408.png,162729,369,441,0.054,"['haddock', 'snowy', 'tintin']","[0.925, 0.898, 0.879]",[0.899],1,['1'],{0: 'haddock'},['well?. ']
+T_12,30,ROI_409.png,204646,463,442,0.142,"['haddock', 'tintin', 'snowy']","[0.944, 0.897, 0.87]","[0.979, 0.897]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""nothing it's well and truly vanished.. "", 'Blistering barnacles. ']"
+T_12,30,ROI_410.png,195363,441,443,0.175,"['haddock', 'tintin']","[0.934, 0.9]","[0.885, 0.751]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['shhh. ', 'What are those cries? ']"
+T_12,30,ROI_411.png,151300,340,445,0.145,"['tintin', 'haddock']","[0.915, 0.898]",[0.782],1,[],{0: 'NaN'},"['crooee, crooee. ']"
+T_12,30,ROI_412.png,241190,542,445,0.049,[],['NONE'],[0.84],1,[],{0: 'NaN'},['crooee!. ']
+T_12,30,ROI_413.png,165168,372,444,0.29,['haddock'],[0.857],[0.978],1,['1'],{0: 'haddock'},"['# it into the baboons. apes. macaco monkeys. return that rifle, cercopitheouses. ']"
+T_12,30,ROI_414.png,228145,515,443,0.144,"['haddock', 'tintin']","[0.96, 0.946]",[0.824],1,[],{0: 'NaN'},"[""That's no use, Captain Leave it to me. I'll scare them off. ""]"
+T_12,30,ROI_415.png,195804,441,444,0.217,['tintin'],[0.951],"[0.912, 0.762]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","[""hang on, don't do that. "", 'hands up!. boom! ']"
+T_12,31,ROI_417.png,258234,579,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,31,ROI_418.png,179738,403,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,31,ROI_419.png,151640,340,446,0.046,"['haddock', 'tintin']","[0.931, 0.899]",[0.825],1,['1'],{0: 'haddock'},['!']
+T_12,31,ROI_420.png,203720,463,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,31,ROI_421.png,165308,374,442,0.259,"['t-t', 't-t']","[0.917, 0.835]",[0.976],1,['1'],{0: 't-t'},"[""That's it!. they've dropped the rifle!.... There it's coming down.... ""]"
+T_12,31,ROI_422.png,88842,201,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,31,ROI_423.png,121000,275,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,31,ROI_424.png,197580,444,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,31,ROI_425.png,232132,524,443,0.316,"['haddock', 't-t', 't-t']","[0.953, 0.91, 0.734]",[0.883],1,['1'],{0: 'haddock'},"['very clever what you did, eh, look. An inch lower. have been the end of Captain Haddock, ']"
+T_12,31,ROI_426.png,158508,357,444,0.438,"['haddock', 'tintin']","[0.944, 0.931]","[0.946, 0.747]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Come, all's well that ends well. so, Captain, shall we head back?. know that the island is uninhabited.... "", ""Good idea. let's ""]"
+T_12,31,ROI_427.png,234432,528,444,0.0,"['snowy', 'tintin', 'haddock']","[0.887, 0.887, 0.869]",[],0,[],{},[]
+T_12,31,ROI_428.png,158594,358,443,0.134,"['haddock', 'tintin']","[0.945, 0.863]",[0.885],1,['1'],{0: 'haddock'},"['Thundering typhoons, remember!. ']"
+T_12,31,ROI_429.png,195360,440,444,0.146,"['haddock', 'tintin', 't-t']","[0.957, 0.93, 0.929]",[0.86],1,['1'],{0: 'haddock'},['The idol! leaving here? ']
+T_12,32,ROI_431.png,335478,759,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,32,ROI_432.png,258680,580,446,0.361,['haddock'],[0.928],[0.661],1,[],{0: 'NaN'},['Oh! What pleasant visions haunt me as gaze come back to me. ']
+T_12,32,ROI_433.png,108978,246,443,0.151,['tintin'],[0.908],[0.963],1,['1'],{0: 'tintin'},['watch outl. A shark. ']
+T_12,32,ROI_434.png,182484,411,444,0.0,['haddock'],[0.952],[],0,[],{},[]
+T_12,32,ROI_435.png,300384,672,447,0.113,['haddock'],[0.83],[0.668],1,[],{0: 'NaN'},"['Thundering typhoons, It almost took my hand!.. ']"
+T_12,32,ROI_436.png,197135,443,445,0.139,['haddock'],[0.949],[0.674],1,[],{0: 'NaN'},"['There, another one and there, yet another. ']"
+T_12,32,ROI_437.png,155700,346,450,0.238,['haddock'],[0.967],[0.942],1,['1'],{0: 'haddock'},"[""quick, the rifle! I'm going to tell these brutes. thing or two!. ""]"
+T_12,32,ROI_438.png,244252,538,454,0.0,[],['NONE'],[],0,[],{},[]
+T_12,32,ROI_439.png,396928,896,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,32,ROI_440.png,195804,441,444,0.292,"['tintin', 'haddock', 'snowy']","[0.943, 0.831, 0.802]",[0.86],1,['1'],{0: 'tintin'},"[""Well! Captain. I'm beginning to think that Mr. Calculus's invention may well prove very useful to us.... ""]"
+T_12,33,ROI_442.png,192705,435,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,33,ROI_443.png,264775,595,445,0.222,"['haddock', 'tintin']","[0.931, 0.704]","[0.928, 0.896]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""so, you've made up "", ""yes, yes. mr. Calculus has explained clearly how his apparatus works. It'll be fine.... ""]"
+T_12,33,ROI_444.png,127428,287,444,0.125,['calculus'],[0.955],[0.913],1,['1'],{0: 'calculus'},['stop! stop! one mo. ment!. ']
+T_12,33,ROI_445.png,269178,609,442,0.544,['haddock'],[0.873],"[0.825, 0.769]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['of the British I forgot, to tell you when "" Button. discover the wreck. push red on the left of the dashboard. By doing will release a small canister fixed underneath the apparatus that is filled with a product which,\'on contact with the water, will give off indicating the cation of the wreck. ', 'The little red button?. good. ']"
+T_12,33,ROI_446.png,98124,222,442,0.417,"['calculus', 'calculus']","[0.853, 0.817]",[0.938],1,['1'],{0: 'calculus'},"['no, red.. The little red button. it, yes. go, goodbye!. and. igood luck ']"
+T_12,33,ROI_447.png,215160,489,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,33,ROI_448.png,196248,444,442,0.104,['haddock'],[0.901],[0.773],1,['1'],{0: 'haddock'},"[""There : he's dived. ""]"
+T_12,33,ROI_449.png,268901,607,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,33,ROI_450.png,120666,273,442,0.362,['tintin'],[0.896],"[0.859, 0.767]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","[""It's fun, what! snowy.... nothing but water! lot of water!. "", 'nothing but water. lot of water, ']"
+T_12,33,ROI_451.png,210012,473,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,33,ROI_452.png,182104,412,442,0.362,['haddock'],[0.952],"[0.96, 0.668]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""Gone long? No, not an hour! It's barely ten. minutes since he lived.... "", ""let's hope. nothing. goes wrong ""]"
+T_12,33,ROI_453.png,195364,442,442,0.0,['tintin'],[0.722],[],0,[],{},[]
+T_12,34,ROI_455.png,169840,386,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,34,ROI_456.png,171108,388,441,0.252,['tintin'],[0.93],[0.969],1,['1'],{0: 'tintin'},"[""Hello, what's up?. what's the matter?. The motor has stopped. We're no longer going forward!. ""]"
+T_12,34,ROI_457.png,244644,551,444,0.026,[],['NONE'],[0.944],1,[],{0: 'NaN'},['21 ']
+T_12,34,ROI_458.png,160524,364,441,0.256,[],['NONE'],[0.961],1,[],{0: 'NaN'},"[""That's bad. Snowy! our propeller is caught up with seaweed. ""]"
+T_12,34,ROI_459.png,263560,599,440,0.147,[],['NONE'],[0.658],1,[],{0: 'NaN'},"[""We'll try and free ourselves by going into reverse. ""]"
+T_12,34,ROI_460.png,161330,365,442,0.24,['tintin'],[0.879],[0.947],1,['1'],{0: 'tintin'},['no good. propeller completely jammed. is And the motor has stalled.. ']
+T_12,34,ROI_461.png,197132,442,446,0.195,[],['NONE'],[0.826],1,[],{0: 'NaN'},['my poor. snowy. how are we going to ygt out of this one?. ']
+T_12,34,ROI_462.png,143735,323,445,0.512,['tintin'],[0.932],[0.833],1,['1'],{0: 'tintin'},"[""There's only one thing to do : release the smoke canister. At least that way they. ' I know where I am. there little.in press the red button. ""]"
+T_12,34,ROI_463.png,249645,561,445,0.031,[],['NONE'],[0.851],1,[],{0: 'NaN'},['And there. ']
+T_12,34,ROI_464.png,152292,343,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,34,ROI_465.png,241286,541,446,0.156,"['haddock', 'calculus']","[0.973, 0.722]",[0.666],1,['1'],{0: 'haddock'},['there. there. smoke. discovered the wreck of the unicorn!. ']
+T_12,34,ROI_466.png,197136,444,444,0.246,['haddock'],[0.947],[0.898],1,['1'],{0: 'haddock'},"['Over there, Mr. Calculus! look. smoke!. has been found!.... ']"
+T_12,35,ROI_468.png,116774,266,439,0.064,['calculus'],[0.703],[0.68],1,['1'],{0: 'calculus'},['OH ']
+T_12,35,ROI_469.png,224094,507,442,0.232,"['haddock', 'calculus']","[0.961, 0.931]",[0.845],1,['1'],{0: 'calculus'},"[""Over there, Captain!. look. But do look : He's discovered the wreck. ""]"
+T_12,35,ROI_470.png,242764,548,443,0.133,[],['NONE'],[0.722],1,[],{0: 'NaN'},"[""be patient, they. before. come to our rescue.... ' ""]"
+T_12,35,ROI_471.png,159562,361,442,0.285,['haddock'],[0.962],[0.964],1,['1'],{0: 'haddock'},"[""ahoy therel. lower. the dinghy!. we'll place buoy. over the spot Tintin has indicated! ""]"
+T_12,35,ROI_472.png,213083,481,443,0.0,['t-t'],[0.704],[],0,[],{},[]
+T_12,35,ROI_473.png,212160,480,442,0.172,['t-t'],[0.781],[0.628],1,['1'],{0: 't-t'},"[""And there's the underwater viewing apparatus. ""]"
+T_12,35,ROI_474.png,195806,442,443,0.287,['haddock'],[0.937],"[0.804, 0.671]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['No, but I was quite an athlete in my youth. ', ""I'm slightly worried that Tintin hasn't surfaced. yet. ""]"
+T_12,35,ROI_475.png,226373,511,443,0.193,"['haddock', 'calculus']","[0.944, 0.925]","[0.904, 0.684]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","['aha? ', ""and that's the reason have retained such bearing.... ""]"
+T_12,35,ROI_476.png,165612,373,444,0.187,['haddock'],[0.943],[0.935],1,[],{0: 'NaN'},"['To tell the truth, no. above all long-c walking races. ']"
+T_12,35,ROI_477.png,153664,343,448,0.063,['calculus'],[0.825],[0.899],1,[],{0: 'NaN'},"[""Let's have a look. ""]"
+T_12,35,ROI_478.png,241190,542,445,0.239,[],['NONE'],"[0.827, 0.756]",2,[],"{0: 'NaN', 1: 'NaN'}","['marvellous. quick! Let me look. ', ""Thundering typhoons! It isn't the wreck It's Tintin!.. ""]"
+T_12,35,ROI_479.png,194922,441,442,0.204,['haddock'],[0.964],"[0.934, 0.826]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['?', 'poor chap. been fouled by seaweed!. how. him? cain we ']"
+T_12,36,ROI_481.png,150620,340,443,0.313,"['haddock', 'calculus']","[0.966, 0.952]",[0.931],1,['1'],{0: 'calculus'},"[""capotain ic this is serious. didn't see right. It isn't the wreck, it's tintin. resurface. ""]"
+T_12,36,ROI_482.png,203365,457,445,0.31,"['haddock', 'calculus']","[0.969, 0.866]",[0.88],1,['1'],{0: 'calculus'},"[""Yes, two hours. He had enough oxygen for two hours.... Let's see. enough. remaining for. He has oxygen for another ten minutes! ""]"
+T_12,36,ROI_483.png,238251,533,447,0.119,[],['NONE'],[0.647],1,[],{0: 'NaN'},['hope they get a move on. it increasingly hard to breathe.... ']
+T_12,36,ROI_484.png,202938,454,447,0.233,"['haddock', 'calculus']","[0.959, 0.911]",[0.944],1,['1'],{0: 'calculus'},"[""a diving suit?. no, no. By the time one would tget the equipment. on and dive.'Tintin woolid ""]"
+T_12,36,ROI_485.png,176757,399,443,0.337,"['haddock', 'calculus']","[0.964, 0.827]","[0.891, 0.883]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""No, I've an idea, Take the grappling anchor!. The anchor intended for mooring the buoy. "", 'The anchoj To do what? ']"
+T_12,36,ROI_486.png,207740,470,442,0.302,['haddock'],[0.945],[0.883],1,[],{0: 'NaN'},"[""certainly. We're going to try. and hook it onto the submarine. And then we'll pull on the rope until the weeds give way.... ""]"
+T_12,36,ROI_487.png,196690,442,445,0.182,['haddock'],[0.945],[0.819],1,[],{0: 'NaN'},['go on more. gently. ']
+T_12,36,ROI_488.png,234596,526,446,0.197,[],['NONE'],[0.829],1,[],{0: 'NaN'},"[""An anchor ; they's 're going to try, hook me. That'll help them.... ""]"
+T_12,36,ROI_489.png,159310,358,445,0.349,['haddock'],[0.901],[0.949],1,[],{0: 'NaN'},"[""He's understood!. he's emptying the ballast to lighten. the submarine. good!. pull ""]"
+T_12,36,ROI_490.png,218448,492,444,0.142,[],['NONE'],[0.765],1,[],{0: 'NaN'},"[""Ah.l That's it!. I'm saved. ' time, I'm suffocating.... ""]"
+T_12,36,ROI_491.png,173656,392,443,0.044,[],['NONE'],[0.836],1,[],{0: 'NaN'},['?']
+T_12,36,ROI_492.png,195804,441,444,0.347,['haddock'],[0.945],[0.893],1,[],{0: 'NaN'},['failed!. catch on properly!.... Let it down again. more. stoply. Tittle to the right... to the left now. up gently.... ']
+T_12,37,ROI_494.png,185240,421,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,37,ROI_495.png,164625,375,439,0.0,[],['NONE'],[],0,[],{},[]
+T_12,37,ROI_496.png,234520,533,440,0.126,['haddock'],[0.925],[0.734],1,[],{0: 'NaN'},"['pull. Pull harder, by gad. ']"
+T_12,37,ROI_497.png,262990,595,442,0.251,['haddock'],[0.945],"[0.934, 0.905]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""But that's what I'm the Younger of the doing. typhoons. What do you Playing the cornet? "", 'pull. go on, pull. ']"
+T_12,37,ROI_498.png,154000,350,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,37,ROI_499.png,168462,382,441,0.0,[],['NONE'],[],0,[],{},[]
+T_12,37,ROI_500.png,195360,440,444,0.0,"['haddock', 'calculus']","[0.964, 0.809]",[],0,[],{},[]
+T_12,37,ROI_501.png,263424,588,448,0.0,[],['NONE'],[],0,[],{},[]
+T_12,37,ROI_502.png,133354,299,446,0.359,['haddock'],[0.887],[0.928],1,['1'],{0: 'haddock'},"[""Billions of blue. blisi. tering barnacles! let's hope there aren't any sharks about. ""]"
+T_12,37,ROI_503.png,374640,840,446,0.0,['haddock'],[0.85],[],0,[],{},[]
+T_12,37,ROI_504.png,223332,503,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,38,ROI_506.png,142274,319,446,0.153,[],['NONE'],[0.938],1,[],{0: 'NaN'},['air. last. ']
+T_12,38,ROI_507.png,146734,329,446,0.172,['calculus'],[0.776],[0.94],1,['1'],{0: 'calculus'},"[""hoorayi he's flip-hip- savedl. hooray. ""]"
+T_12,38,ROI_508.png,89200,200,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,38,ROI_509.png,206016,464,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,38,ROI_510.png,171325,385,445,0.447,['t-t'],[0.833],[0.937],1,[],{0: 'NaN'},"[""all's well. The Captain getting retrieving the back in the boat. he's the buoy. hauling. the anchi- on board.... throwing line to Tintin.. good. they. 're coming back. ""]"
+T_12,38,ROI_511.png,237448,536,443,0.22,"['tintin', 'haddock']","[0.851, 0.78]",[0.884],1,[],{0: 'NaN'},"[""you're gui ite wroing. assure your. It was seaweed which clogged up his pro- peller. Yoi'll see when we're back on board ""]"
+T_12,38,ROI_512.png,177684,402,442,0.336,"['haddock', 'tintin', 'calculus']","[0.967, 0.936, 0.707]","[0.934, 0.905]",2,"['1', '2']","{0: 'tintin', 1: 'calculus'}","['oh, really?. thought it was seaweed. ', ""you see?. it's just 25 I said. seaweed.... ""]"
+T_12,38,ROI_513.png,84613,191,443,0.484,['snowy'],[0.77],[0.927],1,['1'],{0: 'snowy'},"[""seaweed or no seaweed, I'm not putting my paws into that again. ""]"
+T_12,38,ROI_514.png,106964,242,442,0.397,['snowy'],[0.939],[0.909],1,[],{0: 'NaN'},['Good! Put it back in order. snowy and I are setting out again. at once. ']
+T_12,38,ROI_515.png,250320,560,447,0.0,[],['NONE'],[],0,[],{},[]
+T_12,38,ROI_516.png,142646,322,443,0.257,['haddock'],[0.967],[0.953],1,['1'],{0: 'haddock'},"[""let's hope nothing untoward happens to him this time.... ""]"
+T_12,38,ROI_517.png,109515,245,447,0.209,['calculus'],[0.833],[0.953],1,['1'],{0: 'calculus'},['What should I do?. Tell him?. or not?. ']
+T_12,38,ROI_518.png,99012,222,446,0.133,['calculus'],[0.939],[0.968],1,['1'],{0: 'calculus'},"[""too bad! I've decided.... ""]"
+T_12,38,ROI_519.png,178890,402,445,0.304,"['haddock', 'calculus']","[0.975, 0.806]","[0.892, 0.843]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","[""is Captain, I've bad news for you. "", 'bad news? ']"
+T_12,38,ROI_520.png,194922,442,441,0.312,"['haddock', 'calculus']","[0.965, 0.795]","[0.881, 0.693]",2,['2'],"{0: 'NaN', 1: 'calculus'}","[""What's that contrap- tion, you've root ithere?. "", 'No, bad, very bad news.... alas, the UNICORN is not here. ']"
+T_12,39,ROI_522.png,171108,388,441,0.439,"['haddock', 'calculus']","[0.964, 0.811]","[0.926, 0.871]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""yes, pendulum... I've taken up the stucky of the living and I've come the conclusion l've adjust told you. "", 'And all thanks to that. gadget?. ']"
+T_12,39,ROI_523.png,156822,354,443,0.362,['haddock'],[0.952],[0.949],1,[],{0: 'NaN'},"['Yes, much more to the west. my pendulum will begin oscillating from east to west. look. starting.... ']"
+T_12,39,ROI_524.png,254150,575,442,0.066,"['haddock', 'calculus']","[0.952, 0.939]",[0.756],1,['1'],{0: 'haddock'},"['Over there, Captain ). the smoke! ']"
+T_12,39,ROI_525.png,178200,405,440,0.272,"['haddock', 't-t']","[0.961, 0.715]",[0.955],1,['1'],{0: 'haddock'},"[""And there. see the submarine is surfacing! This time, we've got it. discovered the wreck. ""]"
+T_12,39,ROI_526.png,265041,601,441,0.126,"['haddock', 'calculus']","[0.787, 0.752]","[0.904, 0.656]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['west. always. west. ', 'have you found it?. ']"
+T_12,39,ROI_527.png,136710,310,441,0.276,[],['NONE'],[0.945],1,[],{0: 'NaN'},"[""Yes, I've discovered the UNICORN..... You can prepare the diving suit. ""]"
+T_12,39,ROI_528.png,195364,442,442,0.328,"['haddock', 'tintin']","[0.934, 0.867]","[0.919, 0.675]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""of course. I'll follow to the letter all the instructions that you've given men. "", ""So, you think it'll be alright?. ""]"
+T_12,39,ROI_529.png,198016,448,442,0.351,"['haddock', 'tintin']","[0.97, 0.892]","[0.941, 0.834]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['understood.. ', ""Good! Now, don't forget. If you want to come up. pull Twice on the rope.... in an emergency. pull repeatedly.... ""]"
+T_12,39,ROI_530.png,189189,429,441,0.103,"['haddock', 't-t']","[0.881, 0.732]","[0.935, 0.879]",2,"['1', '2']","{0: 't-t', 1: 'haddock'}","['pump on. ', 'Go on! Get pumping : ']"
+T_12,39,ROI_531.png,172770,390,443,0.031,[],['NONE'],[0.836],1,[],{0: 'NaN'},['UNKNOWN']
+T_12,39,ROI_532.png,217070,490,443,0.041,[],['NONE'],[0.923],1,[],{0: 'NaN'},['wooah. wooah! ']
+T_12,39,ROI_533.png,194910,438,445,0.082,"['snowy', 'haddock']","[0.804, 0.743]",[0.892],1,['1'],{0: 'snowy'},['wooah! ']
+T_12,40,ROI_535.png,124237,283,439,0.0,[],['NONE'],[],0,[],{},[]
+T_12,40,ROI_536.png,196248,444,442,0.131,"['snowy', 'haddock']","[0.908, 0.89]",[0.652],1,[],{0: 'NaN'},"[""That's it, he's touched the bottom. ""]"
+T_12,40,ROI_537.png,263142,594,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,40,ROI_538.png,1236600,1350,916,0.0,['snowy'],[0.706],[],0,[],{},[]
+T_12,40,ROI_539.png,270276,606,446,0.049,[],['NONE'],[0.781],1,[],{0: 'NaN'},['Here then is the UNICORN! ']
+T_12,40,ROI_540.png,142203,321,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,40,ROI_541.png,177600,400,444,0.0,['snowy'],[0.774],[],0,[],{},[]
+T_12,41,ROI_543.png,194922,441,442,0.201,[],['NONE'],[0.845],1,[],{0: 'NaN'},"[""Crikey! What's up?. The air supply has stopped!. ""]"
+T_12,41,ROI_544.png,269508,607,444,0.203,"['t-t', 't-t', 'haddock']","[0.885, 0.823, 0.725]","[0.802, 0.635]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""us? just taking break. it's tiring. you know. "", 'Thundering typhoons! doing there, instead of pumping?. ']"
+T_12,41,ROI_545.png,120595,271,445,0.379,['haddock'],[0.976],[0.938],1,['1'],{0: 'haddock'},"['infernal impersonations of Alpine cretins. blistering pump. barnacles, pump. And harder than that. ']"
+T_12,41,ROI_546.png,152874,342,447,0.233,[],['NONE'],[0.932],1,[],{0: 'NaN'},"[""phewl. The air's coming through again.... That rattled me. ""]"
+T_12,41,ROI_547.png,239760,540,444,0.352,"['haddock', 'calculus']","[0.954, 0.9]","[0.843, 0.812]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","[""he's gone pick daisies. below. "", ""Tell me, captain. I don yt understand.... Since the UNICORN isn't here, why has Tintin gone down?. ""]"
+T_12,41,ROI_548.png,195804,441,444,0.026,[],['NONE'],[0.914],1,[],{0: 'NaN'},['?']
+T_12,41,ROI_549.png,239316,539,444,0.316,"['haddock', 'calculus']","[0.945, 0.762]","[0.92, 0.897]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['gone for row?. boat?. ', ""two pulls rope. He wants to come up.... I'm sure he's found something! ""]"
+T_12,41,ROI_550.png,170435,383,445,0.087,[],['NONE'],[0.641],1,[],{0: 'NaN'},['heave-hol. ']
+T_12,41,ROI_551.png,179738,403,446,0.036,"['snowy', 'haddock']","[0.76, 0.749]",[0.914],1,['1'],{0: 'snowy'},['There he is. ']
+T_12,41,ROI_552.png,216715,487,445,0.053,['snowy'],[0.84],[0.639],1,[],{0: 'NaN'},"[""What's he bringing?.... ""]"
+T_12,41,ROI_553.png,237448,536,443,0.294,"['haddock', 'calculus', 'tintin']","[0.958, 0.873, 0.866]","[0.799, 0.642]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['a igold cross, encrusted with precious boarding stones. The cross is ma egnig ficent!. ', 'A good start, what? ']"
+T_12,41,ROI_554.png,133320,303,440,0.288,[],['NONE'],[0.945],1,[],{0: 'NaN'},"['Now why, why did he tell me Tintin had ']"
+T_12,42,ROI_556.png,188748,428,441,0.347,"['haddock', 'tintin']","[0.961, 0.832]",[0.955],1,['1'],{0: 'haddock'},"[""Yes, it's a good start, but that's nothing compared with what else we shall find... You'll see. This time, I'm going down.... ""]"
+T_12,42,ROI_557.png,213969,483,443,0.164,"['tintin', 'haddock']","[0.882, 0.857]","[0.916, 0.82]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['no, not one. ', 'Oh, by the way. ery. no sharks? ']"
+T_12,42,ROI_558.png,182928,412,444,0.13,"['tintin', 'haddock', 'calculus']","[0.931, 0.891, 0.81]","[0.874, 0.789]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['good. ', ""Here's your helmet.... ""]"
+T_12,42,ROI_559.png,182073,411,443,0.204,['tintin'],[0.946],"[0.886, 0.695]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['00H.. ', 'what?. matter? ']"
+T_12,42,ROI_560.png,203762,461,442,0.131,['tintin'],[0.909],"[0.904, 0.808]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['!', 'My beard, blistering barnacles. ']"
+T_12,42,ROI_561.png,199320,453,440,0.195,['tintin'],[0.945],[0.858],1,[],{0: 'NaN'},"['Good. Secure my helmet, now, and keep an eye on those two pumping.... ']"
+T_12,42,ROI_562.png,108092,244,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,42,ROI_563.png,110805,249,445,0.231,[],['NONE'],[0.958],1,[],{0: 'NaN'},"['Ah. "" And now for spot of treasure. hunting. ']"
+T_12,42,ROI_564.png,191795,431,445,0.139,"['snowy', 'tintin']","[0.896, 0.852]",[0.655],1,['1'],{0: 'tintin'},"[""repeated ' pulls The alarm signal. ""]"
+T_12,42,ROI_565.png,172989,387,447,0.203,[],['NONE'],[0.876],1,[],{0: 'NaN'},"['quick, quick. thisitive. Something terrible must happenes ']"
+T_12,42,ROI_566.png,226629,507,447,0.128,"['snowy', 'tintin']","[0.799, 0.709]",[0.799],1,['1'],{0: 'tintin'},"[""let's hope ""]"
+T_12,42,ROI_567.png,176314,398,443,0.051,['tintin'],[0.942],[0.836],1,['1'],{0: 'tintin'},"['At last, there he isl ']"
+T_12,42,ROI_568.png,183872,416,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,43,ROI_570.png,111636,252,443,0.189,['tintin'],[0.746],[0.964],1,['1'],{0: 'tintin'},"[""a bottle?. What's that all about?. ""]"
+T_12,43,ROI_571.png,170998,386,443,0.377,"['haddock', 'tintin']","[0.966, 0.898]",[0.968],1,['1'],{0: 'haddock'},"[""A bottle of rum, my friends. Jamaica rum!. And it's more than 250 years old!.... That'll be sensational! ""]"
+T_12,43,ROI_572.png,52212,229,228,0.0,['haddock'],[0.758],[],0,[],{},[]
+T_12,43,ROI_573.png,198025,445,445,0.366,"['haddock', 'tintin']","[0.927, 0.911]",[0.872],1,[],{0: 'NaN'},"['mmm. n-m-nectar!. Liquid 9 eyes, yes. "" Y.YYOU ( t-taste it!. yes, that\'s if-for you. I\'ll go down instantly and f-f-fetch another. joint f-for myself. ']"
+T_12,43,ROI_574.png,0,0,0,0,['haddock'],[0.717],[],0,[],{},[]
+T_12,43,ROI_575.png,184380,420,439,0.0,[],['NONE'],[],0,[],{},[]
+T_12,43,ROI_576.png,233818,529,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,43,ROI_577.png,163680,372,440,0.139,"['tintin', 'snowy']","[0.945, 0.817]",[0.901],1,['1'],{0: 'tintin'},"[""Well, that's the limit. dived in without his helmet!. ""]"
+T_12,43,ROI_578.png,161991,369,439,0.0,['tintin'],[0.889],[],0,[],{},[]
+T_12,43,ROI_579.png,136400,310,440,0.0,['haddock'],[0.89],[],0,[],{},[]
+T_12,43,ROI_580.png,149499,339,441,0.357,['haddock'],[0.891],[0.928],1,['1'],{0: 'haddock'},['Billions of billions. blistering blue. barnacles. jelly-fishes forgot top jump again. ). ']
+T_12,43,ROI_581.png,130685,295,443,0.238,['haddock'],[0.945],[0.924],1,['1'],{0: 'haddock'},['sea. Freshwater sailors. ectoplasms. Bashi-bazouks. ']
+T_12,43,ROI_582.png,164424,372,442,0.307,"['t-t', 'tintin', 'haddock']","[0.937, 0.934, 0.868]","[0.945, 0.816]",2,"['1', '2']","{0: 'tintin', 1: 't-t'}","['silence. you were told to pump, so jolly tering barriacles. ', 'but. It was you, not us, who.... ']"
+T_12,43,ROI_583.png,133320,303,440,0.498,"['haddock', 'tintin']","[0.948, 0.941]","[0.876, 0.808]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['no use captain, you have to empty your diving suit first. Take it off.... ', 'Take it off?. never! ']"
+T_12,43,ROI_584.png,88880,202,440,0.195,['haddock'],[0.803],[0.937],1,['1'],{0: 'haddock'},"[""A two minute rest. and I'll go down, gain. ""]"
+T_12,43,ROI_585.png,195360,440,444,0.0,['tintin'],[0.922],[],0,[],{},[]
+T_12,44,ROI_587.png,203762,461,442,0.216,"['tintin', 'haddock']","[0.926, 0.869]",[0.743],1,['1'],{0: 'tintin'},['you seep told you so!. diving suit is of water. It must be emptied.... ']
+T_12,44,ROI_588.png,231324,521,444,0.0,"['tintin', 'snowy']","[0.865, 0.858]",[],0,[],{},[]
+T_12,44,ROI_589.png,149184,336,444,0.383,"['tintin', 'haddock']","[0.934, 0.923]",[0.927],1,['1'],{0: 'tintin'},"[""there! if you still want to, you can go down again. But don't forget your helmet again! ""]"
+T_12,44,ROI_590.png,168402,381,442,0.406,"['t-t', 'tintin']","[0.907, 0.82]","[0.94, 0.838]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","[""off we ego.l. As for you, my hearties, make sure you don't stop, pumping unless you're ordered to.. "", ""good, good, we're pumping.... ""]"
+T_12,44,ROI_591.png,106722,242,441,0.157,['tintin'],[0.828],[0.969],1,[],{0: 'NaN'},"[""There he's gone again. ""]"
+T_12,44,ROI_592.png,309214,698,443,0.0,"['haddock', 'tintin', 'snowy']","[0.965, 0.805, 0.797]",[],0,[],{},[]
+T_12,44,ROI_593.png,184644,414,446,0.367,"['haddock', 'tintin', 'calculus']","[0.954, 0.915, 0.863]","[0.884, 0.866]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['certainly. but have preferred to discover treasure. ', ""a good day. 's work. cross.... And then... and above all, the rum. what?. ""]"
+T_12,44,ROI_594.png,188680,424,445,0.323,"['haddock', 'tintin']","[0.94, 0.932]","[0.89, 0.851]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""perhaps, but I'm inclined to think is rum.... "", ""Oh, well! We'll find it tomorrow. don't you think. Mr. Calculus? ""]"
+T_12,44,ROI_595.png,216715,487,445,0.028,"['haddock', 'tintin', 'calculus']","[0.961, 0.945, 0.874]",[0.882],1,['1'],{0: 'tintin'},['shh. ']
+T_12,44,ROI_596.png,215825,485,445,0.264,"['haddock', 'tintin']","[0.957, 0.906]","[0.865, 0.68]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['More like the squeak of a badly-oiled wheel.... ', 'It sounds like a bird.... ']"
+T_12,44,ROI_597.png,174542,394,443,0.137,"['tintin', 'haddock']","[0.967, 0.957]",[0.801],1,[],{0: 'NaN'},"[""Let's go and have a look. rest.... ""]"
+T_12,44,ROI_598.png,197135,445,443,0.0,"['tintin', 'haddock']","[0.953, 0.88]",[],0,[],{},[]
+T_12,45,ROI_600.png,190965,435,439,0.0,[],['NONE'],[],0,[],{},[]
+T_12,45,ROI_601.png,292604,662,442,0.239,"['haddock', 'haddock']","[0.934, 0.745]","[0.786, 0.616]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""To be precise : we're pumping.... "", ""But, Captain, you didn give us the order to Toke precise : pumping.... So, we're pumping. we 're ""]"
+T_12,45,ROI_602.png,94160,214,440,0.287,['haddock'],[0.973],[0.912],1,['1'],{0: 'haddock'},"['off to bed. nitwits!. have the chance to pump again, believe me. ']"
+T_12,45,ROI_603.png,195806,442,443,0.204,"['haddock', 'calculus']","[0.969, 0.819]",[0.776],1,['1'],{0: 'haddock'},['Something tells me Tintin this morning.... ']
+T_12,45,ROI_604.png,193591,437,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,45,ROI_605.png,198016,448,442,0.174,[],['NONE'],[0.749],1,[],{0: 'NaN'},"[""Another bottle of rum.... I'll leave it for the Captain. ""]"
+T_12,45,ROI_606.png,195800,440,445,0.141,[],['NONE'],[0.691],1,[],{0: 'NaN'},"[""well, well? What's this?. ""]"
+T_12,45,ROI_607.png,163836,369,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,45,ROI_608.png,226884,511,444,0.148,[],['NONE'],[0.662],1,[],{0: 'NaN'},['A casket!. my. goodness Red Rackham. treasure? ']
+T_12,45,ROI_609.png,116952,264,443,0.211,[],['NONE'],[0.957],1,[],{0: 'NaN'},"[""back up. quick. We'll see what the casket contains. ""]"
+T_12,45,ROI_610.png,242080,544,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,45,ROI_611.png,228730,514,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,46,ROI_613.png,194920,443,440,0.071,[],['NONE'],[0.941],1,[],{0: 'NaN'},['Great snakes. The casket!. ']
+T_12,46,ROI_614.png,180744,408,443,0.17,[],['NONE'],[0.909],1,[],{0: 'NaN'},"[""Goodness gracious. He's swallowed it. coming back into the attack ""]"
+T_12,46,ROI_615.png,209539,473,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,46,ROI_616.png,147735,335,441,0.0,[],['NONE'],[],0,[],{},[]
+T_12,46,ROI_617.png,243312,548,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,46,ROI_618.png,198024,444,446,0.144,[],['NONE'],[0.937],1,[],{0: 'NaN'},"[""He's going to come again. What can I do?. If only had a weapon.... ""]"
+T_12,46,ROI_619.png,139480,317,440,0.144,[],['NONE'],[0.948],1,[],{0: 'NaN'},"['This bottle, perhaps. ']"
+T_12,46,ROI_620.png,139102,314,443,0.265,[],['NONE'],[0.921],1,[],{0: 'NaN'},"[""quick : this old timber frame. Like that he can't sever my ""]"
+T_12,46,ROI_621.png,309970,695,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,46,ROI_622.png,178890,402,445,0.0,[],['NONE'],[],0,[],{},[]
+T_12,46,ROI_623.png,165239,373,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,46,ROI_624.png,241435,545,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,47,ROI_626.png,194040,440,441,0.0,[],['NONE'],[],0,[],{},[]
+T_12,47,ROI_627.png,155050,350,443,0.098,[],['NONE'],[0.927],1,[],{0: 'NaN'},['crikey! What a blow! ']
+T_12,47,ROI_628.png,235233,531,443,0.103,[],['NONE'],[0.954],1,[],{0: 'NaN'},['Thank heavens. my. diving. suit is intact.. ']
+T_12,47,ROI_629.png,163836,369,444,0.034,[],['NONE'],[0.872],1,[],{0: 'NaN'},['?']
+T_12,47,ROI_630.png,226884,511,444,0.053,[],['NONE'],[0.938],1,[],{0: 'NaN'},"[""My word! He's drunk. ""]"
+T_12,47,ROI_631.png,195806,442,443,0.23,[],['NONE'],[0.796],1,[],{0: 'NaN'},"[""It seems he's I better take advantage to try and recover the casket. ""]"
+T_12,47,ROI_632.png,98343,223,441,0.32,['haddock'],[0.972],[0.943],1,['1'],{0: 'haddock'},"[""two pulls on the cord! he's asking to be brought upon. ""]"
+T_12,47,ROI_633.png,153374,347,442,0.198,[],['NONE'],[0.924],1,[],{0: 'NaN'},"[""heave-hol. heave- you'll see. bringing us the treasure. ""]"
+T_12,47,ROI_634.png,102333,231,443,0.323,['haddock'],[0.964],[0.938],1,['1'],{0: 'haddock'},['thundering. typhoons! why does he have to flap about so much?. ']
+T_12,47,ROI_635.png,227395,511,445,0.016,[],['NONE'],[0.844],1,[],{0: 'NaN'},['?']
+T_12,47,ROI_636.png,142443,323,441,0.382,['haddock'],[0.971],[0.884],1,['1'],{0: 'haddock'},"[""A shark, thundering typhoons. He's caught a shark, this Hercules. but what does he want us to do with it?. ""]"
+T_12,47,ROI_637.png,171108,388,441,0.315,"['haddock', 'calculus']","[0.977, 0.897]","[0.833, 0.747]",2,[],"{0: 'NaN', 1: 'NaN'}","[""That's true!. down another rope, and we'll bring him up "", 'It would be best to ask him.. ']"
+T_12,47,ROI_638.png,91080,207,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,47,ROI_639.png,76560,174,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,47,ROI_640.png,89964,204,441,0.451,[],['NONE'],[0.906],1,[],{0: 'NaN'},"['and now, up we go. wonder what the Captain will say. ']"
+T_12,48,ROI_642.png,194480,440,442,0.315,"['haddock', 'tintin', 'calculus']","[0.932, 0.921, 0.913]","[0.932, 0.707]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['in aify case, the fins are said ', ""joke?. Just have the stomach the shark opened up. and you'll seek.... ""]"
+T_12,48,ROI_643.png,205088,464,442,0.19,"['haddock', 'tintin', 'snowy']","[0.947, 0.897, 0.837]",[0.664],1,['1'],{0: 'tintin'},"[""captain!. captain ). look what we found in the shark's stomach. ""]"
+T_12,48,ROI_644.png,184288,416,443,0.31,"['haddock', 'tintin']","[0.974, 0.923]",[0.953],1,['1'],{0: 'tintin'},"[""A casket!. Red Rackham's treasure. Red Rackham's treasure!. Here it is at last!. ""]"
+T_12,48,ROI_645.png,198458,449,442,0.08,"['haddock', 'tintin']","[0.971, 0.969]",[0.642],1,['1'],{0: 'tintin'},"['quick, ']"
+T_12,48,ROI_646.png,192712,436,442,0.145,"['haddock', 'tintin']","[0.949, 0.886]",[0.792],1,['1'],{0: 'haddock'},"[""hmm. not so easy!. It's all rusted up.... ""]"
+T_12,48,ROI_647.png,195363,441,443,0.2,"['haddock', 'tintin']","[0.975, 0.906]",[0.847],1,['1'],{0: 'tintin'},"[""It's no try this you'll break your blade. this jemmy instead.... ""]"
+T_12,48,ROI_648.png,205606,461,446,0.142,['haddock'],[0.966],[0.718],1,['1'],{0: 'haddock'},"['Good idea. Hold it fast, you two.... ']"
+T_12,48,ROI_649.png,164650,370,445,0.188,['haddock'],[0.966],[0.959],1,[],{0: 'NaN'},"[""go on. Go on, don't worry : we're holding iit. ""]"
+T_12,48,ROI_650.png,217116,489,444,0.05,"['haddock', 'tintin']","[0.966, 0.917]",[0.961],1,['1'],{0: 'haddock'},"[""That's it.!. ""]"
+T_12,48,ROI_651.png,204726,458,447,0.241,['haddock'],[0.958],[0.858],1,['1'],{0: 'haddock'},"[""Billions of billions blue bliss. tering barnacles in thundering typhoon!. It isn't the treasure. ""]"
+T_12,48,ROI_652.png,209096,472,443,0.15,"['haddock', 'tintin']","[0.947, 0.893]",[0.851],1,['1'],{0: 'haddock'},"[""Documents? That's all well and good.... but what am meant to do with your documents? ""]"
+T_12,48,ROI_653.png,175474,397,442,0.308,"['haddock', 'tintin']","[0.95, 0.921]","[0.926, 0.832]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Come, Captain, don't let's be discouraged!. We'll continue the search. "", ""What's the point?. ""]"
+T_12,49,ROI_655.png,194481,441,441,0.085,"['haddock', 'tintin']","[0.977, 0.858]",[0.911],1,[],{0: 'NaN'},"[""That's it.!. l've got ""]"
+T_12,49,ROI_656.png,173313,393,441,0.208,"['haddock', 'calculus', 'tintin']","[0.979, 0.924, 0.897]",[0.957],1,['1'],{0: 'calculus'},"[""These are old documents. undoubtedly. ' Old documents. ""]"
+T_12,49,ROI_657.png,110000,250,440,0.176,['haddock'],[0.957],[0.954],1,['1'],{0: 'haddock'},"[""He'll end up driving me mad, that fellow! ""]"
+T_12,49,ROI_658.png,96138,218,441,0.3,['haddock'],[0.982],[0.955],1,['1'],{0: 'haddock'},"['and you. thundering typhoons. what doing are you there, young. ']"
+T_12,49,ROI_659.png,180744,408,443,0.322,[],['NONE'],[0.958],1,[],{0: 'NaN'},"[""me? But you can see. I'm smelting in my colleague go down. don't fully how. I've observed carefully you do it and. ""]"
+T_12,49,ROI_660.png,208653,471,443,0.16,[],['NONE'],[0.629],1,[],{0: 'NaN'},['And the pump?. works all by itself. the pump. what!. ']
+T_12,49,ROI_661.png,193600,440,440,0.19,"['haddock', 't-t']","[0.944, 0.869]",[0.698],1,[],{0: 'NaN'},"[""I'll do the pumping, blundering idiot, mind will ""]"
+T_12,49,ROI_662.png,137640,310,444,0.0,['haddock'],[0.928],[],0,[],{},[]
+T_12,49,ROI_663.png,81770,185,442,0.274,['haddock'],[0.953],[0.912],1,['1'],{0: 'haddock'},"['typhoons, what may play from do see there, on the deck? ']"
+T_12,49,ROI_664.png,86828,196,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,49,ROI_665.png,110250,250,441,0.279,['haddock'],[0.953],[0.964],1,['1'],{0: 'haddock'},"[""the weighted boots. he's forgotten the weighted. boots. ""]"
+T_12,49,ROI_666.png,157265,355,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,49,ROI_667.png,185680,422,440,0.115,[],['NONE'],"[0.924, 0.767]",2,[],"{0: 'NaN', 1: 'NaN'}","[""and we're still pumping. "", 'Forever pumping. ']"
+T_12,49,ROI_668.png,118629,269,441,0.357,"['haddock', 'tintin']","[0.937, 0.919]",[0.927],1,['1'],{0: 'haddock'},"['you can stop pumping blistering iles. clearly. "" Fintin. can see that come up. ']"
+T_12,49,ROI_669.png,143000,325,440,0.312,"['haddock', 'tintin']","[0.966, 0.914]",[0.932],1,['1'],{0: 'tintin'},['nothing. still nothing been methodically through what remains. of the pooper. ']
+T_12,49,ROI_670.png,129506,293,442,0.297,"['haddock', 'tintin']","[0.936, 0.889]","[0.889, 0.878]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""it's just we're not tipping to find "", 'come, captain. you. ']"
+T_12,50,ROI_672.png,195806,443,442,0.143,"['tintin', 'calculus', 'haddock', 'snowy']","[0.978, 0.947, 0.922, 0.808]",[0.649],1,['1'],{0: 'calculus'},"[""Tell me, what's that cross over there?. ""]"
+T_12,50,ROI_673.png,158508,357,444,0.331,"['tintin', 'calculus', 'haddock']","[0.95, 0.947, 0.875]","[0.917, 0.859]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","[""No. I'm speaking of the cross'over there, on the "", 'a cross?. where do you see a cross?. ']"
+T_12,50,ROI_674.png,77792,176,442,0.286,['tintin'],[0.825],[0.898],1,[],{0: 'NaN'},"[""it's definitely a cross, isn't it?. ""]"
+T_12,50,ROI_675.png,147628,334,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,50,ROI_676.png,193584,436,444,0.321,"['haddock', 'tintin', 'calculus']","[0.953, 0.939, 0.925]","[0.914, 0.89, 0.882]",3,"['1', '2', '3']","{0: 'calculus', 1: 'tintin', 2: 'haddock'}","['you think so?. ', ""by joy, Captain, Mr. Calculus is right! there's a cross over there, on the highest point of the island!. "", 'cross? ']"
+T_12,50,ROI_677.png,198016,448,442,0.297,"['calculus', 'tintin', 'haddock']","[0.954, 0.933, 0.896]","[0.89, 0.679]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['really?. I could have sworn it was a cross. ', 'Thundering typhoons, It really is a cross. ']"
+T_12,50,ROI_678.png,196692,444,443,0.19,"['haddock', 'tintin', 'calculus']","[0.925, 0.859, 0.779]","[0.93, 0.826]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['?', ""hooray! hip.l. hip- hip. hooray. I've spot. ""]"
+T_12,50,ROI_679.png,116424,264,441,0.286,"['tintin', 'calculus']","[0.91, 0.865]",[0.941],1,['1'],{0: 'tintin'},"[""Mr. Calculus,ahl. Mr. Calculus, you're our saviour! ""]"
+T_12,50,ROI_680.png,229840,520,442,0.148,"['haddock', 'tintin', 'snowy', 'calculus']","[0.941, 0.939, 0.836, 0.711]",[0.628],1,['1'],{0: 'tintin'},['Let me waltz & With you. I ) The whole dd night ']
+T_12,50,ROI_681.png,240300,540,445,0.146,"['tintin', 'calculus', 'haddock']","[0.937, 0.914, 0.869]",[0.924],1,[],{0: 'NaN'},"[""quick, Captain! picks. shovels. we're going on the island. ""]"
+T_12,50,ROI_682.png,208260,468,445,0.463,"['haddock', 'tintin']","[0.924, 0.895]","[0.808, 0.765]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","[""Thundering typhoons, you're right. "", 'Yes. Captain, it\'s there, at the base of that cross, that the treasure lies. wording of the parchments : "" then shines forth the Eagle\'s cross. There it is, the eagle\'s ']"
+T_12,50,ROI_683.png,119610,270,443,0.359,['haddock'],[0.97],[0.923],1,['1'],{0: 'haddock'},['hurrah. thompson!. thomson. quick forward. To the dinghy! ']
+T_12,50,ROI_684.png,260770,586,445,0.121,"['calculus', 'tintin', 'haddock']","[0.856, 0.783, 0.727]",[0.654],1,[],{0: 'NaN'},"['Ah.l Mr. Calculus, how can we thank you enough?. ']"
+T_12,51,ROI_686.png,194038,439,442,0.295,[],['NONE'],"[0.768, 0.689]",2,[],"{0: 'NaN', 1: 'NaN'}","[""No, I'm saying that it's thanks to you that we'll discover the treasure.... "", ""pleasure? well alright, but ' I'm quite ""]"
+T_12,51,ROI_687.png,255200,580,440,0.124,"['tintin', 'haddock', 'haddock']","[0.901, 0.816, 0.756]","[0.904, 0.825]",2,['1'],"{0: 'haddock', 1: 'NaN'}","[""Of course, of course, it's cross. "", 'no?. ']"
+T_12,51,ROI_688.png,129800,295,440,0.202,"['haddock', 'calculus']","[0.911, 0.753]","[0.912, 0.682]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['greetings. brother. ', 'chimpanzee. waffle-iron. ']"
+T_12,51,ROI_689.png,110189,251,439,0.09,[],['NONE'],[0.822],1,[],{0: 'NaN'},['Hurrah! Here it is! ']
+T_12,51,ROI_690.png,274560,624,440,0.178,"['haddock', 'calculus']","[0.899, 0.707]","[0.943, 0.674]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['there. What did tell. young. cross, yes or no?. ', ""The Eagle's cross. gentlemen! ""]"
+T_12,51,ROI_691.png,194034,438,443,0.136,"['calculus', 'tintin', 'haddock']","[0.956, 0.931, 0.813]",[0.776],1,['1'],{0: 'haddock'},"['Hello, hello?. What do all these notches mean?. ']"
+T_12,51,ROI_692.png,148720,338,440,0.487,"['tintin', 'haddock']","[0.95, 0.913]",[0.901],1,['1'],{0: 'tintin'},"[""It's a calendar!. ancestor did like Robinson Crusoe and counted the days... Look, there's a small groove for every day of the week, and bigger. one for Sunday. ""]"
+T_12,51,ROI_693.png,128040,291,440,0.328,['haddock'],[0.962],[0.919],1,['1'],{0: 'haddock'},"[""to work. gentlemen, to work. I'll give bottle of rum to whoever finds the treasure. ""]"
+T_12,51,ROI_694.png,302526,686,441,0.085,"['haddock', 'haddock', 'tintin']","[0.918, 0.839, 0.801]",[0.795],1,[],{0: 'NaN'},"[""you're... you're looking for something?. ""]"
+T_12,51,ROI_695.png,280720,638,440,0.0,['haddock'],[0.846],[],0,[],{},[]
+T_12,51,ROI_696.png,111132,252,441,0.063,['snowy'],[0.839],[0.738],1,['1'],{0: 'snowy'},['!']
+T_12,51,ROI_697.png,189161,427,443,0.274,"['haddock', 'tintin', 'calculus']","[0.956, 0.944, 0.87]","[0.766, 0.701]",2,"['1', '2']","{0: 'tintin', 1: 'calculus'}","[""Put away your pendulum a moment, bliss : tering And give us hand instead. ' "", 'still to the west, yes. ']"
+T_12,52,ROI_699.png,92352,208,444,0.242,['calculus'],[0.954],[0.918],1,['1'],{0: 'calculus'},['what can they searching be so hard for like that?. ']
+T_12,52,ROI_700.png,299266,671,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,52,ROI_701.png,194480,440,442,0.104,"['tintin', 'haddock']","[0.904, 0.856]",[0.746],1,['1'],{0: 'tintin'},"[""And then, no, it's impossible! ""]"
+T_12,52,ROI_702.png,141882,321,442,0.265,"['haddock', 'tintin']","[0.966, 0.9]","[0.931, 0.893]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['www-what?. why?. ', 'That the treasure is buried here. ']"
+T_12,52,ROI_703.png,244868,554,442,0.522,"['haddock', 'tintin']","[0.968, 0.918]","[0.866, 0.82]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Think about it.. Supposing Sir Francis left the UNICORN carrying the treasure. why would he have buried it here, at the foot of this cross?. What would other halls. do in his place?. Theyday you leave island, you'd take the treasure with you, without any doubt.... "", 'but then.. ']"
+T_12,52,ROI_704.png,197574,447,442,0.399,"['haddock', 'tintin']","[0.957, 0.924]","[0.908, 0.735]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['And all that because of that creature Calculus, bliste- ring ', ""then?. probably still out there, at the bottom And we've followed false trail. ""]"
+T_12,52,ROI_705.png,163024,368,443,0.385,"['haddock', 'calculus']","[0.868, 0.855]","[0.935, 0.884]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","[""But yes, it's what I've been saying all along : moreto the west! "", ""Yes, it's your fault, you certified illiterate. ""]"
+T_12,52,ROI_706.png,134390,302,445,0.247,"['haddock', 'calculus']","[0.887, 0.857]",[0.939],1,['1'],{0: 'haddock'},"[""To the westly. I'll send you west!. ""]"
+T_12,52,ROI_707.png,171201,383,447,0.0,"['haddock', 'snowy']","[0.933, 0.71]",[],0,[],{},[]
+T_12,52,ROI_708.png,116509,263,443,0.284,"['haddock', 'calculus']","[0.968, 0.838]",[0.953],1,['1'],{0: 'haddock'},"[""There, your infernal pendulum has gone'west, you decathlete. ""]"
+T_12,52,ROI_709.png,194477,439,443,0.053,"['snowy', 'haddock']","[0.802, 0.771]",[0.914],1,['1'],{0: 'snowy'},['wooah! ']
+T_12,52,ROI_710.png,134976,304,444,0.243,"['haddock', 'snowy']","[0.943, 0.895]",[0.9],1,['1'],{0: 'haddock'},"[""there Now it's trodden in the ground, that ""]"
+T_12,52,ROI_711.png,95030,215,442,0.322,['haddock'],[0.976],[0.952],1,['1'],{0: 'haddock'},"[""there ; let's talk no more about it. ' come on, now. we're heading. back. ""]"
+T_12,52,ROI_712.png,155493,351,443,0.05,"['haddock', 'tintin']","[0.887, 0.773]",[0.832],1,['1'],{0: 'tintin'},"[""He's in a fury. ""]"
+T_12,53,ROI_714.png,44719,227,197,0.0,[],['NONE'],[],0,[],{},[]
+T_12,53,ROI_715.png,93492,212,441,0.0,['snowy'],[0.853],[],0,[],{},[]
+T_12,53,ROI_716.png,186984,424,441,0.127,"['tintin', 'snowy']","[0.922, 0.701]",[0.882],1,['1'],{0: 'tintin'},"[""Oh! That's kind, what a good little. doggie! ""]"
+T_12,53,ROI_717.png,193158,438,441,0.093,"['tintin', 'calculus', 'haddock', 'snowy']","[0.945, 0.941, 0.93, 0.76]",[0.63],1,['1'],{0: 'tintin'},"['down now, snowy. enough games. ']"
+T_12,53,ROI_718.png,52210,227,230,0.0,['snowy'],[0.782],[],0,[],{},[]
+T_12,53,ROI_719.png,193160,439,440,0.166,"['tintin', 'calculus', 'snowy']","[0.974, 0.916, 0.906]",[0.873],1,['1'],{0: 'calculus'},['Does the Captain have worries?. very concerned. ']
+T_12,53,ROI_720.png,137280,312,440,0.279,"['tintin', 'snowy', 'haddock']","[0.958, 0.866, 0.852]","[0.864, 0.86]",2,['1'],"{0: 'snowy', 1: 'NaN'}","['And the Siamese twins, where are they?. ', 'hang on, thought they. were following us. ']"
+T_12,53,ROI_721.png,73480,167,440,0.302,['haddock'],[0.969],[0.927],1,['1'],{0: 'haddock'},['ahoy! thompson. thomson! ']
+T_12,53,ROI_722.png,169728,384,442,0.205,"['haddock', 'calculus', 'calculus']","[0.969, 0.908, 0.739]",[0.933],1,['1'],{0: 'calculus'},"['no, no, don. worry. The little dog brought it back to me.. ']"
+T_12,53,ROI_723.png,222326,503,442,0.175,"['calculus', 'haddock', 'tintin', 'snowy']","[0.974, 0.973, 0.945, 0.887]","[0.882, 0.731]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['captain! ', ""Billions of blue. blistering barnacles. This time, I've had enough!. ""]"
+T_12,53,ROI_724.png,163240,371,440,0.162,"['haddock', 'tintin', 'snowy']","[0.965, 0.888, 0.823]",[0.861],1,['1'],{0: 'haddock'},['Leave me. something. my on ']
+T_12,53,ROI_725.png,197127,447,441,0.0,['haddock'],[0.907],[],0,[],{},[]
+T_12,53,ROI_726.png,195794,439,446,0.0,['haddock'],[0.865],[],0,[],{},[]
+T_12,53,ROI_727.png,119880,270,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,53,ROI_728.png,128316,289,444,0.193,['haddock'],[0.879],[0.947],1,['1'],{0: 'haddock'},"[""Thousands of thundering typhoons! That's the lot. yes? ""]"
+T_12,53,ROI_729.png,137330,310,443,0.0,['haddock'],[0.879],[],0,[],{},[]
+T_12,54,ROI_731.png,239564,542,442,0.216,"['haddock', 'tintin']","[0.955, 0.95]","[0.85, 0.678]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","[""good. That's fine. "", 'Now. Captain, you have a rest. while go and look for our two detectives. ']"
+T_12,54,ROI_732.png,150516,339,444,0.181,['tintin'],[0.953],[0.917],1,[],{0: 'NaN'},"[""wonder what could happened to them. the'silly billies, ""]"
+T_12,54,ROI_733.png,197580,445,444,0.0,[],['NONE'],[],0,[],{},[]
+T_12,54,ROI_734.png,157176,354,444,0.148,"['haddock', 'calculus']","[0.948, 0.756]","[0.934, 0.851]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","[""He's gone west!. "", 'Where has Tintin goner. ']"
+T_12,54,ROI_735.png,147852,333,444,0.142,['tintin'],[0.849],[0.915],1,['1'],{0: 'tintin'},['I think I can hear them.... ']
+T_12,54,ROI_736.png,286272,639,448,0.225,"['tintin', 'snowy']","[0.949, 0.835]","[0.935, 0.885]",2,"['1', '2']","{0: 'tintin', 1: 'snowy'}","['Well, what are you still. doing here?. ', 'us?. filling in the hole. It\'s safer. "" wedon. anyone falling in.... ']"
+T_12,54,ROI_737.png,198009,449,441,0.339,"['haddock', 'tintin']","[0.965, 0.928]",[0.889],1,['1'],{0: 'tintin'},"[""for few days more. Captain. look. today. if by the 15th we've found nothing. we'll abandon the search and return. home. ""]"
+T_12,54,ROI_738.png,178126,403,442,0.398,"['haddock', 'tintin']","[0.952, 0.929]",[0.882],1,[],{0: 'NaN'},"[""Anyway, you won't regret it. We can use the time to salvage a few of the surviving pieces including the figurehead. ""]"
+T_12,54,ROI_739.png,209440,476,440,0.201,[],['NONE'],"[0.925, 0.922]",2,[],"{0: 'NaN', 1: 'NaN'}","[""Here's to the 15th and an end to it. I've had more than enough of this activity. "", 'off me go back to ylepping ']"
+T_12,54,ROI_740.png,93916,212,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,54,ROI_741.png,96356,218,442,0.38,['haddock'],[0.978],[0.929],1,['1'],{0: 'haddock'},"[""hang on, iit, about we haven't seen Calculus today. is he ill? ""]"
+T_12,54,ROI_742.png,96138,218,441,0.0,[],['NONE'],[],0,[],{},[]
+T_12,54,ROI_743.png,93492,212,441,0.288,['t-t'],[0.953],[0.912],1,[],{0: 'NaN'},['1 0 thursday ']
+T_12,54,ROI_744.png,96356,218,442,0.525,['haddock'],[0.967],"[0.885, 0.878]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['1 1 friday. ', ""and calculus?. It's now four days since he last left ""]"
+T_12,54,ROI_745.png,95904,216,444,0.285,[],['NONE'],[0.914],1,[],{0: 'NaN'},['1 2 saturday ']
+T_12,55,ROI_747.png,95030,215,442,0.407,"['haddock', 'tintin']","[0.971, 0.869]","[0.947, 0.848]",2,['1'],"{0: 'tintin', 1: 'NaN'}","['still nothing. captain. ', '1 3 sunday ']"
+T_12,55,ROI_748.png,94815,215,441,0.285,[],['NONE'],[0.919],1,[],{0: 'NaN'},['1 4 monday ']
+T_12,55,ROI_749.png,94374,214,441,0.284,['calculus'],[0.88],[0.921],1,[],{0: 'NaN'},['15 tuesday ']
+T_12,55,ROI_750.png,93280,212,440,0.066,['calculus'],[0.939],[0.86],1,['1'],{0: 'calculus'},['?']
+T_12,55,ROI_751.png,97240,220,442,0.231,['calculus'],[0.91],[0.969],1,['1'],{0: 'calculus'},"[""but. what's happening?. It seems as if- ""]"
+T_12,55,ROI_752.png,92820,210,442,0.273,['calculus'],[0.796],[0.911],1,['1'],{0: 'calculus'},"[""Oh dear, I'm right. must the captain. and warn. ""]"
+T_12,55,ROI_753.png,275808,624,442,0.0,[],['NONE'],[],0,[],{},[]
+T_12,55,ROI_754.png,131859,299,441,0.378,"['haddock', 'tintin']","[0.948, 0.933]",[0.937],1,['1'],{0: 'tintin'},"[""Look. Captain, we must make the best of a bad deal.... It's clearly we must be sensible. ""]"
+T_12,55,ROI_755.png,177242,401,442,0.316,"['haddock', 'tintin', 'snowy']","[0.949, 0.849, 0.791]","[0.9, 0.812]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['Well, what do you want it to do?. dance a jigs. ', 'captain!. the ship. is sailing!. ']"
+T_12,55,ROI_756.png,140175,315,445,0.426,"['haddock', 'calculus']","[0.96, 0.753]",[0.927],1,['1'],{0: 'calculus'},"[""ohl understand!. you've fire alike in a that the wasn' where you were looking, and you've set westernly course.... understand.... ""]"
+T_12,55,ROI_757.png,139416,314,444,0.134,"['haddock', 'calculus']","[0.961, 0.72]",[0.909],1,['1'],{0: 'haddock'},"[""Let's go, forward. come with me ""]"
+T_12,55,ROI_758.png,311559,697,447,0.122,['haddock'],[0.912],[0.948],1,[],{0: 'NaN'},"['And that, eh?. And that?. doubt the figurehead of the TITANIC!... ']"
+T_12,55,ROI_759.png,194481,441,441,0.296,"['calculus', 'haddock']","[0.824, 0.753]",[0.831],1,['1'],{0: 'calculus'},"[""My word. it's a unicorn!. ' But then my pendulum, which was indicating west?. it's quite extraordinary.. ""]"
+T_12,55,ROI_760.png,400062,897,446,0.221,[],['NONE'],"[0.933, 0.921, 0.916, 0.91, 0.909, 0.89, 0.874]",7,[],"{0: 'NaN', 1: 'NaN', 2: 'NaN', 3: 'NaN', 4: 'NaN', 5: 'NaN', 6: 'NaN'}","['17 thursday ', '20 sunday ', '2 2 tuesday ', '21 monday ', '16 wednesday ', '19 saturday ', '18 ']"
+T_12,56,ROI_762.png,90640,206,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,56,ROI_763.png,108486,246,441,0.443,[],['NONE'],[0.924],1,[],{0: 'NaN'},"['hello! "" Daily reporter. yes. what?. She\'s docked?. are you certain?. good. That\'s alright. thanks. ']"
+T_12,56,ROI_764.png,126280,287,440,0.433,[],['NONE'],[0.904],1,[],{0: 'NaN'},"['Hello, is that Rogers?. Go down to the docks immediately.... THE SIRIUS has just arrived. want a good story on her trip!. ']"
+T_12,56,ROI_765.png,251181,567,443,0.29,['haddock'],[0.905],"[0.827, 0.651]",2,['1'],"{0: 'haddock', 1: 'NaN'}","['Good. Right-hol. ', ""There, Captain, I've come to say goodbye.... I'll have the submarine collected tomorrow morning.... ""]"
+T_12,56,ROI_766.png,180369,409,441,0.321,"['haddock', 'calculus']","[0.963, 0.835]","[0.905, 0.737]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['And now, Captain, let me thank you. you were exceptionally kind and hospitale. ', ""Don't mention it. ""]"
+T_12,56,ROI_767.png,180810,410,441,0.309,"['haddock', 'calculus']","[0.953, 0.886]","[0.922, 0.87]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['Yes, yes, Captain. thanks toyou, I shall nurture unforgettable memories of my stay on board. ', 'me too!. ']"
+T_12,56,ROI_768.png,221442,501,442,0.0,"['haddock', 'calculus']","[0.965, 0.932]",[],0,[],{},[]
+T_12,56,ROI_769.png,164280,370,444,0.14,['haddock'],[0.95],[0.908],1,[],{0: 'NaN'},['io Excause me. missed step.... ']
+T_12,56,ROI_770.png,125652,283,444,0.543,['haddock'],[0.971],"[0.923, 0.863]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['"" Daily Reporter ""?. wasn\'t that the paper which announced our departure?. ', 'Allow me to introduce myself : Bob Rogers of the "" Daily reporter. ']"
+T_12,56,ROI_771.png,129495,291,445,0.547,['haddock'],[0.963],"[0.929, 0.866]",2,"['1', '2']","{0: 'haddock', 1: 'haddock'}","['certainly.... ', 'precisely. intend to publish. sensational article all about your expedition. can I ask you some ques. stions?. ']"
+T_12,56,ROI_772.png,165466,371,446,0.441,"['haddock', 'calculus']","[0.967, 0.951]","[0.955, 0.871]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","[""But I'm rather tied up at the moment. Here's my secretary. mr. who would be happy to answer all your quietions.... "", 'delighted.... ']"
+T_12,56,ROI_773.png,197578,443,446,0.115,['haddock'],[0.959],[0.65],1,[],{0: 'NaN'},"['So, Mr. Calculus, what about the treasure?. ']"
+T_12,56,ROI_774.png,128913,291,443,0.347,['calculus'],[0.854],"[0.936, 0.911]",2,"['1', '2']","{0: 'calculus', 1: 'calculus'}","[""Thank you, I'll carry myself. "", ""bet you've egot it there, in that suitcase.... ""]"
+T_12,56,ROI_775.png,122598,278,441,0.378,['calculus'],[0.952],"[0.942, 0.926]",2,['1'],"{0: 'calculus', 1: 'NaN'}","['no? really?. ', 'I can understand that. And tell me. what exactly did this treasure consist of?. ']"
+T_12,56,ROI_776.png,133320,303,440,0.556,['calculus'],[0.902],"[0.933, 0.911]",2,['1'],"{0: 'calculus', 1: 'NaN'}","[""That's incredible. what you're telling mel "", ""No, I'm asking you what made up the treasure you found. gold?. diamonds?. ""]"
+T_12,57,ROI_778.png,124803,283,441,0.425,['calculus'],[0.876],"[0.944, 0.799]",2,[],"{0: 'NaN', 1: 'NaN'}","[""of course. but, believe me, advice : don't tell anyone about it. "", ""Look, Mr. Calculus, don't see the connection.... ""]"
+T_12,57,ROI_779.png,265220,596,445,0.0,"['calculus', 'haddock']","[0.885, 0.77]",[],0,[],{},[]
+T_12,57,ROI_780.png,194910,438,445,0.406,"['t-t', 'haddock', 't-t']","[0.978, 0.972, 0.959]","[0.898, 0.833]",2,"['1', '2']","{0: 't-t', 1: 'haddock'}","[""Well, Captain, our mission is over. Max Bird clearly knew we were aboard, and didn't dare against you. "", ""no doubt. so, you're off home. now? ""]"
+T_12,57,ROI_781.png,171884,388,443,0.482,"['t-t', 't-t', 'haddock']","[0.986, 0.978, 0.887]","[0.896, 0.736]",2,"['1', '2']","{0: 't-t', 1: 'haddock'}","[""No, we're quite tired. What with the journey.... and especially all that pumping.... so, we're going to the staywright. for a few days to stay. farmer friend. "", 'Well, have a good holiday! ']"
+T_12,57,ROI_782.png,128622,291,442,0.379,"['t-t', 't-t']","[0.915, 0.914]","[0.899, 0.867]",2,"['1', '2']","{0: 't-t', 1: 't-t'}","['No more pumping, old "" country. \'simple tasks and pleasures for us now! ', 'To be precise : pum- ping is finished. ']"
+T_12,57,ROI_783.png,285048,642,444,0.0,['haddock'],[0.811],[],0,[],{},[]
+T_12,57,ROI_784.png,77000,175,440,0.0,[],['NONE'],[],0,[],{},[]
+T_12,57,ROI_785.png,145971,331,441,0.281,"['tintin', 'snowy']","[0.954, 0.728]","[0.885, 0.726]",2,"['1', '2']","{0: 'snowy', 1: 'snowy'}","['Hello, Mr. Calculus. what a pleasant surprise. ', 'Good morning, dear friend. ']"
+T_12,57,ROI_786.png,159642,362,441,0.419,"['tintin', 'calculus']","[0.932, 0.906]","[0.922, 0.86]",2,['2'],"{0: 'NaN', 1: 'tintin'}","['Not too bad, thank you. and how are youryour. bring. you back the documents. The documents?. which documents?. ', 'The documents?. which documents?. ']"
+T_12,57,ROI_787.png,197578,446,443,0.484,"['tintin', 'calculus']","[0.932, 0.804]",[0.803],1,[],{0: 'NaN'},"[""No, the documents that were in the casket. you remember?. Well, I've tried to restore them by sticking the fragments onto sheets. of paper. some are illegible. easy to decipher. ""]"
+T_12,57,ROI_788.png,245088,552,444,0.244,"['calculus', 'tintin']","[0.919, 0.902]","[0.952, 0.827]",2,"['1', '2']","{0: 'tintin', 1: 'calculus'}","['Great snakes! think so too! ', 'believe, moreover, that this document will be particular interest to the ']"
+T_12,57,ROI_789.png,346655,779,445,0.063,['tintin'],[0.967],[0.652],1,['1'],{0: 'tintin'},['Quick! We must see the captain! ']
+T_12,58,ROI_791.png,195804,441,444,0.418,"['tintin', 'haddock']","[0.954, 0.916]","[0.953, 0.879]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['read on the rest, ', 'Charles the Second, by ye Grace of God king of England and Scotland. desiring to reward the igallant Our trusty and beloved Knight, Francis Blistering barnacles, ']"
+T_12,58,ROI_792.png,268015,605,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,58,ROI_793.png,119070,270,441,0.4,['haddock'],[0.934],[0.934],1,['1'],{0: 'haddock'},"['Thundering typhoons, I\'m not dreaming!. That\'s Marlinspike hall. marlinspike. "" That\'s ancestral homeil. extraordinary. \' ']"
+T_12,58,ROI_794.png,211788,477,444,0.0,"['tintin', 'snowy', 'haddock']","[0.947, 0.805, 0.744]",[],0,[],{},[]
+T_12,58,ROI_795.png,242109,549,441,0.051,"['haddock', 'tintin', 'snowy']","[0.962, 0.911, 0.869]",[0.723],1,['1'],{0: 'haddock'},['there. a read. ']
+T_12,58,ROI_796.png,130390,295,442,0.111,"['haddock', 'tintin']","[0.929, 0.916]",[0.955],1,['1'],{0: 'haddock'},['What about that?. What do you think? ']
+T_12,58,ROI_797.png,215488,481,448,0.0,[],['NONE'],[],0,[],{},[]
+T_12,58,ROI_798.png,197135,443,445,0.341,"['haddock', 'tintin', 'calculus']","[0.961, 0.954, 0.889]","[0.959, 0.789]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","['buy. it back?. And with what?. ', ""what do Well, Captain. it's dead simple! Your ancestral home is up for sale?. you must buy it back! ""]"
+T_12,58,ROI_799.png,178000,400,445,0.374,"['haddock', 'tintin']","[0.962, 0.932]","[0.925, 0.756]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['alas. Oh! If only we had discovered that stupid treasure, the question would be resol- ved.... ', ""That's true. you need money. ""]"
+T_12,58,ROI_800.png,122988,277,444,0.253,"['tintin', 'calculus']","[0.912, 0.816]","[0.912, 0.902]",2,"['1', '2']","{0: 'tintin', 1: 'calculus'}","['certainly. ', 'could I have a glance too?. ']"
+T_12,58,ROI_801.png,85248,192,444,0.037,[],['NONE'],[0.963],1,[],{0: 'NaN'},['!']
+T_12,58,ROI_802.png,205109,463,443,0.197,"['haddock', 'tintin', 'calculus', 'snowy']","[0.944, 0.9, 0.895, 0.769]","[0.942, 0.768]",2,[],"{0: 'NaN', 1: 'NaN'}","['oh yes? ', 'Captain, Marlinspike Hall is on the market, We must buy it ) ']"
+T_12,58,ROI_803.png,168844,382,442,0.359,"['haddock', 'calculus']","[0.924, 0.897]","[0.924, 0.903]",2,"['1', '2']","{0: 'haddock', 1: 'calculus'}","[""buy it back?. simple, eh?. and the money?. spot the money. ' "", 'ah. yes, the money!. No problem!.... ']"
+T_12,59,ROI_805.png,177723,403,441,0.237,"['haddock', 'tintin', 'calculus']","[0.971, 0.93, 0.868]",[0.94],1,['1'],{0: 'haddock'},"['young. spot. money?. well, good for. your. myself have none. ']"
+T_12,59,ROI_806.png,186946,422,443,0.423,"['haddock', 'calculus']","[0.961, 0.904]",[0.858],1,['1'],{0: 'calculus'},"[""exactly. ' The government has paid me a large. for the patent for my midget submarine. It's thanks to you that was able to put through its paces and refine it. It's my turn now to your- Come, let's go and buy. your stately home. ""]"
+T_12,59,ROI_807.png,106763,241,443,0.0,[],['NONE'],[],0,[],{},[]
+T_12,59,ROI_808.png,110307,249,443,0.0,['haddock'],[0.829],[],0,[],{},[]
+T_12,59,ROI_809.png,601208,1348,446,0.0,[],['NONE'],[],0,[],{},[]
+T_12,59,ROI_810.png,155493,351,443,0.312,"['tintin', 'haddock', 'snowy']","[0.828, 0.821, 0.763]",[0.946],1,['1'],{0: 'tintin'},"[""All's well that ends well. You haven't found the treasure, but you've reclaimed your ancestral home. ""]"
+T_12,59,ROI_811.png,180630,405,446,0.177,"['haddock', 'snowy', 'tintin']","[0.917, 0.9, 0.875]","[0.878, 0.68]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""Wait, you've seen nothing yet. "", ""it's magnificent! ""]"
+T_12,59,ROI_812.png,253205,569,445,0.116,"['haddock', 'tintin']","[0.881, 0.828]","[0.898, 0.882]",2,['2'],"{0: 'NaN', 1: 'haddock'}","['This is the room from which telephoned you. ', 'splendid. ']"
+T_12,59,ROI_813.png,196692,444,443,0.04,"['haddock', 'tintin', 'snowy']","[0.956, 0.928, 0.9]",[0.887],1,['1'],{0: 'tintin'},['shhh. ']
+T_12,59,ROI_814.png,163760,368,445,0.199,"['haddock', 'tintin']","[0.966, 0.775]","[0.945, 0.911]",2,['1'],"{0: 'tintin', 1: 'NaN'}","[""no.... nothing.... thought heard footsteps. ' "", 'really? ']"
+T_12,59,ROI_815.png,229690,515,446,0.415,"['haddock', 'tintin']","[0.973, 0.914]","[0.778, 0.717]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Come, I'll take you on a tour.... "", ""It really is marvellous. this house. My ancestor had pretty good taste. what?. And the vaulted crypt and cellars you were telling meabout? where's that then?. ""]"
+T_12,60,ROI_817.png,147186,333,442,0.0,['haddock'],[0.947],[],0,[],{},[]
+T_12,60,ROI_818.png,242216,548,442,0.127,"['tintin', 'snowy']","[0.874, 0.873]","[0.898, 0.738]",2,"['1', '2']","{0: 'snowy', 1: 'tintin'}","['thundering typhoons. ', 'therel ']"
+T_12,60,ROI_819.png,196692,443,444,0.242,"['haddock', 'tintin']","[0.976, 0.931]","[0.856, 0.637]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Why yes, it served as a storeroom for the Bird brothers' antique business.... "", 'What a lot of junk, a-brac. ']"
+T_12,60,ROI_820.png,231246,522,443,0.182,"['haddock', 'tintin']","[0.929, 0.91]",[0.952],1,['1'],{0: 'tintin'},['look. evangelist.. We must be in the old chapel.... ']
+T_12,60,ROI_821.png,171938,389,442,0.125,"['haddock', 'tintin']","[0.95, 0.774]","[0.821, 0.672]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['extra- ordinary! ', 'Well, what do think of it?.... ']"
+T_12,60,ROI_822.png,183430,415,442,0.13,"['haddock', 'snowy', 'tintin']","[0.937, 0.897, 0.876]",[0.786],1,['1'],{0: 'tintin'},['shhel. heard noise ']
+T_12,60,ROI_823.png,156100,350,446,0.269,"['haddock', 'tintin']","[0.974, 0.862]","[0.946, 0.912]",2,['2'],"{0: 'NaN', 1: 'haddock'}","[""nothing more. the footsteps have stopped.... It's odd. wonder pf. "", 'what?. ']"
+T_12,60,ROI_824.png,113408,256,443,0.189,"['tintin', 'haddock']","[0.936, 0.935]",[0.962],1,['1'],{0: 'haddock'},"[""Well, what's the matter?. What is it?. ""]"
+T_12,60,ROI_825.png,144092,326,442,0.054,['snowy'],[0.782],[0.807],1,['1'],{0: 'snowy'},['huragh. ']
+T_12,60,ROI_826.png,165880,377,440,0.236,"['tintin', 'haddock']","[0.895, 0.881]",[0.974],1,['1'],{0: 'tintin'},"[""The Eagle's cross, and then hines forth the Eagle's cross. There it is, the Eagle's cross. ""]"
+T_12,60,ROI_827.png,196249,443,443,0.231,"['haddock', 'tintin']","[0.95, 0.91]","[0.927, 0.878]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","['There, in front of. your. ', ""The Eagle's cross?. can see a cross, but where's the Eagle?. ""]"
+T_12,60,ROI_828.png,175428,396,443,0.472,"['haddock', 'tintin']","[0.952, 0.874]",[0.93],1,['1'],{0: 'tintin'},"['But yes, there! St. John the Evangelist! known as the Eagle of Patmos, because he wrote his REVELATION there... St. John the Evangelist who is traditionally depicted with an eagle as his attribute.... ']"
+T_12,60,ROI_829.png,216184,488,443,0.159,"['haddock', 'tintin']","[0.937, 0.929]","[0.869, 0.853]",2,"['1', '2']","{0: 'tintin', 1: 'tintin'}","[""and there, an eagle, you're right. "", 'a globe. ']"
+T_12,61,ROI_831.png,178234,406,439,0.294,"['haddock', 'tintin']","[0.97, 0.844]",[0.957],1,['1'],{0: 'tintin'},"[""And there. exactly at, the spot indicated by the parchment's, is the island we've adjust returned from. Great snakes. The island pushes in!. ""]"
+T_12,61,ROI_832.png,209950,475,442,0.023,"['tintin', 'haddock', 'snowy']","[0.929, 0.874, 0.743]",[0.95],1,['1'],{0: 'tintin'},['?']
+T_12,61,ROI_833.png,194040,441,440,0.054,"['haddock', 'tintin']","[0.914, 0.875]","[0.914, 0.872]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['?', 'UNKNOWN']"
+T_12,61,ROI_834.png,150822,342,441,0.236,['haddock'],[0.939],[0.948],1,['1'],{0: 'haddock'},"[""The treasurel. treasure! 10. blistering treasures. red Rackham's barnacles. ""]"
+T_12,61,ROI_835.png,183845,415,443,0.33,"['haddock', 'tintin']","[0.972, 0.901]",[0.952],1,['1'],{0: 'haddock'},"[""We've found it!. We've finally found Red Rackham's treasure. look. ""]"
+T_12,61,ROI_836.png,253205,569,445,0.397,"['haddock', 'tintin']","[0.964, 0.913]",[0.775],1,[],{0: 'NaN'},"[""it's fantastic! So Sir Francis Haddock really did make off with the treasure when he slipped away from the UNICORN.... And to think that we searched for it there. at the other end of the world, when all the time it was to be found here, under nurses. ""]"
+T_12,61,ROI_837.png,170435,383,445,0.335,"['haddock', 'tintin']","[0.971, 0.91]",[0.945],1,['1'],{0: 'haddock'},"['no, just look at that, thundering typhoons, diamonds. emeralds. what-dye. call-them!. beauties. ']"
+T_12,61,ROI_838.png,139416,314,444,0.152,"['haddock', 'snowy', 'tintin']","[0.956, 0.935, 0.913]","[0.885, 0.874]",2,"['1', '2']","{0: 'haddock', 1: 'tintin'}","['yes. ', 'shh. Did you hear?. ']"
+T_12,61,ROI_839.png,131275,295,445,0.305,"['haddock', 'tintin']","[0.956, 0.928]",[0.941],1,['1'],{0: 'tintin'},['listen. of footsteps! Someone is coming down to the crypt. ']
+T_12,61,ROI_840.png,141510,318,445,0.372,"['haddock', 'tintin']","[0.965, 0.925]","[0.934, 0.913]",2,"['1', '2']","{0: 'tintin', 1: 'haddock'}","[""Quick, take a weapon and let's each hide behind a column. "", ""right. let's go. ""]"
+T_12,61,ROI_841.png,290165,655,443,0.0,['haddock'],[0.889],[],0,[],{},[]
+T_12,61,ROI_842.png,300354,678,443,0.0,['haddock'],[0.927],[],0,[],{},[]
+T_12,62,ROI_844.png,1296960,1351,960,0.091,[],['NONE'],[0.633],1,[],{0: 'NaN'},['Captain Haddock Requests the pleasure of your company at the opening of the maritime gallery where relics of the royal vessel unicorn are on display R.S.V.P Marlinspike Hall ']
+T_12,62,ROI_845.png,187293,419,447,0.356,"['calculus', 'haddock', 'tintin']","[0.949, 0.941, 0.935]","[0.933, 0.911]",2,"['1', '2']","{0: 'calculus', 1: 'tintin'}","['Ah, yes, your maritime very. good, really first class. ', ""quite, quite. all's well that ends well. '. ""]"
+T_12,62,ROI_846.png,188680,424,445,0.412,"['haddock', 'calculus', 'tintin']","[0.944, 0.916, 0.915]","[0.825, 0.778]",2,"['1', '2']","{0: 'tintin', 1: 'calculus'}","['Thank you, but was only, saying that our adventures had ended well, that they. had come to a happy conclusion. ', 'No, thank you. never. between meals. ']"
+T_12,62,ROI_847.png,216756,486,446,0.377,"['haddock', 'calculus', 'tintin']","[0.959, 0.942, 0.922]","[0.94, 0.87]",2,"['1', '2']","{0: 'calculus', 1: 'haddock'}","['without any doubt!. ', ""but no, blistering barnacles, All's well that ends well.!. all's well that ends well!.... ""]"
+T_12,62,ROI_848.png,194790,453,430,0.253,"['tintin', 'haddock', 'calculus']","[0.928, 0.821, 0.777]",[0.923],1,['1'],{0: 'calculus'},"[""and this is surely the moment to quote. that familiar proverb : ' All's well that ends'well! ""]"
