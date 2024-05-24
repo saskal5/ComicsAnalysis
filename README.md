@@ -28,5 +28,24 @@ PDFs_HQ file contains every panel image from the entire Tintin comic series. For
 |    YOLOv8     |     25        |  2.72h   |  0.867  | 0.982 |  0.991  |  0.847   |
 |    YOLOv9     |     20        |  0.48h   |  0.993  | 0.978 |  0.992  |  0.977   |
 
+</details>
+
+<details>
+<summary>Expression Detection</summary>
+
+All Question Exclamation
+Precision 0.958 0.922 0.995
+Recall 0.917 0.833 1.000
+mAP50 0.978 0.962 0.995
+mAP50-95 0.629 0.624 0.634
+
+
+|     Model     |     Epoch     |   Time   |    P    |   R   |  mAP50  | mAP50-95 |
+| ------------- | ------------- | -------- | ------- | ----- | ------- | -------- |
+|    Precision  |     25        |  3.89h   |  0.974  | 0.987 |  0.991  |  0.888   |
+|    Recall     |     25        |  2.72h   |  0.867  | 0.982 |  0.991  |  0.847   |
+|    mAP50      |     20        |  0.48h   |  0.993  | 0.978 |  0.992  |  0.977   |
+|   mAP50-95    |     20        |  0.48h   |  0.993  | 0.978 |  0.992  |  0.977   |
 
 </details>
+
