@@ -35,12 +35,6 @@ PDFs_HQ file contains every panel image from the entire Tintin comic series. For
 
 The expression dataset was only trained with YOLOv8.
 
-All Question Exclamation
-Precision 0.958 0.922 0.995
-Recall 0.917 0.833 1.000
-mAP50 0.978 0.962 0.995
-mAP50-95 0.629 0.624 0.634
-
 
 |   **Model**      |  **All**    | **Question** | **Exclamation** |   
 | ---------------- | ----------- | ------------ | --------------- | 
