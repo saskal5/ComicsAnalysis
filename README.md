@@ -3,9 +3,6 @@ ComicsAnalysis is a framework which automates the transromation process of comic
 
 ![frm_thesis_diagram_v3](https://github.com/saskal5/ComicsAnalysis/assets/43573699/57d60a37-bc93-461f-9ac5-570125234171)
 
-Some notes
-* PDFs_HQ file contains every panel image from the entire Tintin comic series. For copyright issues they are not provided here.
-
 <details>
 <summary>Main Character Detection</summary>
 
@@ -45,4 +42,7 @@ The expression dataset was only trained with YOLOv8.
 |   **mAP50-95**   |    0.629    |     0.624    |      0.634      |
 
 </details>
+
+Some notes regarding the Python codes
+* PDFs_HQ file contains every panel image from the entire Tintin comic series. For copyright issues they are not provided here.
 
