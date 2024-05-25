@@ -1,9 +1,10 @@
 # ComicsAnalysis
-Automation of comics analysis
+ComicsAnalysis is a framework which automates the transromation process of comic book PDFs to datasets to be analyzed
 
 ![frm_thesis_diagram_v3](https://github.com/saskal5/ComicsAnalysis/assets/43573699/57d60a37-bc93-461f-9ac5-570125234171)
 
-PDFs_HQ file contains every panel image from the entire Tintin comic series. For copyright issues they are not provided here.
+Some notes
+* PDFs_HQ file contains every panel image from the entire Tintin comic series. For copyright issues they are not provided here.
 
 <details>
 <summary>Main Character Detection</summary>
