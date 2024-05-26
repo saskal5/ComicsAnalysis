@@ -1,7 +1,7 @@
 # ComicsAnalysis
 Comics analysis has grown in popularity, but labeling comics is still time-consuming and costly, leading to limited datasets. Deep learning models have been used to detect objects in comics, however they struggle to identify main characters, causing information loss and inadequate large-scale analysis. This study introduces a new framework to automate object identification and large-scale analysis in comic series. The framework involves extensive data collection, identification of panels, characters, speech balloons, and text, and automation of sequential information extraction. Applied to the Tintin series, it uses edge detection and the YOLOv8 model for high-performance character and speech balloon detection, and TrOCR for text recognition, significantly reducing manual labeling efforts.
 
-![0cf5fea4-459f-46e4-bf17-3adf045eaa79](https://github.com/saskal5/ComicsAnalysis/assets/43573699/1c9f9b2e-b467-4f82-9292-4cf1ef078722)
+![comics_analysis_robot](https://github.com/saskal5/ComicsAnalysis/assets/43573699/481b39e0-aaa1-4a20-8ab6-7756448af1f0)
 
 
 ## Table of contents
