@@ -23,7 +23,7 @@ links to roboflow platform
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | 
 |   Main Characters  |                                   [URL](https://universe.roboflow.com/azat/tintin_hq/dataset/3)                                    |
 |   Speech Balloons  |                                   [URL](https://universe.roboflow.com/azat/speech_balloons_hq/3)                                   |
-|     Expression     | [URL1](https://universe.roboflow.com/azat/exclamation-question/1), [URL1](https://universe.roboflow.com/azat/exclamation-question/3) |
+|     Expression     | [URL1](https://universe.roboflow.com/azat/exclamation-question/1) + [URL2](https://universe.roboflow.com/azat/exclamation-question/3) |
 
 
 
