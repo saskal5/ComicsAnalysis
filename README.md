@@ -9,7 +9,9 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
 * [Methodology](#mmethodology)
 
 
-## Methodology
+## Methodology
+
+bla bla bla
 
 ## Model Performances
 
