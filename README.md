@@ -16,9 +16,16 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
 
 Naturally, the first step is the collection of the comic book PDFs which follows panel extraction in which the panel images from each book are stored separately. After this step, the main character, speech balloon and expression datasets are created. With these datasets, YOLOv8 models are trained and these models are used in various operations. The results are evaluated with different techniques and in the final stage of the research, certain analyses are performed.
 
-## Methodology
+## Datasets
 
 links to roboflow platform
+
+[URL](https://universe.roboflow.com/azat/tintin_hq/dataset/3)
+
+[URL](https://universe.roboflow.com/azat/speech_balloons_hq/3)
+
+[URL](https://universe.roboflow.com/azat/exclamation-question/1)
+[URL](https://universe.roboflow.com/azat/exclamation-question/3)
 
 ## Model Performances
 
