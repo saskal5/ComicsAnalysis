@@ -3,6 +3,12 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
 
 ![frm_thesis_diagram_v3](https://github.com/saskal5/ComicsAnalysis/assets/43573699/57d60a37-bc93-461f-9ac5-570125234171)
 
+
+## Table of contents
+* [Model Performances](#general-info)
+
+## Model Performances
+
 <details>
 <summary>Main Character Detection</summary>
 
