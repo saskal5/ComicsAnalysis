@@ -26,16 +26,16 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
 
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td>1</td>
-    <td>2</td>
+    <td>Dataset  </td>
+    <td>See It In Roboflow   </td>
   </tr>
   <tr>
-    <td>3</td>
-    <td>2</td>
+    <td>Main Characters</td>
+    <td>[URL](https://universe.roboflow.com/azat/tintin_hq/dataset/3) </td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>2</td>
+    <td>Speech Balloons</td>
+    <td>[URL](https://universe.roboflow.com/azat/speech_balloons_hq/3)  </td>
   </tr>
 </table>
 
