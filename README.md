@@ -11,9 +11,9 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
 
 ## Methodology
 
-bla bla bla
-
 ![frm_thesis_diagram_v3](https://github.com/saskal5/ComicsAnalysis/assets/43573699/57d60a37-bc93-461f-9ac5-570125234171)
+
+Naturally, the first step is the collection of the comic book PDFs which follows panel extraction in which the panel images from each book are stored separately. After this step, the main character, speech balloon and expression datasets are created. With these datasets, YOLOv8 models are trained and these models are used in various operations. The results are evaluated with different techniques and in the final stage of the research, certain analyses are performed.
 
 ## Model Performances
 
