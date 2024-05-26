@@ -20,15 +20,14 @@ Naturally, the first step is the collection of the comic book PDFs which follows
 
 links to roboflow platform
 
-|       Dataset     |                         See It In Roboflow                     | 
-| ----------------- | -------------------------------------------------------------- | 
-|   Main Character  | [URL](https://universe.roboflow.com/azat/tintin_hq/dataset/3)  |
-|   Speech Balloon  | [URL](https://universe.roboflow.com/azat/speech_balloons_hq/3) |
+|       Dataset      |                                                        See It In Roboflow                                                          | 
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | 
+|   Main Characters  |                                   [URL](https://universe.roboflow.com/azat/tintin_hq/dataset/3)                                    |
+|   Speech Balloons  |                                   [URL](https://universe.roboflow.com/azat/speech_balloons_hq/3)                                   |
+|     Expression     | [URL](https://universe.roboflow.com/azat/exclamation-question/1), [URL](https://universe.roboflow.com/azat/exclamation-question/3) |
 
 
 
-[URL](https://universe.roboflow.com/azat/exclamation-question/1)
-[URL](https://universe.roboflow.com/azat/exclamation-question/3)
 
 ## Model Performances
 
