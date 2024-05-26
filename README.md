@@ -31,9 +31,11 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
   </tr>
   <tr>
     <td>3</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>4</td>
+    <td>2</td>
   </tr>
 </table>
 
