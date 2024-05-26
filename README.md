@@ -17,7 +17,9 @@ Naturally, the first step is the collection of the comic book PDFs which follows
 
 ## Datasets
 
-links to roboflow platform
+In the context of this study, three distinct datasets were prepared. First, a dataset targeting main character detection was constructed. This dataset comprised 32 panels randomly selected from each of the 23 books, ensuring coverage of at least one main character per panel alongside two background panels without any main character. Next, a separate dataset was created specifically for speech balloon detection. In this dataset, 20 random panels featuring at least one speech balloon alongside one random panel without any speech balloon were selected from each book. Finally, a third dataset was devised to target the detection of single exclamation or question marks (onomatopoeia) frequently encountered in the Tintin series, which were mostly undetectable by the text recognition model used. 
+
+All datasets in this study were created on Roboflow platform.
 
 |       Dataset      |                                                        See It In Roboflow                                                          | 
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | 
