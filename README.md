@@ -9,36 +9,6 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
 * [Methodology](#mmethodology)
 * [Datasets](#datasets)
 
-
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>1</td>
-    <td rowspan="3">2</td>
-  </tr>
-  <tr>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>4</td>
-  </tr>
-</table>
-
-
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>Dataset  </td>
-    <td>See It In Roboflow   </td>
-  </tr>
-  <tr>
-    <td>Main Characters</td>
-    <td>[URL](https://universe.roboflow.com/azat/tintin_hq/dataset/3) </td>
-  </tr>
-  <tr>
-    <td>Speech Balloons</td>
-    <td>[URL](https://universe.roboflow.com/azat/speech_balloons_hq/3)  </td>
-  </tr>
-</table>
-
 ## Methodology
 
 ![frm_thesis_diagram_v3](https://github.com/saskal5/ComicsAnalysis/assets/43573699/57d60a37-bc93-461f-9ac5-570125234171)
