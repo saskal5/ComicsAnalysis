@@ -10,6 +10,20 @@ Comics analysis has grown in popularity, but labeling comics is still time-consu
 * [Datasets](#datasets)
 
 
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>1</td>
+    <td rowspan="3">2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+  </tr>
+</table>
+
+
 ## Methodology
 
 ![frm_thesis_diagram_v3](https://github.com/saskal5/ComicsAnalysis/assets/43573699/57d60a37-bc93-461f-9ac5-570125234171)
