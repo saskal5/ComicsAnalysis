@@ -20,6 +20,9 @@ Naturally, the first step is the collection of the comic book PDFs which follows
 <details>
 <summary>Main Character Detection</summary>
 
+**Model 1**
+Trained on the dataset including the first book in the series
+
 
 |     Model     |     Epoch     |   Time   |    P    |   R   |  mAP50  | mAP50-95 |
 | ------------- | ------------- | -------- | ------- | ----- | ------- | -------- |
@@ -27,6 +30,8 @@ Naturally, the first step is the collection of the comic book PDFs which follows
 |    YOLOv8     |     62        |  7.11h   |  0.851  | 0.838 |  0.885  |  0.737   |
 |    YOLOv9     |     50        |  1.69h   |  0.975  | 0.955 |  0.984  |  0.956   |
 
+**Model 2**
+Trained on the dataset excluding the first book in the series
 
 </details>
 
